@@ -13,7 +13,11 @@ Here is a list of To Dos we should address at some point
 * Add information to:
   * Watts Conectedness Scale
   * AGI
+  * Dimensions of the Meditative Experience (DME)
+  * Meditationstiefefragebogen (MTF)
 * Add detailed information on different translations to different languages
 * Offer questionnaires for Download as PDF with nice typesetting (wherever Copyrights allow it)
 * offer Excel Analysis sheets to help avoiding mistakes in the analysis
+
+
 

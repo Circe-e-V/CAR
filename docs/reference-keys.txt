@@ -40,6 +40,5 @@ validation-translations-adaptations-11
 watts-connectedness-scale
 afterglow-inventory-agi
 validation-translations-adaptations-12
-further-instruments
 references
 versions-and-todos

@@ -140,7 +140,7 @@ The PEQ consists of 44 items describing ‘hypnotic-like’ experiences in every
 Response consistency and internal consistency of the PEQ are reported to be high (0.90 to 0.96, p< 0.01, (Shor et al., 1966)). Based on data from London and colleagues (London et al., 1962), test-retest reliability was assessed over a 3-week interval resulting in a reliability coefficient of  0.94, p<0.01  (Shor et al., 1966).
 The PEQ did not find a major dissemination in the literature. It could however form a reference for the development of future studies aiming to establish the relationship between particular trait-personality scores (e.g. frequency of naturally occurring ASC phenomena) and the prediction of a response to a particular induction method for ASCs (e.g. hallucinogens or meditation).
 
-## Assessment Schedule of Altered States for Consciousness (ASACS) <a name="ASASC"></a>
+## Assessment Schedule of Altered States for Consciousness (ASACS) 
 The Assessment Schedule of Altered States of Consciousness (ASASC; original German: Erfassungssystem veränderter Bewusstseinszustände (EVB)) was developed in the context of a research project investigating the aftereffects of NDEs (van Quekelberghe et al., 1992). Whereas ASCs are sometimes described in relation to psychiatric disorders (See Epg Psychopahtology Inventory), van Quekelberghe and colleagues regard these phenomena as common everyday life experiences. As opposed to C. T. Tart’s definition of ASCs as “radically different” state (Tart, 1975), Ludwig’s broad definition as any “sufficient deviation in subjective experience” (Ludwig, 1966) was seen as accounting for this view and constitutes the theoretical basis of this questionnaire (van Quekelberghe et al., 1991).
 By providing a research tool that assesses recalled rather than currently experienced ASCs independent of stimulus and situation, it was intended to survey a wide range of different kinds of ASCs and related phenomena. Moreover, it was explicitly avoided to evaluate these experiences as pathological (van Quekelberghe et al., 1992). In contrast to questionnaires that assess the acute effects of a single experimentally induced ASC, the ASASC addresses frequency and intensity of induced and spontaneously occurring alterations of consciousness across a lifetime (van Quekelberghe et al., 1991). Although including a substantial amount of state-specific items, the ASASC primarily focuses on general dispositions, e.g. to imagination, absorption as well as the experience of parapsychological phenomena.
 Based on Ludwig’s theoretical framework, 14 a priori scales were defined: Personal data (F1) Demographic Data, (A2) Extraordinary Mental Processes, (P3) Parapsychology Experiences, (P4) Parapsychology Attitude, (E5) Esoterics, (M6) Positive Mystic Experiences, (M7) Negative Mystic Experiences, (I8) Imagination, (T9) Dreams, (D10) Dissociation, (H11) Hallucinations, (H12) Hypersensitiveness, (Z13) Changed Feeling of Time and Space, and (C14) Change. Factor analysis and subsequent adjustments finally led to a satisfactory grouping of items resulting in the 325-item ASASC (van Quekelberghe et al., 1992). A 128-item short form of the EVB is available (van Quekelberghe et al., 1992; Yeginer, 2000). An additional short form was developed by extension of the D10 and Z13 scale to provide a flexible, easily adaptable instrument (van Quekelberghe et al., 1991, 1992). Both the English version ASASC-D10 ERW and the German version EVB-D10 ERW include 60 items, which, however, are arranged in different order. The items are clustered in five a priori scales: (1) Suggestibility, (2) Trance, (3) Absorption, (4) Flow, (5) Dissociation (internal, external, body, person). 
@@ -165,20 +165,9 @@ This tool was developed to assess sub-acute effects, as they are commonly report
 ### Validation, Translations, Adaptations
 The construction and validation was carried out in German and English, and both versions will be available upon publication soon. Until now the tool is available only upon request from Tomislav Majic (Charité Universitätsklinikum Berlin, Germany)
 
-## Further instruments 
-Besides the discussed above, please find some additional information and discussion of different questionnaire tools in the following references: 
-* Fort et al. (2024) Classification Schemes of Altered States of Consciousness (Preprint)
-* Yeginer, 2000
-* Passie, 2007
-* Schmidt & Majic (Book chapter - GERMAN)
-* Prugger et al. 2023
-* de Deus Pontual A A, Senhorini H G, Corradi- Webster C M, Tófoli L F, Daldegan-Bueno  D (2022): Systematic Review of Psychometric Instruments Used in Research with Psychedelics, Journal of Psychoactive Drugs, DOI: 10.1080/02791072.2022.2079108
-* Yaden et al. (2024) https://www.nature.com/articles/s44159-024-00345-6
 
-In our research we found the following additional tools, which are worth to note. Some of them might be of historical interest and are not in use anymore, others are designed to assess very specific aspects of ASC experiences:
-* Assessment Schedule for Altered States of Consciousness (ASASC) (Quekelberghe 1991)
-* Dimensions of the Meditative Experience (DME)
-* Meditationstiefefragebogen (MTF)
+
+
 
 
 
