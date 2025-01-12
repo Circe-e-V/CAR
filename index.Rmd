@@ -1,6 +1,6 @@
 --- 
 title: "Consciosuness Assessment Repository"
-author: "Timo Torsten Schmidt, Circe e.V."
+author: "Dr. Timo Torsten Schmidt, Circe e.V."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
@@ -34,7 +34,3 @@ We would like to thank and acknowledge the important contributions of the follow
 Further we would like to thank the following researchers for providing us with furhter information, discussion and feedback on this collection: Maja Maurer, Rick Strassman, Robin Carhart-Harris, Roland J Pekala, Eric Studerus, Frederick Barrett.
 
 
-Citation:
-If you use the resources that are provided here, it would be nice if you could include the following into your publication:
-
-* 

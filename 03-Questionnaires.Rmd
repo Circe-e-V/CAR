@@ -149,6 +149,7 @@ Based on Ludwig’s theoretical framework, 14 a priori scales were defined: Pers
 Initial evaluation of its psychometric features revealed good reliability with Cronbach’s alpha coefficients between 0.80 (E5) and 0.98 (M6). Guttman split-half coefficients ranged between 0.81 (E5, C14) and 0.96 (M6) (van Quekelberghe et al., 1991). 
 The ASASC rather maps stable tendencies of imagination, absorption, and cognitive alterations and is, hence, suitable to assess the natural variability in the normal waking consciousness. However, its use for the assessment of experimentally induced ASCs is limited. Moreover, the reduced number of items in the 128-item short form, e.g. I8 comprises only 5 items, affects its reliability and thus the comparability to the 325-item version. Consequently, this questionnaire does not meet the requirements for a meta-analytical approach.
 
+
 ## Challenging Experience Questionnaire (CEQ)
 Literature review of both experimental and clinical reports indicates that the phenomenology of ASCs induced by the administration of classic hallucinogens potentially involves unpleasant experiences which might occur even in carefully prepared and supportive environments (Barrett et al., 2016).  Based on three of the most frequently applied questionnaires – the HRS, the 5D-ASC, and the SOCQ – the Challenging Experience Questionnaire (CEQ) was designed to provide a tool for the comprehensive assessment of acute negative effects that will benefit research into their predictors and consequences (Barrett et al., 2016). The conceptual scope of the 26-item CEQ is informed by literature on psychological and physical distress following hallucinogen intake and covers a variety of adverse cognitive, affective, and somatic reactions which are clustered into seven distinct dimensions of challenging experiences: (1) Grief, (2) Fear, (3) Death, (4) Insanity, (5) Isolation, (6) Physical Distress, and (7) Paranoia (Barrett et al. 2017). Analyzing data from an online survey on negative experiences with psilocybin, corresponding scales for the first six dimension were derived by exploratory factor analysis, complemented by the Paranoia scale, and subsequently validated through confirmatory factor analysis (Barrett et al., 2016). Items are rated on a 6-point scale adopted from the SOCQ.
 
@@ -156,21 +157,19 @@ Literature review of both experimental and clinical reports indicates that the p
 Since the CEQ was only recently developed, a systematic evaluation of its psychometric properties has not been conducted yet. However, confirmatory analyses performed on two separate samples revealed an acceptable model fit, suggesting internal validity of the CEQ model (Barrett et al., 2016). Reliability was assessed by Cronbach’s alpha, yielding good internal consistency estimates in the range of 0.65 (Paranoia) to 0.89 (Fear).  
 Similar to the PSI, the CEQ was designed as a single questionnaire focusing on acute negative effects. In contrast to the PSI, however, it covers a wide spectrum of aversive reactions that is not limited to effects typical of psychosis-like states. Moreover, the CEQ enables the fine-grained assessment of distinct dimensions and their relative intensity, thereby allowing for the generation of a multi-dimensional pattern description. Considering that the control of acute negative effects is desirable and that the subsequent integration of the experience is fundamental to therapeutic outcomes (Majic et al., 2015), the CEQ provides a valuable tool for further studies of adverse reactions to classic hallucinogens. To date, the CEQ was, however, only applied with psilocybin and not along with neuroimaging studies. Further research is, thus, required to demonstrate its sensitivity to other hallucinogens and suitability within neuroimaging studies. In advancing the vital understanding of underlying mechanisms that pinpoint stressful experiences, a translation of the CEQ, originally developed in English, into other languages will foster its application.
 
+
+
 ## Watts Connectedness Scale
 While it has become less common in the last decades to name a questionnaire according to a specific author, it appears that Rosalyn Watts wanted to have visibility for her last name. As this is uncommon we expect that many authors will choose to call the questionnaire simply “Connectedness Scale”. We will soon add a summary and assessment of this tool here.
 
+
+
+
 ## Afterglow Inventory (AGI)
-This tool was developed to assess sub-acute effects, as they are commonly reported for 2-4 weeks after the use of psychedelics. The tool might become a new standard in clinical trials and might also find its application
+This tool was developed to assess sub-acute effects, as they are commonly reported 2-4 weeks after the use of psychedelics. To read more on subacute phenomena and the afterglow phenomenon we recommend reading: (Majic et al. 2015; Evans et al. 2024). The tool has been validated in German and English and is designed to allow a quantitative comparison of afterglow phenomena after diverse ASCs. While the concept of a "afterglow" stems from the literature on psychedelics, the tool is not limited to the use for psychedelic afterglow phenomena and has also been used already with non-pharmacological methods such as Flotation (Preprint by Marc Wittmann 2024).
+The questionnaire and validation has been published by Majic et al. (https://osf.io/s6bzc)
 
 ### Validation, Translations, Adaptations
 The construction and validation was carried out in German and English, and both versions will be available upon publication soon. Until now the tool is available only upon request from Tomislav Majic (Charité Universitätsklinikum Berlin, Germany)
-
-
-
-
-
-
-
-
 
 
