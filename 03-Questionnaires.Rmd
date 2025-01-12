@@ -161,7 +161,7 @@ Similar to the PSI, the CEQ was designed as a single questionnaire focusing on a
 
 ## Watts Connectedness Scale
 While it has become less common in the last decades to name a questionnaire according to a specific author, it appears that Rosalyn Watts wanted to have visibility for her last name. As this is uncommon we expect that many authors will choose to call the questionnaire simply “Connectedness Scale”. We will soon add a summary and assessment of this tool here.
-
+Reference: https://link.springer.com/article/10.1007/s00213-022-06187-5 
 
 
 
