@@ -1,0 +1,16 @@
+
+# ToDos 
+
+In this section we collect tasks that need to be done to add material and give workovers
+
+* Check out and add: 
+ https://www.nature.com/articles/s41598-022-23056-5
+  https://journals.sagepub.com/doi/10.1177/02698811231199112
+* Give Reference list a workover: Check completeness & change to  Bibtex Format
+* Fill the missing information in Table 1
+* Add informaiton to
+* Watts Connectedness Scale
+* AGI
+* Add detailed information on different translations to different languages
+* Offer questionnaires for Download as PDF with nice typesetting
+

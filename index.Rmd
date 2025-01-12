@@ -5,30 +5,21 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Overview
+# Welcome
 
-Multiple questionnaires have been developed to quantify the phenomenology of ASCs. Here, we provide an overview on available psychometric tools, their conceptual background and construction, and validation. Some questionnaires were designed to cover a broad range of different experiences (e.g. the Altered States of Consciousness Rating scale), others are designed to assess specific ASC phenomena (e.g. the Watts Connectedness Scale), and others were designed to assess the phenomena induced by a specific consciousness modifying technique (CMT). Based on their scope and on and prevalence in previous research, we aim to provide aid to decide which questionnaire can be best for a specific study. We discuss the tools in approximate order of prevalence/popularity.
-Table 1 gives an overview of the questionnaires in this collection, including some of their basic properties and key references. The most recent (and recommended version) is marked in bold. We included where currently new versions are under development. 
+Welcome to this project of CIRCE e.V. - Collaboration for Research on Conscious Experiences.
+We are a collective of researchers who aim to promote research on Altered States of Consciousness (ASC). In this collection of resources, we gather information on questionnaire tools to assess subjective experiences during ASCs. Currently, we have set it up as a bookdwon (gitbook), as this document will undergo continous updates. We call it a "repository" as we plan to supplement the gitbook with different usable versions of the given questionnaires and helpful analysis tools. This might include printable PDFs of the questionnaires and digital versions (e.g. implemenations in different programming languages), as well as analysis tools (e.g. Excel sheets).
 
-| Questionnaire  | Version | # items  | # scales | response format 
-|-----------|-----------|-----------|-----------|-----------|
-| Altered States of Consciousness Rating Scale  | APZ <br /> OAV <br /> 5D-ASC <br /> 11-ASC <br /> 11-ASC(AXP) | 72 <br /> 66 <br /> 94 <br /> 42 <br /> 22 | 3 (FA) <br /> 3(FA) <br /> 5(FA) <br /> 11(FA)<br /> 11  | Yes/No <br /> VAS <br /> VAS <br /> VAS <br /> VAS |
-| Phenomenology of Consciousness Inventory | PCI | 53 | 12+14(FA)  | 7-point |
-| Addiction Research Center Inventory | ARCI long-form <br /> ARCI short-form | 550 <br /> 49 | 38 <br /> 5 | Yes/No <br /> Yes/No |
-| Hallucinogenic Rating Scale | HRS | 126 | 6(FA)  | 5-point |
-| Mystical Experience Questionnaire | MEQ <br />  MEQ30 <br /> MEQ-4 <br /> SOCQ <br /> PEQ | 130 <br /> 30 <br />  4 <br /> 100 <br /> 89 | 8+9  <br />  4(FA) <br /> 4 <br />7 <br /> 8 | 5-point <br /> 5-point <br /> 5-point <br /> 6-point <br /> 6,7,8-point|
-| Psychometric States Inventory | PSI | 48 | 6(FA)  | 4-point |
-| Ego-Dissolution Inventory | EDI | 16 | 2(FA)  | VAS |
-| Abramson Questionnaire  | AQ |  |  |  |
-| Linton & Lang Questionnaire | LLQ |  |  |  |
-| Near-Death Experience Scale | NDE |  |  |  |
-| The Mysticism Scale | M-Scale |  |  |  |
-| Personal Experience Questionnaire | PEQ |  |  |  |
-| Assessment Schedule for Altered States of Consciousness | ASACS |  |  |  |
-| Challenging Experience Questionnaire | CEQ |  |  |  |
-| Watts Connectedness Scale |  |  |  |  |
-| Afterglow Inventory | AGI |  |  |  |
+If you are intereste to contribute to this collection, you can get in touch with the CIRCE team - in particular with Timo T. Schmidt who is currently the main responsible person for this collection.
 
-__Table 1__ Overview of the most commong questionnaires and their versions that ase used to assess ASC phenomena in current research. VAS: Visual Analog Scale; FA: Factor Analysis
+This collection is published under CC-BY 4.0
 
-Please also find a slide deck of the workshop [The Empirical Study of Altered States of Consciousness](https://www.researchgate.net/publication/382366098_The_Empirical_Study_of_Altered_States_of_Consciousness_ASSC_Tutorial) (2024) given at the ASSC conference by Dr. Timo Torsten Schmidt, Larry Fort and Cyril Costines on ResearchGate. This workshop includes a conceptual overview and additional suggestions and information for empirical research. 
+Last update 2025-01-12 (TTS).
+
+
+Acknowledgement: 
+
+The information in this section were collected over multiple years and many people contributed in different ways. Within two study projects in 2017-18 within teaching activities in the MSc program Cognitive Science at the Institute for Cognitive Science at the University of Osnabrück inital information on questionnaires was collected. These study projects were led by Dr. Timo Torsten Schmidt together with Dr. Axel Kohler and Dr. Uwe Friese. After completion of these study projects, several students from different institutions contributed to the collection within internships, labrotations and similar research related activities. 
+It was initially planned to publish an overview article and a corresponding manuscript was submitted to a journal. The editor of the journal advised to find a different format for publication and we agree that the accumulated collection of questionnaires (+corresponding background information) will be better accessible in a fully openly access format, which can regularily updated. 
+We would like to thank and acknowledge the important contributions of the following people (some of them planned as authors on the intended research article): Katharina Dworatzyk, Ada Drochner, Michal Ljubljanac, Artur Czeszumski, Chiara Carrera, Aliona Cerednicenco, Aalia Nosheen, Philipp Kuhnke, Eelke de Vries, Hendrik Berkemeyer, Renato Garita Figueiredo, Nisha Jagannathan, J Jang, A Kesfhava, J Schott, O Vakhovska, MC Vargas Rivero, Ann Xavier (We hope that we did not forget anyone - otherwise please let us know).
+Further we would like to thank the following researchers for providing us with furhter information, discussion and feedback on this collection: Maja Maurer, Rick Strassman, Robin Carhart-Harris, Roland J Pekala, Eric Studerus, Frederick Barrett.
