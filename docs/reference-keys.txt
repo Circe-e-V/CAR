@@ -41,6 +41,5 @@ watts-connectedness-scale
 afterglow-inventory-agi
 validation-translations-adaptations-12
 further-instruments
-qualitative-research
 references
-todos
+versions-and-todos
