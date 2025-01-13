@@ -1,23 +1,25 @@
 
-# Versions and ToDos
+# ToDo's {-}
 
-Last update 2025-01-12 (TTS)
+Here is a list of ToDo's in this book project:
 
-Here is a list of To Dos we should address at some point
-
-* Check out and add: 
+* Check out and potentially add: 
   * https://www.nature.com/articles/s41598-022-23056-5
-  * https://journals.sagepub.com/doi/10.1177/02698811231199112
-* Give Reference list a workover: Check completeness & change to Bibtex Format
+  * Stocker et al. 2023 https://journals.sagepub.com/doi/10.1177/02698811231199112
+* Workover for Referencses: Check completeness & change to Bibtex Format
 * Fill the missing information in Table 1
-* Add information to:
+* Write sections on:
+  * EBI
+  * Wave
+  * Psychological Insight Questionnaire
+  * Dimensions of the Meditative Experience (DME)
+  * Meditationstiefefragebogen (MTF)  
+* Add information to / give workover of writing:
   * Watts Conectedness Scale
   * AGI
-  * Dimensions of the Meditative Experience (DME)
-  * Meditationstiefefragebogen (MTF)
 * Add detailed information on different translations to different languages
-* Offer questionnaires for Download as PDF with nice typesetting (wherever Copyrights allow it)
-* offer Excel Analysis sheets to help avoiding mistakes in the analysis
+* Add questionnaires for download as PDF with nice typesetting (wherever Copyrights allow it)
+* Add Excel analysis sheets to help avoiding mistakes in the analysis
 
 
 

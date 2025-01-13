@@ -1,5 +1,11 @@
 # Questionnaires
 
+In this chapter we will discuss questionnaires which are designed to quantitatively assess altered states experiences. Some of them aim to cover the whole spectrum of ASC experiences, others focus specific features of ASC experiences, such as ego dissolution or connectedness.
+In every section we try to summarize the background and history of questionnaire construction. Some of the questionnaires have undergone multiple revisions and developments and different names were used to refer to them. We aim to explain which name is used for what version of the questionnaire. In addition we try to collect information on existing translations and validations in different languages. 
+Further we try to collect information on Copyrights, where available and where it applies. In the future we also aim to provide the original questionnaires and analysis sheets.
+
+The order in which we discuss the questionnaires in this chapter approximately represents the prevalence of use of the questionnaire, based on the number of datasets in The Altered States Database (www.asdb.info; See also the most recent update by Dewitt et al. 2024)
+
 ## Altered States of Consciousness Rating Scales (ASC-R)
 The currently used version(s) of the Altered States of Consciousness Rating Scale (ASC-R) (Dittrich et al., 2006, 2010) originated from two former versions and was originally developed in German. The ASC-R has become the most frequently used psychometric tools in the assessment of ASC phenomena. The development of the scale followed the assumption that ASCs have a common core that is independent of the particular induction method (ethiology-independent dimensions of altered states). Therefore, in contrast to other instruments, the ASC-R is supposed to investigate characteristics of ASCs that are invariant across various methods to induce ASCs, including both pharmacological (e.g., psilocybin, ketamine, DMT, MDMA) and non-pharmacological induction methods (e.g., sensory deprivation, hypnosis, autogenic training). However, it is noticeable in the item selection, that the original authors had a research focus on the effects of psychedelics. Over the course of more than 30 years, the questionnaire underwent several refinements. Due to a lack of systematic curation, there is currently different versions in use and confusion about how to analyze them and present results. To support future research we summarize the history of the questionnaire with its different versions and point to unfortunate ambiguities in how data is currently reported.
 
@@ -171,5 +177,15 @@ The questionnaire and validation has been published by Majic et al. (https://osf
 
 ### Validation, Translations, Adaptations
 The construction and validation was carried out in German and English, and both versions will be available upon publication soon. Until now the tool is available only upon request from Tomislav Majic (Charité Universitätsklinikum Berlin, Germany)
+
+## Emotional Breakthrough Inventory (EBI)
+Roseman et al. (2019)
+
+
+## Wave
+Oña et al. (2020) (spanish)
+
+## Psychological Insight Questionnaire
+Griffiths et al. (2021)
 
 

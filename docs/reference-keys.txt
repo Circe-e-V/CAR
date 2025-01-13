@@ -1,4 +1,4 @@
-welcome
+introduction
 overview
 questionnaires
 altered-states-of-consciousness-rating-scales-asc-r
@@ -40,5 +40,6 @@ validation-translations-adaptations-11
 watts-connectedness-scale
 afterglow-inventory-agi
 validation-translations-adaptations-12
-references
-versions-and-todos
+emotional-breakthrough-inventory-ebi
+wave
+psychological-insight-questionnaire
