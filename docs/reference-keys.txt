@@ -21,7 +21,7 @@ ego-dissolution-inventory-edi
 emotional-breakthrough-inventory-ebi
 challenging-experience-questionnaire-ceq
 ceq-7
-watts-connectedness-scale
+watts-connectedness-scale-wcs
 afterglow-inventory-agi
 psychotomimetic-states-inventory-psi
 abramson-questionnaire-aq
