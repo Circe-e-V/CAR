@@ -16,25 +16,35 @@ We further compiled a extensive review article on "Classification Schemes of Alt
 Multiple questionnaires have been developed to quantify the phenomenology of ASCs. Here, we provide an overview on available psychometric tools, their conceptual background and construction, and validation. Some questionnaires were designed to cover a broad range of different experiences (e.g. the Altered States of Consciousness Rating scale), others are designed to assess specific ASC phenomena (e.g. the Watts Connectedness Scale), and others were designed to assess the phenomena induced by a specific consciousness modifying technique (CMT). Based on their scope and on and prevalence in previous research, we aim to provide aid to decide which questionnaire can be best for a specific study. We discuss the tools in approximate order of prevalence/popularity.
 Table 1 gives an overview of the questionnaires in this collection, including some of their basic properties and key references. The most recent (and recommended version) is marked in bold. Wherever available, we included information on new versions under current development (let us know if you know about more).
 
+
 | Questionnaire  | Version | # items  | # scales | response format 
 |-----------|-----------|-----------|-----------|-----------|
 | Altered States of Consciousness Rating Scale  | APZ <br /> OAV <br /> 5D-ASC <br /> 11-ASC <br /> 11-ASC(AXP) | 72 <br /> 66 <br /> 94 <br /> 42 <br /> 22 | 3 (FA) <br /> 3(FA) <br /> 5(FA) <br /> 11(FA)<br /> 11  | Yes/No <br /> VAS <br /> VAS <br /> VAS <br /> VAS |
 | Phenomenology of Consciousness Inventory | PCI | 53 | 12+14(FA)  | 7-point |
 | Addiction Research Center Inventory | ARCI long-form <br /> ARCI short-form | 550 <br /> 49 | 38 <br /> 5 | Yes/No <br /> Yes/No |
 | Hallucinogenic Rating Scale | HRS | 126 | 6(FA)  | 5-point |
-| Mystical Experience Questionnaire | MEQ <br />  MEQ30 <br /> MEQ-4 <br /> SOCQ <br /> PEQ | 130 <br /> 30 <br />  4 <br /> 100 <br /> 89 | 8+9  <br />  4(FA) <br /> 4 <br />7 <br /> 8 | 5-point <br /> 5-point <br /> 5-point <br /> 6-point <br /> 6,7,8-point|
-| Psychometric States Inventory | PSI | 48 | 6(FA)  | 4-point |
-| Ego-Dissolution Inventory | EDI | 16 | 2(FA)  | VAS |
-| Abramson Questionnaire  | AQ |  |  |  |
-| Linton & Lang Questionnaire | LLQ |  |  |  |
-| Near-Death Experience Scale | NDE |  |  |  |
-| The Mysticism Scale | M-Scale |  |  |  |
-| Personal Experience Questionnaire | PEQ |  |  |  |
-| Assessment Schedule for Altered States of Consciousness | ASACS |  |  |  |
-| Challenging Experience Questionnaire | CEQ |  |  |  |
-| Watts Connectedness Scale |  |  |  |  |
-| Afterglow Inventory | AGI |  |  |  |
+| Mystical Experience Questionnaire | MEQ <br />  MEQ30 <br /> MEQ-4 <br /> SOCQ <br /> PEQ | 130 <br /> 30 <br />  4 <br /> 100 <br /> 89 | 8+9  <br />  4(FA) <br /> 4 <br />7 <br /> 8 | 6-point <br /> 6-point <br /> 6-point <br /> 6-point <br /> 6,7,8-point|
+| Ego-Dissolution Inventory | EDI | 8 | 1 | VAS |
+| Emotional Breakthrough Inventory | EBI | 6 | 1 | VAS |
+| Challenging Experience Questionnaire | CEQ <br />  CEQ-7 | 26 <br /> 7 <br />  |  7 <br /> 7 <br /> |  6-point <br /> 6-point <br />  |
+| Afterglow Inventory | AGI | 24 | 5 | VAS |
 
-__Table 1__ Overview of the most commong questionnaires and their versions that ase used to assess ASC phenomena in current research. VAS: Visual Analog Scale; FA: Factor Analysis
+__Table 1__ Overview of the most popular questionnaires and their versions that are used to assess ASC phenomena in current research. VAS: Visual Analog Scale; FA: Factor Analysis
+
+
+
+
+[//]: | Questionnaire  | Version | # items  | # scales | response format 
+[//]: |-----------|-----------|-----------|-----------|-----------|
+[//]: | Watts Connectedness Scale |  |  |  |  |
+[//]: | Psychometric States Inventory | PSI | 48 | 6(FA)  | 4-point |
+[//]: | Abramson Questionnaire  | AQ |  |  |  |
+[//]: | Linton & Lang Questionnaire | LLQ |  |  |  |
+[//]: | Near-Death Experience Scale | NDE |  |  |  |
+[//]: | The Mysticism Scale | M-Scale |  |  |  |
+[//]: | Personal Experience Questionnaire | PEQ |  |  |  |
+[//]: | Assessment Schedule for Altered States of Consciousness | ASACS |  |  |  |
+
+[//]: __Table 2__ Overview of additional questionnaires. VAS: Visual Analog Scale; FA: Factor Analysis
 
 

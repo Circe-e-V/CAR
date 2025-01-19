@@ -9,15 +9,14 @@ Here is a list of ToDo's in this book project:
 * Workover for Referencses: Check completeness & change to Bibtex Format
 * Fill the missing information in Table 1
 * Write sections on:
-  * EBI
   * Wave
+ * Watts Conectedness Scale
   * Psychological Insight Questionnaire
   * Dimensions of the Meditative Experience (DME)
   * Meditationstiefefragebogen (MTF)  
-* Add information to / give workover of writing:
-  * Watts Conectedness Scale
-  * AGI
-* Add detailed information on different translations to different languages
+  
+* Add detailed information on different translations to different languages (also to the overview table, including references)
+
 * Add questionnaires for download as PDF with nice typesetting (wherever Copyrights allow it)
 * Add Excel analysis sheets to help avoiding mistakes in the analysis
 

@@ -43,7 +43,6 @@ A current trend in the field is to develop short and ultra-short version of ques
 The Phenomenology of Consciousness Inventory (PCI) (Pekala, 1982, 1991) was developed in the context of an interdisciplinary approach that is described as empirical-phenomenological (Pekala, 1991). Most notably influenced by C. T. Tart’s (1975) conception of ASCs, it is hypothesized that different states are characterized by distinct structures and patterns of subjective experiences (Pekala, 1991). The subjective experience of a certain state can be characterized based on phenomenologically well-defined dimensions which can be quantified in terms of their intensity. The resulting pattern is assumed to be typical of a specific induction method and can be observed consistently whenever this method is applied.
 The PCI is a self-report questionnaire that is completed in retrospect, after acute ASC effects have subsided. Originating from three previous versions, the Phenomenology of Consciousness Questionnaire (PCQ), the (Abbreviated) Dimensions of Consciousness Questionnaire ((A)DCQ), and the Pre-PCI, the most recent version of the PCI is available in two different versions. Form 1 and Form 2 contain the same number of items, which are, however, arranged in a different order. The items of the PCI are presented as two opposing statements located on the two poles of a 7-point Likert scale. The statements address 12 major dimensions, five being further subdivided into more specific sub-dimensions: (1) Altered State of Awareness, (2) Altered Experience (Altered Body Image, Altered Time Sense, Altered Perception, Altered Meaning), (3) Volitional Control, (4) Self-awareness, (5) Rationality, (6) Internal Dialogue, (7) Positive Affect (Joy, Sexual Excitement, Love), (8) Negative Affect (Anger, Sadness, Fear), (9) Imagery (Amount, Vividness), (10) Attention (Direction, Absorption), (11) Memory and (12) Arousal. Corresponding scales were constructed on the basis of several cluster and factor analyses. 
 
-### Validation, Translations, Adaptations
 Several studies were conducted in order to evaluate the PCI’s quality in terms of validity and reliability. Assessments of the English PCI under different stimulus conditions (Pekala, 1991) demonstrate good overall internal consistency with an average Cronbach’s alpha ranging from of 0.75 to 0.83 for major  dimensions. Evidence for the PCI’s good validity is given by the comparison with the Dimensions of Attention Questionnaire (DAQ) (0.69< r <0.78) (Pekala, 1991) and the prediction of hypnotic susceptibility as measured with the Harvard Group Scale of Hypnotic Susceptibility (HGSHS) on the basis of the PCI’s major dimensions; e.g. significant correlation (r=0.64, p<0.05) of predicted and actual HGSHS scores using the regression coefficients from a previous study (Pekala, 1995). In the scope of a diploma thesis Rux (2002) evaluated the German version of the PCI. The reliability assessment yielded a medium internal consistency for all scales with alpha coefficients being lowest for Love (0.37) and highest for Altered State of Internal Dialogue (0.86) and an average alpha of 0.69. 
 The original version of the PCI was translated from English into German by Ott and subsequently authorized by Pekala (Rux, 2002). An Excel sheet, available from the questionnaire’s author upon request, allows for an automatic computation of item and factor scores.
 In summary, this broad questionnaire allows for a quite fine-grained assessment due to its 12 major and 14 minor scales. However, it should be considered that the PCI was designed with a focus on hypnosis and has primarily been applied in studies investigating effects of hypnosis, meditation, and related induction methods like shamanic-journeying or stress management techniques. Its administration in pharmacological studies is rather rare.
@@ -53,14 +52,12 @@ The ARCI has been developed by Haertzen et al. (1963) in the attempt to measure 
 To diagnostically differentiate between states, Haertzen and colleagues developed multiple scales to dissociate specific drug intoxications as well as psychiatric conditions (Hill et al., 1963a, 1963b; Haertzen, 1974). A final 38-scales scoring system for the 550-item long form of the ARCI was established (Haertzen, 1974). Amon those various empirical scales were derived with a focus on state-specific effects (Haertzen, 1974).
 As the ARCI was not necessarily intended to be applied in its entirety, many studies used only some scales relevant to their specific hypotheses (e.g. (Jasinski et al., 1971)). The most established short form developed by Martin et al. (1971) consists of 49 items that are clustered into five group variability scales: the Benzedrine scale (BG), the Lysergic Acid Diethylamide scale (LSD), the Morphine-Benzedrine and (MBG), and the Pentobarbital-Chlorpromazine-Alcohol scale (PCAG) of the ARCI long form supplemented with the empirically derived 11-item Amphetamine scale (A). Among the plurality of short forms is this the most commonly used questionnaire in current studies (e.g.(Griffiths et al., 2006; Schmid et al., 2015)).
 
-### Validation, Translations, Adaptations
 Reliability assessments in five sample populations (criminals, addicts, alcoholics, mentally ill patients, normal population) yielded Kuder-Richardson KR-20 scores for each of the 38 scales (Haertzen, 1970). As the internal consistency demonstrated a large range from 0.06 (Marijuana scale in normal population) to 0.97 (Reactivity in alcoholic sample), the utility of some scales appears rather questionable. In addition, test-retest reliability was assessed (Haertzen, 1970). Several further studies evaluated the psychometric properties of the short form in different languages (Lamas et al., 1994; Arasteh et al., 1999; Riba et al., 2001). Acceptable reliability coefficients are particularly obtained for the Spanish version.
 Both long and short form have been translated and validated from English into multiple languages: long form: German, French, Spanish, Swedish (Haertzen, 1974); short form: Spanish (Lamas et al., 1994; Arasteh et al., 1999), French (Warot et al., 1997). Through its availability in different languages, the ARCI was a common instrument to measure drug effects both in clinical settings and experimental research, e.g. including studies on ayahuasca (Riba et al., 2001). As the long form is very time-demanding, the short form (Martin et al., 1971) is more feasible. In particular, its Spanish translation (Lamas et al., 1994) found wide-spread application and has been assessed in terms of psychometric features. However, a recent exploratory factor analysis performed on data from 158 ayahuasca practitioners suggests a three-factor (Euphoria, Activation, Sedation) structure comprising only 18 of the 49 items (Bouso et al., 2016). Another limitation is the application of a dichotomous response format. The use of categorical responses instead of individual intensity ratings precludes any correlational analysis, which is, however, often required in experimental research to establish direct relations between the subjective experience and physiologic measures. 
 
 ## Hallucinogen Rating Scale (HRS)
 Originally developed to quantify acute effects of synthetic dimethyltryptamine (DMT) (Strassman et al., 1994), the HRS has become a frequently used instrument in the assessment of hallucinogen induced ASCs (DMT/ayahuasca: (Riba et al., 2004); psilocybin: (Griffiths et al., 2006); ketamine: (Bowdle et al., 1998); salvinorin A: (MacLean et al., 2011)). The initial construction of this questionnaire was based on systematic interviews with 19 experienced hallucinogen users, describing the effects of smoked DMT freebase. Effects specifically induced by DMT as well as characteristic effects of hallucinogenic substances in general were supposed to be covered by the resulting collection of items (Strassman et al., 1994). The HRS measures six conceptually distinct dimensions of ASCs which were a priori defined and referred to as “clinical clusters”: (1) Somaesthesia: interoceptive, visceral, and cutaneous/tactile effects, (2) Affect: emotional/affective responses, (3) Perception: visual, auditory, gustatory, and olfactory experiences, (4) Cognition: alterations in thought processes or content, (5) Volition: a change in capacity to willfully interact with oneself, the environment, or certain aspects of the experience, and (6) Intensity: the overall strength and the course of the experience (Strassman et al., 1994). Revision and refinement of early versions finally resulted in the HRS 3.06 as the most recent version (available from the questionnaire’s author upon request), containing 100 statements, most of which are rated on a 5-point scale.
 
-### Validation, Translations, Adaptations
 Application of a Spanish version of the HRS, assessing the effects of ayahuasca immediately after the ASC experiences, and its comparison with the ARCI short-form, confirmed the HRS’s sensitivity to prolonged alterations in consciousness caused by oral rather than intravenous DMT administration (Riba et al., 2001). Further studies explored and demonstrated its suitability for quantifying the effects of other psychoactive substances like psilocybin (Gouzoulis-Mayfrank et al., 1999; Griffiths et al., 2006), ketamine (Bowdle et al., 1998), MDE and methamphetamine (Gouzoulis-Mayfrank et al., 1999), MDMA (Tancer and Johanson, 2007), and salvinorin A (Johnson et al., 2011). Reliability assessments indicate a good internal consistency of the Affect, Somaesthesia, Cognition, and Perception scale and a comparison with the ARCI LSD scale revealed a moderate correlation with the Perception scale (r=0.28, p<0.05), and the Somaesthesia scale (r=0.33, p<0.05), respectively, suggesting acceptable convergent validity (Riba et al., 2001). 
 The initial assignment of items to six “clinical clusters” has repeatedly been challenged. An initial principle component analysis (Strassman et al., 1994) did not reflect the a priori assignment. Riba et al. (2001) proposed a solution where 71 items are assigned to six factors and data by Bouso et al. (2016) suggests a substantially different distribution of 59 items in six factors.
 The HRS has been translated from English into Spanish, Portuguese, Italian, German, and Russian (Strassman, 1994) thereby demonstrating its wide acceptance. Though not validated in all languages, the HRS appears to be a suitable psychometric tool that covers a wide range of cognitive, affective, and perceptual phenomena occurring with pharmacologically-induced ASCs and allows with its additional categorical items for a distinct mapping of the direction of phenomenological changes. While factorial analysis of its structure propose substantial modifications (Riba et al., 2001; Bouso et al., 2016), it has to be emphasized that the huge variety of drugs’ effects assessed by the HRS is only comparable to the ARCI and the 5D-ASC. However, application with non-pharmacological induction methods has not been reported yet. Therefore, and due to its development in the context of effects typical of DMT, the HRS can currently be recommended only for supplementary use in studies investigating ASCs induced by hallucinogens and related substances. To date, it constitutes one of the best sources to compare the effects of psychoactive substances, however, does not contribute to comparisons to non-pharmacologically induced ASCs. Its suitability to map such states remains an open question for future studies.
@@ -76,9 +73,16 @@ The SOCQ is followed by the Persisting Effects Questionnaire (PEQ) which assesse
 
 ### MEQ30
 The most recent version is the MEQ30 (MacLean et al., 2012), a condensed version of the MEQ with empirical scales. Using the SOCQ as a starting point, MacLean and colleagues conducted exploratory and confirmatory factor analyses on two large independent samples from online surveys. As a result, thirteen of the 43 items were excluded and an underlying factor structure was revealed with the following four dimensions: (1) Sacredness, (2) Positive Mood, (3) Transcendence of Time/Space, and (4) Ineffability. This factor structure was replicated analyzing pooled data from five experimental studies (Barrett et al., 2015), and is therefore recommended for future studies. An alternative two-factor structure (Mystical Ecstasy, Transdimensionality) was recently proposed but not further validated (Bouso et al., 2016).
+The items are rated on a 6-point scale: 0 = ‘‘none; not atall,’’ 1 = ‘‘so slight cannot decide,’’ 2 = ‘‘slight,’’3 = ‘‘moderate,’’ 4 = ‘‘strong,’’ and 5 = ‘‘extreme’’
 
 ### MEQ-4
-Recently an ultra-short version of the MEQ was presented, with only one item per scale (REF).
+Recently, Strickland et al. (2024, https://doi.org/10.1089/psymed.2023.0046) introduced a short version of the MEQ, which simply used the names of the  scales of the MEQ-30 as items, rated on a 6-point scale (same scale as for the shor version of the CEQ, called CEQ-7):
+
+* Sense of oneness, insights into ultimate reality, or sacredness
+* positive mood
+* Transcendence of time and space
+* Ineffability (i.e. incapable of being expressed or described in words)
+
 
 ### Validation, Translations, Adaptations
 The original MEQ has been used for several decades but its psychometric properties have never been assessed systematically. More than twenty years after the ‘Good Friday Experiment’, the participants were asked to complete the follow-up questionnaire again (Doblin, 1991). Results indicated that the average scores of the main dimensions had not changed drastically over time, thereby suggesting the MEQ’s reliability. Moreover, mean scores on all subscales were significantly higher in the experimental group compared to the control group, supporting the questionnaire's discriminant validity.
@@ -86,28 +90,136 @@ The MEQ30 was assessed regarding reliability and validity by MacLean et al., (20
 Currently, the MEQ30 is the best established instruments to quantify mystical/spiritual/religious experiences. 
 In particular, clinical studies on the therapeutic potential of psychedelics use the MEQ30 (Majic et al., 2015). 
 
+## Ego-Dissolution Inventory (EDI)
+The phenomenon of ‘ego-dissolution’ is a substantial aspect of ASCs induced by psychedelic substances (Lebedev et al., 2015; Tagliazucchi et al., 2016) and ‘mystical experiences’ following religious rites (MacLean et al., 2012) or sensory deprivation in flotation tanks (Kjellgren et al., 2009). ‘Ego-dissolution’ is defined as derealization and depersonalization, which can be experienced as positive and negative. As a removal of boundaries between self and surroundings and feeling of all-embracing unity, ‘ego-dissolution’ is discussed in the context of psychosis (Scharfetter, 1981) as well as psychotherapy (Majic et al., 2015). The Ego-Dissolution Inventory (EDI) was designed as unidimensional assessment of this phenomenon (Nour et al., 2016). The questionnaire comprises eight items covering both ‘ego-dissolution’ which are rated on a VAS, corresponding to the response format of the 11-ASC (Nour et al., 2016):
+
+* I experienced a dissolution of my "self" or ego
+* I felt at one with the universe
+* I feld a sense of union with others
+* I experienced a decrease in my sense of self-importance
+* I experienced a disintegration of my "self" or ego
+* I felt far less absorbed by my own issues and concerns
+* I lost all sense of ego
+* All notion of self and identity dissolved away
+
+In the validation study additional eight items were included to assess the counterpart of ego-dissolution, namely ‘ego-inflation’, the experience of enhanced self-consciousness:
+
+* I felt especially assertive
+* I felt more important or special than others
+* My ego felt inflated
+* I felt especially sure-of-myself
+* I felt especially keen and competitive
+* I felt like my viewpoint was worth more than other peoples'
+* I felt especially self-confident
+* I felt especially self-assured
+
+
+Evaluation of its psychometric properties (Nour et al., 2016) confirmed that the EDI differentiates between stimulus conditions (psychedelic substance vs. cocaine vs. alcohol), suggesting   discriminant validity. Moreover, the positive correlation (Spearman’s rho=0.735, p<0.001) with the Mystical scale of the MEQ30 supports its convergent validity. As a first estimate of reliability, the internal consistency was assessed by Cronbach’s alpha (0.93).
+The EDI appears to be a psychometrically sound instrument. However, it covers only one specific aspect of the ASC experience and is, therefore, not suitable for studies investigating the common core of ASCs. As ‘ego-dissolution’ seems to be a phenomenon central to ASCs induced by different induction methods, the EDI might well contribute to comparability between studies that focus on this specific aspect. The quantification of ‘ego-dissolution’ and identification of its neural substrates is an important endeavor, particularly with respect to its psychotherapeutic potential. Moreover, as the response formats correspond, the EDI can be applied as a supplement to the 5D-ASC. 
+Recently a German translation and validation has been published REF
+
+## Emotional Breakthrough Inventory (EBI)
+In the context of psychedelic therapy predictors for positive treatment outcome are searched for. While much research was focused on the concept of mystical experiences as predictor of treatment outcome, Roseman et al. (2019) proposed "emotional breakthrough" as a factor to investigate. The items of the questionnaire were derived from interviews from a previous clinical trial and formualted by the expert committee: W Richards, R Watts, R Carhart-Harris, J Rucker and L Roseman
+
+A validation sample was collected within other studies (overall N=379 participants) for which factor analyses revealed six emotional breakthrough items with high internal consistency (Cronbach’s alpha=0.932). These are rated using a visual analogue scale (VAS) (0–100, with incremental units of one) with zero defined as ‘No, not more than usually’, and 100 defined as ‘Yes, entirely or completely’. Note: These is the same VAS and anchors as used in the ASC-R and in the EDI. This makes it very convenient to add these items to a retrospective assessment, as they do not need additional instructions:
+
+* I faced emotionally difficult feelings that I usually push aside. 
+* I experienced a resolution of a personal conflict/trauma. 
+* I felt able to explore challenging emotions and memories.
+* I had an emotional breakthrough.
+* I was able to get a sense of closure on an emotional problem.
+* I achieved an emotional release followed by a sense of relief.
+
+In addition the data of Roseman et al. (2019)  supports that emotional breakthrough can be seen as a distinct component of the psychedelic experience. When testing for their predictive power, they report that Emotional breakthrough and Mystical Experience Questionnaire scores predicted increases in well-being and Challenging Experience Questionnaire scores predicted less increases.
+
+Taken together the six EBI items comprise a reasonably small set of items which can be applied along with the 11-ASC and EDI questionnaire. These are particularly helpful in the context of clinical studies where emotional breakthrough is one of the aspects of altered states experiences which is seen as a promising predictor for treatment outcome.
+
+
+
+## Challenging Experience Questionnaire (CEQ)
+Literature review of both experimental and clinical reports indicates that the phenomenology of ASCs induced by the administration of classic hallucinogens potentially involves unpleasant experiences which might occur even in carefully prepared and supportive environments (Barrett et al., 2016).  Based on three of the most frequently applied questionnaires – the HRS, the 5D-ASC, and the SOCQ – the Challenging Experience Questionnaire (CEQ) was designed to provide a tool for the comprehensive assessment of acute negative effects that will benefit research into their predictors and consequences (Barrett et al., 2016). The conceptual scope of the 26-item CEQ is informed by literature on psychological and physical distress following hallucinogen intake and covers a variety of adverse cognitive, affective, and somatic reactions which are clustered into seven distinct dimensions of challenging experiences: (1) Grief, (2) Fear, (3) Death, (4) Insanity, (5) Isolation, (6) Physical Distress, and (7) Paranoia (Barrett et al. 2017). Analyzing data from an online survey on negative experiences with psilocybin, corresponding scales for the first six dimension were derived by exploratory factor analysis, complemented by the Paranoia scale, and subsequently validated through confirmatory factor analysis (Barrett et al., 2016). Items are rated on a 6-point scale adopted from the SOCQ.
+
+Since the CEQ was only recently developed, a systematic evaluation of its psychometric properties has not been conducted yet. However, confirmatory analyses performed on two separate samples revealed an acceptable model fit, suggesting internal validity of the CEQ model (Barrett et al., 2016). Reliability was assessed by Cronbach’s alpha, yielding good internal consistency estimates in the range of 0.65 (Paranoia) to 0.89 (Fear).  
+Similar to the PSI, the CEQ was designed as a single questionnaire focusing on acute negative effects. In contrast to the PSI, however, it covers a wide spectrum of aversive reactions that is not limited to effects typical of psychosis-like states. Moreover, the CEQ enables the fine-grained assessment of distinct dimensions and their relative intensity, thereby allowing for the generation of a multi-dimensional pattern description. Considering that the control of acute negative effects is desirable and that the subsequent integration of the experience is fundamental to therapeutic outcomes (Majic et al., 2015), the CEQ provides a valuable tool for further studies of adverse reactions to classic hallucinogens. To date, the CEQ was, however, only applied with psilocybin and not along with neuroimaging studies. Further research is, thus, required to demonstrate its sensitivity to other hallucinogens and suitability within neuroimaging studies. In advancing the vital understanding of underlying mechanisms that pinpoint stressful experiences, a translation of the CEQ, originally developed in English, into other languages will foster its application.
+
+### CEQ-7
+Recently, Strickland et al. (2024, https://doi.org/10.1089/psymed.2023.0046) introduced a short version of the CEQ, which simply used the names of the seven scales as items rated on a 6-point scale (same scale as for the MEQ):
+
+* Fear
+* Grief
+* Physical distress
+* Insanity
+* Isolation
+* Thoughts of feelings of death
+* Paranoia
+
+
+
+## Watts Connectedness Scale
+While it has become less common in the last decades to name a questionnaire according to a specific author, it appears that Rosalyn Watts wanted to have visibility for her last name. As this is uncommon we expect that many authors will choose to call the questionnaire simply “Connectedness Scale”. We will soon add a summary and assessment of this tool here.
+Reference: https://link.springer.com/article/10.1007/s00213-022-06187-5 
+
+
+## Afterglow Inventory (AGI)
+The concept of an "afterglow" is described in the literature about effects of psychedelics (e.g. see Majic et al. 2015; Evans et al. 2024). In short it refers to a set of positive subactue effects (or aftereffects) within the timeframe of up to 2-4 weeks after an acute psychedelic experience. 
+The Afterglow Inventory has been developed to allow identifying different aspects (factors) of subacute effects and quantify them. Thereby it can be useful for clinical trials, and to identify differences in typcial subacute effects across different substances (or more general: across different conciousness modifying techniques). While the concept of the "afterglow" stems from the literature on psychedelics, the tool is not limited to the use for psychedelic afterglow phenomena and has also been used already with non-pharmacological methods such as Flotation-REST (Pantazis & Wittmann 2024, https://osf.io/preprints/psyarxiv/4n9qr). 
+
+The construction and validation was carried out in German and English (Majic et al. 2024 https://osf.io/s6bzc). Until now the tool is available only upon request from Tomislav Majic (Charité Universitätsklinikum Berlin, Germany). The questionnaire contains 24 items, which were assigned to five factors (See below). The items are rated on a VAS, in the same way as the ASC-R (as well as EDI and EBI).
+
+The questionnaire is designed to allow application for a momentary state. Namely one can apply it to ask for th experience in the exact moment. Alternatively, instructions can be used that instruct the participant to evaluate a specific period of time after an event/experience (e.g. after substance use). The final version of the questionnaire has the following factors and items.
+
+Vitality:
+
+* I feel comfortable in my body.
+* I am thankful for my life.
+* I feel connected to the beauty of life.
+* I have enthusiasm for life in general.
+* I feel cleansed.
+* I am in a good mood.
+* I have deep feelings of joy.
+* I experience inner peace.
+
+Transpersonal asepcts:
+
+* I am thinking about spiritual or religious topics.
+* I feel that everything is interconnected.
+* I feel connected to deeper aspects of myself.
+* I feel that all is one.
+
+Inspiration/Creativity:
+
+* I feel inspired
+* I feel creative
+* My thinking is imaginative
+* I am discovering lost aspects of my life, such as feelings and desires.
+
+Inerpersonal relationships:
+
+* I feel compassion towards other people
+* I feel emotionally connected to other people
+* I feel love towards other people
+* I am willing to engage in close relationships
+
+
+Relationships to nature:
+
+* I enjoy being in contact with nature.
+* I feel connected with nature.
+* I perceive beauty even in small details (e.g. a human voice, a flower, a work of art).
+* I notice nature around me.
+
 ## Psychotomimetic States Inventory (PSI)
 Originally developed to assess the acute so-called “psychotomimetic” effects of cannabis and ketamine administration in healthy volunteers (Mason et al., 2008), the Psychotomimetic States Inventory (PSI) has also been applied to investigate the effects induced by short-term sensory deprivation among individuals prone to experience hallucinations and those without such a predisposition, as well as in experiments with hallucinogens (Mason and Brady, 2009; Daniel et al., 2014; Daniel and Mason, 2015; Carhart-Harris et al., 2016b).
 The PSI comprises 48 items, drawn from an item pool that was derived from on a variety of psychometric instruments for the assessment of phenomena related to psychosis and hallucination-proneness. A first item selection was based on multiple pilot studies, surveying student volunteers as well as recreational drug users (Mason et al., 2008). Subsequent factor analyses yielded the final set of items, addressing six empirically-derived dimensions of psychosis-like experiences as induced by diverse psychoactive substances and sensory deprivation: (1) Anhedonia, (2) Cognitive Disorganization, (3) Mania, (4) Delusional Thinking, (5) Perceptual Distortion, (6) Paranoia. 
 
-### Validation, Translations, Adaptations
 Full-scale test-retest reliability and Cronbach’s alpha coefficients for the PSI indicate good stability (0.84) and internal consistency (0.86 to 0.94 across conditions), respectively (Mason et al., 2008). While test-retest correlations for the different subscales range between 0.60 (Anhedonia) and 0.83 (Delusory Thinking) indicating acceptable stability, alpha coefficients for Mania (0.05) and Cognitive Disorganization (0.89) display a wider range of internal consistency. However, most estimates for the remaining scales suggest good internal consistency. Though not formally evaluated in terms of validity, significant correlations (Kendall’s tau: 0.54< tau <0.70, p<0.001 across conditions) between the PSI and the state of the Appraisals of Anomalous Experience Interview (AANEX), both measuring psychotic-like experiences, support the assumption of adequate convergent validity (Daniel et al., 2014). 
 Being applied both in natural and laboratory environments (Mason et al., 2008) and assessing pharmacologically (Mason et al., 2008; Mason and Brady, 2009; Carhart-Harris et al., 2016b) as well as non-pharmacologically (Mason and Brady, 2009; Daniel et al., 2014; Daniel and Mason, 2015) induced changes in perception, cognition and emotion, the PSI appears to be a useful psychometric tool to investigate psychosis-like characteristics of ASCs. 
 By focusing on rather aversive effects of the ASC experience, this questionnaire covers important aspects that are insufficiently addressed by other instruments. Insofar, the PSI points out conceptual shortcomings of previous tools and provides valuable suggestions for the assessment of ASCs. Its own limitation is, in turn, the omission of pleasant aspects. The subjective experience of ASCs – particularly, if induced by psychedelic substances – appears, however, to be characterized by either of these two opposite dimensions (Bodmer et al., 1994).
-
-## Ego-Dissolution Inventory (EDI)
-The phenomenon of ‘ego-dissolution’ is a substantial aspect of ASCs induced by psychedelic substances (Lebedev et al., 2015; Tagliazucchi et al., 2016) and ‘mystical experiences’ following religious rites (MacLean et al., 2012) or sensory deprivation in flotation tanks (Kjellgren et al., 2009). ‘Ego-dissolution’ is defined as derealization and depersonalization, which can be experienced as positive and negative. As a removal of boundaries between self and surroundings and feeling of all-embracing unity, ‘ego-dissolution’ is discussed in the context of psychosis (Scharfetter, 1981) as well as psychotherapy (Majic et al., 2015). The Ego-Dissolution Inventory (EDI) was only recently designed with the aim of providing a valid and reliable tool for the accurate, unidimensional assessment of this phenomenon (Nour et al., 2016). This self-report questionnaire comprises sixteen items covering both ‘ego-dissolution’ and its counterpart ‘ego-inflation’, the experience of enhanced self-consciousness. Each item is rated on a visual analog scale, corresponding to the response format of the 5D-ASC, and the two orthogonal scales were confirmed through factor analysis (Nour et al., 2016).  
-
-### Validation, Translations, Adaptations
-Evaluation of its psychometric properties (Nour et al., 2016) confirmed that the EDI differentiates between stimulus conditions (psychedelic substance vs. cocaine vs. alcohol), suggesting   discriminant validity. Moreover, the positive correlation (Spearman’s rho=0.735, p<0.001) with the Mystical scale of the MEQ30 supports its convergent validity. As a first estimate of reliability, the internal consistency was assessed by Cronbach’s alpha (0.93).
-The EDI appears to be a psychometrically sound instrument. However, it covers only one specific aspect of the ASC experience and is, therefore, not suitable for studies investigating the common core of ASCs. As ‘ego-dissolution’ seems to be a phenomenon central to ASCs induced by different induction methods, the EDI might well contribute to comparability between studies that focus on this specific aspect. The quantification of ‘ego-dissolution’ and identification of its neural substrates is an important endeavor, particularly with respect to its psychotherapeutic potential. Moreover, as the response formats correspond, the EDI can be applied as a supplement to the 5D-ASC. 
-Recently a German translation and validation has been published REF
 
 ## Abramson Questionnaire (AQ)
 The Abramson Questionnaire (AQ) was constructed in order to quantify the effects of lysergic acid diethylamide (LSD; (Jarvik et al., 1955)). It is mostly interesting for historical reasons, as it might not meet current psychometric standards and has not been used in recent years. The questionnaire is based on literature research into the effects typically reported after LSD intake. Abramson and colleagues (1955a) used it in a series of experiments in the late 1950s, also measuring the effects of drugs other than LSD (Jarvik et al., 1955).
 The questionnaire has a one-dimensional structure, measuring only the overall strength of the ASC experience. Its items are conceptually-defined and not confirmed through further data analysis. A later version excluded some items that did not distinguish between experimental and control subjects (Abramson et al., 1955b). Items are rated on a 6-point Likert scale, with the options +1 to +5 for positive symptoms, as well as an option 'No' for lack of symptoms. However, ratings are only treated as dichotomous Yes- or No-answers in the data analysis. The total score is therefore obtained by adding all positive responses, with the highest possible score being 47. The items include questions such as: “Do you have difficulty focusing your vision?”, and “Do you feel as if in a dream?”
 
-### Validation, Translations, Adaptations
 The psychometric properties of the AQ have not been measured and evaluated in a systematic way. The validity of the questionnaire was somewhat confirmed through comparison between three groups (Abramson et al., 1955a): one experimental group receiving a medium dose of LSD (25-75 µg), one experimental group receiving a high dose (100-225 µg), and a control group receiving a placebo. The correlation coefficient between the rank positions of answers in both experimental groups (r=0.83) was markedly higher than between either of them and the placebo group(r=0.36, r=0.46). Even though this may be seen as supporting the discriminant validity of the questionnaire, it is not according to prove by today’s standards. Further testing would be required to validate this instrument.
 Interestingly, some subjects also showed high scores after taking a placebo (Abramson et al., 1955a). This might be due to suggestibility, especially, if considering that experimental and control subjects were jointly tested in a group setting. But it might also point to validity-related issues of the questionnaire itself. 
 Even though the questionnaire does not fulfill current standards concerning quality criteria, it should be regarded as an early attempt at measuring qualitative aspects of ASCs. As such, it has historical relevance and influenced the development of later questionnaires. Researchers specifically interested in the assessment of ASCs induced by LSD might even consider applying it in addition to other instruments, or using it as a basis of a new questionnaire. 
@@ -118,7 +230,6 @@ The questionnaire is comprised of 74 items and has a 17-dimensional structure in
 In an initial placebo controlled study, LSD was administered to a group of male professional actors. The questionnaire was administered seven times to also monitor the temporal course of the various drug effects (Linton and Langs, 1962a, 1962b): (1) pre-test day, (2) half an hour after drug administration, (3) two hours after drug administration, (4) five hours after drug administration, (5) eight hours after drug administration, (6) post-test day, (7) retrospective. The total questionnaire score, as well as the score for each scale separately, is computed by simply summing all responses. The LSD effects revealed five different temporal patterns with somatic effects being the earliest and distortion of visual perception having the latest onset.
 Based on factor analysis, four empirical scales were derived (Linton and Langs, 1964). These scales are termed A, B, C, D and comprise a heterogeneous collection of items. While the scale A contains items addressing impaired control of attention, loss of inhibition, elation, and the subjective feeling of the capacity to perceive new meanings, B includes items referring to the loss of contact to the environment, impaired sense of identity, feelings of having lost control over several function, and paranoid ideation. Items of scale C describe alterations in the body image, somatic symptoms as well as inhibitory mental and physical effects. Finally, scale D covers the dimensions of anxiety, fear of losing self-control, and somatic effects (Linton and Langs, 1964).
 
-### Validation, Translations, Adaptations
 For the LLQ no state-of-the-art reliability and validity measures are available and the questionnaire was not further developed.
 In addition to the assessment of LSD effects (Linton and Langs, 1962a; Johnson, 1969), the LLQ was also used to compare these effects with symptoms of schizophrenia (Langs and Barr, 1968) and to investigate the effects induced by other hallucinogenic substances like tryptamine derivatives (Faillace et al., 1967). However, its application in recent research is quite limited. Particularly the absence of psychometric evaluation discards the LLQ as an adequate tool for cross-study comparisons.
 
@@ -126,7 +237,6 @@ In addition to the assessment of LSD effects (Linton and Langs, 1962a; Johnson, 
 According to Greyson (1983) near-death-experiences (NDE) are a critical marvel to examine, however no acknowledged criterion was established to quantify this phenomenon. Many studies in the past tried to find standard criteria to measure NDE but failed to construct reliable and valid instruments (Greyson, 1983). Greyson (1983) discusses an index known as the Weighted Core Experience Index (WCEI), which is based on 10 items to measure NDE, but does not conform to reliability or validity criteria. Moreover, the work of Noyes and colleagues is discussed (Greyson, 1983) who developed three clinically relevant factors, obtained from a sample of accident victims and from psychiatric patients. These factors are known as (1) depersonalization, (2) mental clouding, and (3) manifestation of mystical consciousness. The limitation that Noyes’ work rather assesses subjective responses to life threatening danger instead of NDE motivated the development of a new questionnaire. Greyson (1983) developed the NDE scale to differentiate organic brain syndromes from out-of-body experiences and NDEs.
 An initial collection of 80 items was divided into different clusters for (1) Affective States, (2) Thought Content, (3) Thought Processes, (4) Perceptual Content, (5) Perceptual Processing, (6) Bodily Sensation and (7) Miscellaneous. A preliminary 33-item questionnaire was developed including items from the WCEI and Noyes’ three factors. Statistical analysis off the data obtained from subjects with prior NDE reduced the questionnaire to sixteen items, which were assigned to one of four clusters: (1) Cognitive Component, (2) Affective Component, (3) Paranormal Component, or (4) Transcendental Component (Greyson, 1983). Items are rated on a 3-point scale (present, ambiguous/atypical, absent) and cluster as well as total score are computed as the sum of the items scores (Greyson, 1983). 
 
-### Validation, Translations, Adaptations
 The NDE full scale Cronbach alpha reliability was reported to be 0.88, while the split-half reliability was 0.92. In addition, test-retest reliability was approximated as 0.92 for the entire NDE scale, thus supporting internal consistency and stability, respectively. Greyson’s final 16-item questionnaire shows high correlations (r = 0.90) with Ring’s WCEI (Greyson, 1983).
 
 ## The Mysticism Scale (M-Scale)
@@ -142,7 +252,6 @@ The single-experience M-Scale could by contrast also be applied in work on the e
 The Personal Experience Questionnaire (PEQ) was designed by Ronald Shor to investigate the frequency and the intensity of ‘hypnotic-like’ experiences occurring in the ‘normal course of life’ (Shor, 1960). An initial long form of the PEQ consisted of 149 items (Shor et al., 1962) that was, however, reduced to 44 items for its latest version, also referred to as short form. The items address the appearance of particular experiences such as ‘thinking of nothing’ or, ‘staring into space’, to test for ASC phenomena such as absorption and dissociation. Besides the mere quantification of such events over a lifetime, it was also supposed to predict hypnotizability (Shor et al., 1962).
 The PEQ consists of 44 items describing ‘hypnotic-like’ experiences in everyday life. In a yes/no-response format, subjects are asked to report if they have ever had the requested experience. Only if the subject feels that a yes/no-response is inappropriate, additional information is supposed to be given in an open response format. Thereby, the questionnaire allows different ways to evaluate the data, e.g. Shor (1960) presented the frequency of natural occurrence.
 
-### Validation, Translations, Adaptations
 Response consistency and internal consistency of the PEQ are reported to be high (0.90 to 0.96, p< 0.01, (Shor et al., 1966)). Based on data from London and colleagues (London et al., 1962), test-retest reliability was assessed over a 3-week interval resulting in a reliability coefficient of  0.94, p<0.01  (Shor et al., 1966).
 The PEQ did not find a major dissemination in the literature. It could however form a reference for the development of future studies aiming to establish the relationship between particular trait-personality scores (e.g. frequency of naturally occurring ASC phenomena) and the prediction of a response to a particular induction method for ASCs (e.g. hallucinogens or meditation).
 
@@ -151,35 +260,8 @@ The Assessment Schedule of Altered States of Consciousness (ASASC; original Germ
 By providing a research tool that assesses recalled rather than currently experienced ASCs independent of stimulus and situation, it was intended to survey a wide range of different kinds of ASCs and related phenomena. Moreover, it was explicitly avoided to evaluate these experiences as pathological (van Quekelberghe et al., 1992). In contrast to questionnaires that assess the acute effects of a single experimentally induced ASC, the ASASC addresses frequency and intensity of induced and spontaneously occurring alterations of consciousness across a lifetime (van Quekelberghe et al., 1991). Although including a substantial amount of state-specific items, the ASASC primarily focuses on general dispositions, e.g. to imagination, absorption as well as the experience of parapsychological phenomena.
 Based on Ludwig’s theoretical framework, 14 a priori scales were defined: Personal data (F1) Demographic Data, (A2) Extraordinary Mental Processes, (P3) Parapsychology Experiences, (P4) Parapsychology Attitude, (E5) Esoterics, (M6) Positive Mystic Experiences, (M7) Negative Mystic Experiences, (I8) Imagination, (T9) Dreams, (D10) Dissociation, (H11) Hallucinations, (H12) Hypersensitiveness, (Z13) Changed Feeling of Time and Space, and (C14) Change. Factor analysis and subsequent adjustments finally led to a satisfactory grouping of items resulting in the 325-item ASASC (van Quekelberghe et al., 1992). A 128-item short form of the EVB is available (van Quekelberghe et al., 1992; Yeginer, 2000). An additional short form was developed by extension of the D10 and Z13 scale to provide a flexible, easily adaptable instrument (van Quekelberghe et al., 1991, 1992). Both the English version ASASC-D10 ERW and the German version EVB-D10 ERW include 60 items, which, however, are arranged in different order. The items are clustered in five a priori scales: (1) Suggestibility, (2) Trance, (3) Absorption, (4) Flow, (5) Dissociation (internal, external, body, person). 
 
-### Validation, Translations, Adaptations
 Initial evaluation of its psychometric features revealed good reliability with Cronbach’s alpha coefficients between 0.80 (E5) and 0.98 (M6). Guttman split-half coefficients ranged between 0.81 (E5, C14) and 0.96 (M6) (van Quekelberghe et al., 1991). 
 The ASASC rather maps stable tendencies of imagination, absorption, and cognitive alterations and is, hence, suitable to assess the natural variability in the normal waking consciousness. However, its use for the assessment of experimentally induced ASCs is limited. Moreover, the reduced number of items in the 128-item short form, e.g. I8 comprises only 5 items, affects its reliability and thus the comparability to the 325-item version. Consequently, this questionnaire does not meet the requirements for a meta-analytical approach.
-
-
-## Challenging Experience Questionnaire (CEQ)
-Literature review of both experimental and clinical reports indicates that the phenomenology of ASCs induced by the administration of classic hallucinogens potentially involves unpleasant experiences which might occur even in carefully prepared and supportive environments (Barrett et al., 2016).  Based on three of the most frequently applied questionnaires – the HRS, the 5D-ASC, and the SOCQ – the Challenging Experience Questionnaire (CEQ) was designed to provide a tool for the comprehensive assessment of acute negative effects that will benefit research into their predictors and consequences (Barrett et al., 2016). The conceptual scope of the 26-item CEQ is informed by literature on psychological and physical distress following hallucinogen intake and covers a variety of adverse cognitive, affective, and somatic reactions which are clustered into seven distinct dimensions of challenging experiences: (1) Grief, (2) Fear, (3) Death, (4) Insanity, (5) Isolation, (6) Physical Distress, and (7) Paranoia (Barrett et al. 2017). Analyzing data from an online survey on negative experiences with psilocybin, corresponding scales for the first six dimension were derived by exploratory factor analysis, complemented by the Paranoia scale, and subsequently validated through confirmatory factor analysis (Barrett et al., 2016). Items are rated on a 6-point scale adopted from the SOCQ.
-
-### Validation, Translations, Adaptations
-Since the CEQ was only recently developed, a systematic evaluation of its psychometric properties has not been conducted yet. However, confirmatory analyses performed on two separate samples revealed an acceptable model fit, suggesting internal validity of the CEQ model (Barrett et al., 2016). Reliability was assessed by Cronbach’s alpha, yielding good internal consistency estimates in the range of 0.65 (Paranoia) to 0.89 (Fear).  
-Similar to the PSI, the CEQ was designed as a single questionnaire focusing on acute negative effects. In contrast to the PSI, however, it covers a wide spectrum of aversive reactions that is not limited to effects typical of psychosis-like states. Moreover, the CEQ enables the fine-grained assessment of distinct dimensions and their relative intensity, thereby allowing for the generation of a multi-dimensional pattern description. Considering that the control of acute negative effects is desirable and that the subsequent integration of the experience is fundamental to therapeutic outcomes (Majic et al., 2015), the CEQ provides a valuable tool for further studies of adverse reactions to classic hallucinogens. To date, the CEQ was, however, only applied with psilocybin and not along with neuroimaging studies. Further research is, thus, required to demonstrate its sensitivity to other hallucinogens and suitability within neuroimaging studies. In advancing the vital understanding of underlying mechanisms that pinpoint stressful experiences, a translation of the CEQ, originally developed in English, into other languages will foster its application.
-
-
-
-## Watts Connectedness Scale
-While it has become less common in the last decades to name a questionnaire according to a specific author, it appears that Rosalyn Watts wanted to have visibility for her last name. As this is uncommon we expect that many authors will choose to call the questionnaire simply “Connectedness Scale”. We will soon add a summary and assessment of this tool here.
-Reference: https://link.springer.com/article/10.1007/s00213-022-06187-5 
-
-
-
-## Afterglow Inventory (AGI)
-This tool was developed to assess sub-acute effects, as they are commonly reported 2-4 weeks after the use of psychedelics. To read more on subacute phenomena and the afterglow phenomenon we recommend reading: (Majic et al. 2015; Evans et al. 2024). The tool has been validated in German and English and is designed to allow a quantitative comparison of afterglow phenomena after diverse ASCs. While the concept of a "afterglow" stems from the literature on psychedelics, the tool is not limited to the use for psychedelic afterglow phenomena and has also been used already with non-pharmacological methods such as Flotation (Preprint by Marc Wittmann 2024).
-The questionnaire and validation has been published by Majic et al. (https://osf.io/s6bzc)
-
-### Validation, Translations, Adaptations
-The construction and validation was carried out in German and English, and both versions will be available upon publication soon. Until now the tool is available only upon request from Tomislav Majic (Charité Universitätsklinikum Berlin, Germany)
-
-## Emotional Breakthrough Inventory (EBI)
-Roseman et al. (2019)
 
 
 ## Wave
