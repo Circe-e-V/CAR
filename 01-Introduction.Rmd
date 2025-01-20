@@ -17,7 +17,7 @@ Multiple questionnaires have been developed to quantify the phenomenology of ASC
 Table 1 gives an overview of the questionnaires in this collection, including some of their basic properties and key references. The most recent (and recommended version) is marked in bold. Wherever available, we included information on new versions under current development (let us know if you know about more).
 
 
-| Questionnaire  | Version | # items  | # scales | response format 
+| Questionnaire  | Version | # items  | # (Sub)scales | response format 
 |-----------|-----------|-----------|-----------|-----------|
 | Altered States of Consciousness Rating Scale  | APZ <br /> OAV <br /> 5D-ASC <br /> 11-ASC <br /> 11-ASC(AXP) | 72 <br /> 66 <br /> 94 <br /> 42 <br /> 22 | 3 (FA) <br /> 3(FA) <br /> 5(FA) <br /> 11(FA)<br /> 11  | Yes/No <br /> VAS <br /> VAS <br /> VAS <br /> VAS |
 | Ego-Dissolution Inventory | EDI | 8 | 1 | VAS |
@@ -35,7 +35,7 @@ __Table 1__ _Overview of the most popular questionnaires and their versions that
 In addition to these questionnaires, we included descriptions of additional questionnaires which have been used in the field, but are only rarely used in recent research. Therefore, they are included rather for historic reasons to give inspirations for future development of new tools.
 
 
-| Questionnaire  | Version | # items  | # scales | response format 
+| Questionnaire  | Version | # items  | # (sub)scales | response format 
 |-----------|-----------|-----------|-----------|-----------|
 | Psychometric States Inventory | PSI | 48 | 6(FA)  | 4-point |
 | Abramson Questionnaire  | AQ | 47 | 1 |  6-point |
@@ -51,7 +51,7 @@ __Table 2__ _Further questionnaires and their versions that are of historical in
 Besides the above questionnaires which aim to quantify acute ASC phenomena, we included an additional section with questionnaires that aim to quantify subacute effects, sometimes called aftereffects, or in the context of psychedelics "afterglow".
 
 
-| Questionnaire  | Version | # items  | # scales | response format 
+| Questionnaire  | Version | # items  | # (sub)scales | response format 
 |-----------|-----------|-----------|-----------|-----------|
 | Afterglow Inventory | AGI | 24 | 5 | VAS |
 | Persisting Effects Questionnaire | PEQ | 89| 8 | 6,7,8-point |
