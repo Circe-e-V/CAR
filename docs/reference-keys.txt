@@ -31,4 +31,4 @@ the-mysticism-scale-m-scale
 personal-experiences-questionnaire-peq
 assessment-schedule-of-altered-states-for-consciousness-asacs
 wave
-psychological-insight-questionnaire
+psychological-insight-questionnaire-piq
