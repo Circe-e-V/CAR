@@ -31,7 +31,8 @@ Information on the questionnaires to be added:
 * Add questionnaires for download as PDF with nice typesetting (wherever Copyrights allow it)
 * Add Excel analysis sheets to help avoiding mistakes in the analysis
 
-* Add a section about additional quantitative measures which are somewhat also interesting but not directly concerned with the acute experience or afterimages (e.g. attitutes to ASC/psychedelics)
+
+* Add a section about additional quantitative measures which are also interesting for the field of altered states of consciousness research, but not directly concerned with acute experience or after effects (e.g. attitutes to ASC/psychedelics)
   * Add here Zuljevic et al. 2022 (attitudes) https://www.nature.com/articles/s41598-022-23056-5
   * Absorptiveness
   * Hypnotizability

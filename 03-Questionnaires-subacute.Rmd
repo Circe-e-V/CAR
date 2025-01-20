@@ -1,0 +1,59 @@
+# Questionnaires for subacute ASC phenomena
+
+In this chapter we will discuss questionnaires, which are designed to quantitatively assess subacute effects of altered states experiences. Such effects have been called "afterglow" in the context of psychedelics. The questionnaires can be applied some time after an acute experiences has been made.
+
+
+## Afterglow Inventory (AGI)
+The concept of an "afterglow" is described in the literature about effects of psychedelics (e.g. see Majic et al. 2015; Evans et al. 2024). In short it refers to a set of positive subactue effects (or aftereffects) within the timeframe of up to 2-4 weeks after an acute psychedelic experience. 
+The Afterglow Inventory has been developed to allow identifying different aspects (factors) of subacute effects and quantify them. Thereby it can be useful for clinical trials, and to identify differences in typcial subacute effects across different substances (or more general: across different conciousness modifying techniques). While the concept of the "afterglow" stems from the literature on psychedelics, the tool is not limited to the use for psychedelic afterglow phenomena and has also been used already with non-pharmacological methods such as Flotation-REST (Pantazis & Wittmann 2024, https://osf.io/preprints/psyarxiv/4n9qr). 
+
+The construction and validation was carried out in German and English (Majic et al. 2024 https://osf.io/s6bzc). Until now the tool is available only upon request from Tomislav Majic (Charité Universitätsklinikum Berlin, Germany). The questionnaire contains 24 items, which were assigned to five factors (See below). The items are rated on a VAS, in the same way as the ASC-R (as well as EDI and EBI).
+
+The questionnaire is designed to allow application for a momentary state. Namely one can apply it to ask for th experience in the exact moment. Alternatively, instructions can be used that instruct the participant to evaluate a specific period of time after an event/experience (e.g. after substance use). The final version of the questionnaire has the following factors and items.
+
+Vitality:
+
+* I feel comfortable in my body.
+* I am thankful for my life.
+* I feel connected to the beauty of life.
+* I have enthusiasm for life in general.
+* I feel cleansed.
+* I am in a good mood.
+* I have deep feelings of joy.
+* I experience inner peace.
+
+Transpersonal asepcts:
+
+* I am thinking about spiritual or religious topics.
+* I feel that everything is interconnected.
+* I feel connected to deeper aspects of myself.
+* I feel that all is one.
+
+Inspiration/Creativity:
+
+* I feel inspired
+* I feel creative
+* My thinking is imaginative
+* I am discovering lost aspects of my life, such as feelings and desires.
+
+Inerpersonal relationships:
+
+* I feel compassion towards other people
+* I feel emotionally connected to other people
+* I feel love towards other people
+* I am willing to engage in close relationships
+
+
+Relationships to nature:
+
+* I enjoy being in contact with nature.
+* I feel connected with nature.
+* I perceive beauty even in small details (e.g. a human voice, a flower, a work of art).
+* I notice nature around me.
+
+
+## Persisting Effects Questionnaire (PEQ)
+This questionnaire is a follow up designed along with the MEQ. In the history of the development of the MEQ the Persisting Effects Questionnaire (PEQ) was designed to assesses long-term changes. It uses 89 items in its first version (Griffiths et al., 2006) and 143 items in a second extended version (Griffiths et al., 2011), and is based on the original follow-up questionnaire by Pahnke.
+
+
+
