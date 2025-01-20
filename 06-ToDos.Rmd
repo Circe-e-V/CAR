@@ -3,17 +3,21 @@
 
 Here is a list of ToDo's in this book project:
 
+* Add information and illustration on the different types of scoring and variability of anchors that are used
+* Complete Overview Table:
+  * Add detailed information on different translations to different languages (including references)
+* Add information about different measures of validity that are typcially reported (Test Theory explanation) with some references. Add systematic information on different validity measures that are reported.
 * Check out and potentially add: 
   * https://www.nature.com/articles/s41598-022-23056-5
   * Stocker et al. 2023 https://journals.sagepub.com/doi/10.1177/02698811231199112
 * Workover for Referencses: Check completeness & change to Bibtex Format
-* Complete Overview Table
+
 * Write sections on:
-  * Wave
+  * Wave 
   * Dimensions of the Meditative Experience (DME)
   * Meditationstiefefragebogen (MTF)  
   
-* Add detailed information on different translations to different languages (also to the overview table, including references)
+
 
 * Add questionnaires for download as PDF with nice typesetting (wherever Copyrights allow it)
 * Add Excel analysis sheets to help avoiding mistakes in the analysis
