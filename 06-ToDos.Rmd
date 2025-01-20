@@ -3,26 +3,37 @@
 
 Here is a list of ToDo's in this book project:
 
-* Add a section about quantitative measures which are somewhat also interesting but not directly concerned with the acute experience or afterimages (e.g. attitutes to ASC/psychedelics)
-  * Add here Zuljevic et al. 2022 (attitudes) https://www.nature.com/articles/s41598-022-23056-5
-* Check out and potentially add Stocker et al. 2023 ("Psychedelic experience Scale") https://journals.sagepub.com/doi/10.1177/02698811231199112
-* Add information and illustration on the different types of scoring (VAS vs. Likert scales) and anchors that are used
-* Add to overview table details information on different translations to different languages
-* Add information about different measures of validity that are typically reported (Test Theory explanation) with some references. Add systematic information on different validity measures that are reported for each questionnaire.
-* Check out and potentially add: 
-  * https://www.nature.com/articles/s41598-022-23056-5
-  * Stocker et al. 2023 https://journals.sagepub.com/doi/10.1177/02698811231199112
 * Workover for Referencses: Check completeness & change to Bibtex Format
 
-* Write sections on:
-  * Wave 
+* Add a chapter with some basic reflections on Test Theory. In particular it shall include:
+  * Information and illustration on the different types of scoring (VAS vs. Likert scales) and anchors that are used
+  * Difference between state and trate questionnaires and their relationship
+  * Information about different measures of validity that are typically reported. 
+    * Cronbachs Alpha (Consistency)
+    * Test-Retest Reliability
+  * Terminology: Dimensions, scales, subscales, factors, factor structure
+  * Short recap on the most typcial validation procedures:
+    * Exploratory Factor Analysis, Confirmatory Factor Analysis, Cluster Analyses
+    * Explain shortly what 'Loading' on a factor means and what implications it has if that is not unique
+    * Procedures for construction, expert committees, translations (forward backward) etc.
+Information on the questionnaires to be added:
+* Add systematic information on different validity measures that are reported for each questionnaire.
+* Add to overview table details information on different translations to different languages
+
+* Add sections on:
+  * Wave; Oña et al. (2020) (Spanish)
   * Dimensions of the Meditative Experience (DME)
   * Meditationstiefefragebogen (MTF)  
+* Add some measures from the Cyberdelics literature:
+  * Imersiveness
+  * Presence 
   
-
-
 * Add questionnaires for download as PDF with nice typesetting (wherever Copyrights allow it)
 * Add Excel analysis sheets to help avoiding mistakes in the analysis
 
-
+* Add a section about additional quantitative measures which are somewhat also interesting but not directly concerned with the acute experience or afterimages (e.g. attitutes to ASC/psychedelics)
+  * Add here Zuljevic et al. 2022 (attitudes) https://www.nature.com/articles/s41598-022-23056-5
+  * Absorptiveness
+  * Hypnotizability
+  * Phenomenological Control
 

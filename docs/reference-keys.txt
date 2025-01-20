@@ -14,6 +14,7 @@ addiction-research-center-inventory-arci
 hallucinogen-rating-scale-hrs
 mystical-experience-questionnaire-meq
 states-of-consciousness-questionnaire-socq
+psychedelic-experience-scale-pes
 meq30
 meq-4
 validation-translations-adaptations
@@ -30,5 +31,4 @@ near-death-experience-scale-nde-scale
 the-mysticism-scale-m-scale
 personal-experiences-questionnaire-peq
 assessment-schedule-of-altered-states-for-consciousness-asacs
-wave
 psychological-insight-questionnaire-piq
