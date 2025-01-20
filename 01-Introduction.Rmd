@@ -31,6 +31,9 @@ Table 1 gives an overview of the questionnaires in this collection, including so
 
 __Table 1__ Overview of the most popular questionnaires and their versions that are used to assess ASC phenomena in current research. VAS: Visual Analog Scale; FA: Factor Analysis
 
+
+In addition to these questionnaires, we included descriptions of additional questionnaires which have been used in the field, but are only rarely used in recent research. Therefore, they are included rather for historic reasons to give inspirations for future development of new tools.
+
 | Questionnaire  | Version | # items  | # scales | response format 
 |-----------|-----------|-----------|-----------|-----------|
 | Psychometric States Inventory | PSI | 48 | 6(FA)  | 4-point |
@@ -44,6 +47,7 @@ __Table 1__ Overview of the most popular questionnaires and their versions that 
 __Table 2__ Further questionnaires and their versions that are of historical interest but rarely used in current research. 
 
 
+Besides the above questionnaires which aim to quantify acute ASC phenomena, we included an additional section with questionnaires that aim to quantify subacute effects, sometimes called aftereffects, or in the context of psychedelics "afterglow".
 
 | Questionnaire  | Version | # items  | # scales | response format 
 |-----------|-----------|-----------|-----------|-----------|
