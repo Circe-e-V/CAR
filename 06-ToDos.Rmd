@@ -7,11 +7,9 @@ Here is a list of ToDo's in this book project:
   * https://www.nature.com/articles/s41598-022-23056-5
   * Stocker et al. 2023 https://journals.sagepub.com/doi/10.1177/02698811231199112
 * Workover for Referencses: Check completeness & change to Bibtex Format
-* Fill the missing information in Table 1
+* Complete Overview Table
 * Write sections on:
   * Wave
- * Watts Conectedness Scale
-  * Psychological Insight Questionnaire
   * Dimensions of the Meditative Experience (DME)
   * Meditationstiefefragebogen (MTF)  
   

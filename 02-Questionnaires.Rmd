@@ -309,11 +309,39 @@ Based on Ludwig’s theoretical framework, 14 a priori scales were defined: Pers
 Initial evaluation of its psychometric features revealed good reliability with Cronbach’s alpha coefficients between 0.80 (E5) and 0.98 (M6). Guttman split-half coefficients ranged between 0.81 (E5, C14) and 0.96 (M6) (van Quekelberghe et al., 1991). 
 The ASASC rather maps stable tendencies of imagination, absorption, and cognitive alterations and is, hence, suitable to assess the natural variability in the normal waking consciousness. However, its use for the assessment of experimentally induced ASCs is limited. Moreover, the reduced number of items in the 128-item short form, e.g. I8 comprises only 5 items, affects its reliability and thus the comparability to the 325-item version. Consequently, this questionnaire does not meet the requirements for a meta-analytical approach.
 
-
 ## Wave
 Oña et al. (2020) (spanish)
 
-## Psychological Insight Questionnaire
-Griffiths et al. (2021)
+## Psychological Insight Questionnaire (PIQ)
+Within a sample who have consumed psilocybin or LSD, Davis et al. (2021) validated the newly created Psychological Insight Questionnaire (PIQ) as an additional tool to quantify a specific feature of acute psychedelic experiences. Similar to other questionnaires the authors formulate that it has the purpose to test if psychological insighs can be a predictor for longterm effects, e.g. in psychedelic therapy contexts. The items of the PIQ are rated on a 6-point Likert scale: from 0 = No; not at all" to 5 = "Extremely (more than ever before in my life)". The PIQ consists of 23 items with two subscales:
 
+Avoidance and Maladaptive Pattern Insights:
 
+* Awareness of uncomfortable or painful feelings I previously avoided
+* Discovered I could explore uncomfortable of painful feelings I previously avoided
+* Awareness of dysfuntional patterns in my actions, thoughts, and/or feelings
+* Realized the nature and/or origins of my defenses or other coping strategies
+* Realized how current feelings or perceptions are related to events from my past
+* Discovered a clear pattern of avoidance in my life
+* Gained resolution or clarity about past traums or hurtful events
+* Gained a deepter understanding of events/memories from my past
+* Realized I could experience menmories previously too difficult to experience
+* Discovered how aspects of my life are affecting my well-being
+* Realized ways my beliefs may be dysfunctional
+* Discovered clearr similarities between my past and present interpersonal relationships
+* Realized how critical or judmental views I hold towards myself are dysfunctional
+* Realized the point of view or action of others that had been difficult to understand previously
+
+Goals and Adaptive Pattern insights:
+
+* Awareness of my life purpose, guals, and/or priorities
+* Awareness of beneficial patterns in my actions, thoughts, and/or feelings
+* Experienced validation of my life, character, values, or beliefs
+* Realized the importance of my life
+* Awareness of information that helped me understand my life
+* Discovered new actions that may help me achieve my goals
+* Discovered new insights about my work or career
+* Gained a deeper understanding of previously held beliefs and/or values
+* Discovered a vivid sense of the paradoxes in life
+
+In sum, the questionnaire can be easily applied along with the MEQ and CEQ as it uses the same response format, which is however different from the VAS used in the 11-ASC and related questionaires. It is a relatiely long tool and it would be beneficial to obtain a short version in the future, so that it can be applied in addition to the well established tools to quantify actue eperiences, without taking too much space/time in the assessment.
