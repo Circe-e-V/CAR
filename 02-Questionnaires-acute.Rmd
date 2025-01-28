@@ -24,8 +24,14 @@ Note: In some older publications one can find a sum score, instead of a mean per
 Several methodological shortcomings of the 5D-ASC construction motivated a reanalysis which revealed a new analysis scheme for a subset of 42 items of the ASC-R (Studerus et al., 2010). This analysis was based on only the 66 items belonging to the three main dimensions of the 5D-ASC (the original OAV dimensions). Re-examination of the factorial structure was based on psilocybin and ketamine data and revealed that an 11-factorial model is suitable to fit the data and increases scale homogeneity (Studerus et al., 2010). Corresponding scales were named as: (1) Experience of Unity, (2) Spiritual Experience, (3) Blissful State, (4) Insightfulness, (5) Disembodiment, (6) Impaired Control and Cognition, (7) Anxiety, (8) Complex Imagery, (9) Elementary Imagery, (10) Audio-Visual Synesthesia, and (11) Changed Meaning of Percepts. These eleven factors can be regarded as basic/elementary subscales of the three original scales, which describe rather high-order concepts. 
 
 ### Short Versions
-Within the [Altered Xperience Project](www.alteredXproject.com) Citizen Science project ([Schmidt et al. 2023](https://osf.io/preprints/psyarxiv/45z7w)) a 22-item version was applied. Items were selected based on the 'items validation' according to Studerus et al. This short version has not been validated, but the collected data is available on OSF and is open to be used for a validation (Go for it if you have time and let the authors know).
-To the best of our knowledge a team in the Netherlands is currently working on the validation of a even shorter version.
+Three short versions are known to us:
+(1) Preller et al. (Psilocybin induced time-dependent chances in Globabl Funtional Connectivity, Biological Psychiatry), report that they used a short version with the fMRI. Here participants rated by button press on a 4-point scale from "1 (not at all)" to "4 (very much)", while th exact questions were not specified. Assumably they used the scale names "Complex Imagery", "Disembodiment", "Elementary Imagery" and "Experience of Unity", as ratings for those subscales (maybe here used as items), are reported in Figure 1F.
+
+(2) Within the [Altered Xperience Project](www.alteredXproject.com) Citizen Science project ([Schmidt et al. 2023](https://osf.io/preprints/psyarxiv/45z7w)) a 22-item version was applied. Items were selected based on the 'items validation' according to Studerus et al. This short version has not been validated, but the collected data is available on OSF and is open to be used for a validation (Go for it if you have time and let the authors know).
+
+(3) To the best of our knowledge a team in the Netherlands is currently working on the validation of a even shorter version.
+
+In addition to these short versions, one could think about the srategy taken for the MEQ-4 and CEQ-7, namely to simpy have participants rate on the name of the subscale. This would result in 11 items where one is rating on a VAS.
 
 ### Important notes
 Note 1: Please note that the 11-factorial analysis scheme presented by Studerus et al. (2010) revealed 11 factors (!) and not 11 dimensions. Unfortunately, the original publication of the analysis scheme did not contain a suggestion for a new name, and multiple authors (including ourselves) started to name it “11D-ASC”. However, this is appears not appropriate and instead we suggest now to speak about the ASC-R to refer to the full questionnaire with 96-items, which can be analyzed according to the 5D-ASC or the 11-ASC analysis scheme. 
@@ -69,6 +75,7 @@ Evaluation of its psychometric properties (Nour et al., 2016) confirmed that the
 The EDI appears to be a psychometrically sound instrument. However, it covers only one specific aspect of the ASC experience and is, therefore, not suitable for studies investigating the common core of ASCs. As ‘ego-dissolution’ seems to be a phenomenon central to ASCs induced by different induction methods, the EDI might well contribute to comparability between studies that focus on this specific aspect. The quantification of ‘ego-dissolution’ and identification of its neural substrates is an important endeavor, particularly with respect to its psychotherapeutic potential. Moreover, as the response formats correspond, the EDI can be applied as a supplement to the 5D-ASC. 
 Recently a German translation and validation has been published REF
 
+NOTE: Unfortunately, the EDI uses different anchors on the VAS than the 11-ASC/5D-ASC. The authors of the EDI report that they used the anchot "Yes, entirely or completely" (instead of "Yes, much more than usual). We expect that this indeed makes a difference. We are worried that multiple studies consecutively confused the anchors and/or mixed them up. However, until today we did not manage to research this further.
 
 
 ## Emotional Breakthrough Inventory (EBI)
@@ -76,7 +83,10 @@ The EBI can be seen as an extension of the 11-ASC.
 
 In the context of psychedelic therapy predictors for positive treatment outcome are searched for. While much research was focused on the concept of mystical experiences as predictor of treatment outcome, Roseman et al. (2019) proposed "emotional breakthrough" as a factor to investigate. The items of the questionnaire were derived from interviews from a previous clinical trial and formualted by the expert committee: W Richards, R Watts, R Carhart-Harris, J Rucker and L Roseman
 
-A validation sample was collected within other studies (overall N=379 participants) for which factor analyses revealed six emotional breakthrough items with high internal consistency (Cronbach’s alpha=0.932). These are rated using a visual analogue scale (VAS) (0–100, with incremental units of one) with zero defined as ‘No, not more than usually’, and 100 defined as ‘Yes, entirely or completely’. Note: These is the same VAS and anchors as used in the ASC-R and in the EDI. This makes it very convenient to add these items to a retrospective assessment, as they do not need additional instructions:
+A validation sample was collected within other studies (overall N=379 participants) for which factor analyses revealed six emotional breakthrough items with high internal consistency (Cronbach’s alpha=0.932). These are rated using a visual analogue scale (VAS) (0–100, with incremental units of one) with zero defined as ‘No, not more than usually’, and 100 defined as ‘Yes, entirely or completely’. NOTE: Unfortunately, this is not the identical anchors as used by the 11-ASC (See "Note" in the EDI section).
+
+The same VUS would make it very convenient to apply the EBI along with the 11-ASC - however, we are not sure what to advise with regards to the unfortunate confusion of anchors by Roseman et al. (2019) and Nour et al. (2016). 
+At the moment it might be best practice to apply the same instructions for the two questionnaires,  and simply switch the anchors of the VAS when applying the EDI or EBI items:
 
 * I faced emotionally difficult feelings that I usually push aside. 
 * I experienced a resolution of a personal conflict/trauma. 
