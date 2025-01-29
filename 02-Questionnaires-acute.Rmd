@@ -81,12 +81,12 @@ NOTE: Unfortunately, the EDI uses different anchors on the VAS than the 11-ASC/5
 ## Emotional Breakthrough Inventory (EBI)
 The EBI can be seen as an extension of the 11-ASC.
 
-In the context of psychedelic therapy predictors for positive treatment outcome are searched for. While much research was focused on the concept of mystical experiences as predictor of treatment outcome, Roseman et al. (2019) proposed "emotional breakthrough" as a factor to investigate. The items of the questionnaire were derived from interviews from a previous clinical trial and formualted by the expert committee: W Richards, R Watts, R Carhart-Harris, J Rucker and L Roseman
+In the context of psychedelic therapy predictors for positive treatment outcome are searched for. While much research was focused on the concept of mystical experiences as predictor of treatment outcome, Roseman et al. (2019) proposed to assess "emotional breakthrough" as a factor. The items of the questionnaire were derived from interviews from a previous clinical trial and formualted by the expert committee: W Richards, R Watts, R Carhart-Harris, J Rucker and L Roseman
 
 A validation sample was collected within other studies (overall N=379 participants) for which factor analyses revealed six emotional breakthrough items with high internal consistency (Cronbach’s alpha=0.932). These are rated using a visual analogue scale (VAS) (0–100, with incremental units of one) with zero defined as ‘No, not more than usually’, and 100 defined as ‘Yes, entirely or completely’. NOTE: Unfortunately, this is not the identical anchors as used by the 11-ASC (See "Note" in the EDI section).
 
-The same VUS would make it very convenient to apply the EBI along with the 11-ASC - however, we are not sure what to advise with regards to the unfortunate confusion of anchors by Roseman et al. (2019) and Nour et al. (2016). 
-At the moment it might be best practice to apply the same instructions for the two questionnaires,  and simply switch the anchors of the VAS when applying the EDI or EBI items:
+The same VAS would make it very convenient to apply the EBI along with the 11-ASC - however, we are not sure what to advise with regards to the unfortunate confusion of anchors by Roseman et al. (2019) and Nour et al. (2016). 
+At the moment it might be best practice to apply the same instructions for the two questionnaires,  and simply switch the anchors of the VAS when applying the EDI or EBI items. However, the different anchors reduce the comparability of the data if participants do not process the anchors properly.
 
 * I faced emotionally difficult feelings that I usually push aside. 
 * I experienced a resolution of a personal conflict/trauma. 
@@ -95,9 +95,9 @@ At the moment it might be best practice to apply the same instructions for the t
 * I was able to get a sense of closure on an emotional problem.
 * I achieved an emotional release followed by a sense of relief.
 
-In addition the data of Roseman et al. (2019)  supports that emotional breakthrough can be seen as a distinct component of the psychedelic experience. When testing for their predictive power, they report that Emotional breakthrough and Mystical Experience Questionnaire scores predicted increases in well-being and Challenging Experience Questionnaire scores predicted less increases.
+The data of Roseman et al. (2019) supports that emotional breakthrough can be seen as a distinct component of the psychedelic experience. 
 
-Taken together the six EBI items comprise a reasonably small set of items which can be applied along with the 11-ASC and EDI questionnaire. These are particularly helpful in the context of clinical studies where emotional breakthrough is one of the aspects of altered states experiences which is seen as a promising predictor for treatment outcome.
+Taken together the six EBI items comprise a reasonably small set of items which can be applied along with the 11-ASC and EDI questionnaire. These might carry out to be helpful in clinical studies, where emotional breakthrough during an acute altered state experience might be a predictor for treatment outcome.
 
 
 
