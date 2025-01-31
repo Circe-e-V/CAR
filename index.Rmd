@@ -2,6 +2,9 @@
 title: "Quantifying Experiences made during Altered States of Consciousness with Questionnaires"
 author: "Dr. Timo Torsten Schmidt, Circe e.V."
 date: "`r Sys.Date()`"
+bibliography: references.bib
+biblio-style: chapter
+csl: styles/the-journal-of-neuroscience.csl
 site: bookdown::bookdown_site
 ---
 
