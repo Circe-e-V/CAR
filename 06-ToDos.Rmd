@@ -7,6 +7,7 @@ Here is a list of ToDo's in this book project:
 
 * Add a chapter with some basic reflections on Test Theory. In particular it shall include:
   * Information and illustration on the different types of scoring (VAS vs. Likert scales) and anchors that are used
+  * Discuss that lately many research groups use digital versions of the questionnaires. For some there still exist paper-pencil versions which have items in a fixed order. In order to address order-effects, for some questionnaires there exist multiple versions. Even though the order-effects are typcially not systematically explored, it appears best practice for online versions to switch to randomizing the order of items.
   * Difference between state and trate questionnaires and their relationship
   * Information about different measures of validity that are typically reported. 
     * Cronbachs Alpha (Consistency)
@@ -19,6 +20,9 @@ Here is a list of ToDo's in this book project:
 Information on the questionnaires to be added:
 * Add systematic information on different validity measures that are reported for each questionnaire.
 * Add to overview table details information on different translations to different languages
+* Add a section on additional questionnaires, which are relevant in the context of ASC research
+    * https://journals.sagepub.com/doi/10.1177/02698811211073758 
+    * https://journals.sagepub.com/doi/10.1177/02698811241249698
 
 * Add sections on:
   * Wave; Oña et al. (2020) (Spanish)
