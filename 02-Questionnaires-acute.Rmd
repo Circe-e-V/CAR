@@ -1,380 +1,655 @@
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
 # Questionnaires for acute ASC phenomena
 
-In this chapter we will discuss questionnaires, which are designed to quantitatively assess altered states experiences. Some of them aim to cover the whole spectrum of ASC experiences, others focus specific features of ASC experiences, such as the experience of ego dissolution or connectedness.
+In this chapter we will discuss questionnaires, which are designed to quantitatively assess altered states experiences.
+Some of them aim to cover the whole spectrum of ASC experiences, others focus specific features of ASC experiences, such as the experience of ego dissolution or connectedness.
 
-We first summarize the background and history of questionnaire construction. Some of the questionnaires have undergone multiple revisions and developments with different names. In addition we try to collect information on existing translations and validations in different languages. Further, we try to collect information on Copyrights, where available and applicable.
+We first summarize the background and history of questionnaire construction.
+Some of the questionnaires have undergone multiple revisions and developments with different names.
+In addition we try to collect information on existing translations and validations in different languages.
+Further, we try to collect information on Copyrights, where available and applicable.
 
-We discuss the questionnaires in the order that approximately reflect the prevalence of use of the questionnaire in current research based on the number of datasets in The Altered States Database (www.asdb.info; See also the most recent update by Dewitt et al. 2024) 
+We discuss the questionnaires in the order that approximately reflect the prevalence of use of the questionnaire in current research based on the number of datasets in The Altered States Database (www.asdb.info; See also the most recent update by Dewitt et al. 2024)
 
 ## Altered States of Consciousness Rating Scales (ASC-R)
-The currently used version(s) of the Altered States of Consciousness Rating Scale (ASC-R) (@Dittrich2006, @Dittrich2010) originated from two former versions and was originally developed in German. The ASC-R has become the most frequently used psychometric tools in the assessment of ASC phenomena. The development of the scale followed the assumption that ASCs have a common core that is independent of the particular induction method (ethiology-independent dimensions of altered states). Therefore, in contrast to other instruments, the ASC-R is supposed to investigate characteristics of ASCs that are invariant across various methods to induce ASCs, including both pharmacological (e.g., psilocybin, ketamine, DMT, MDMA) and non-pharmacological induction methods (e.g., sensory deprivation, hypnosis, autogenic training). However, it is noticeable in the item selection, that the original authors had a research focus on the effects of psychedelics. Over the course of more than 30 years, the questionnaire underwent several refinements. Due to a lack of systematic curation, there is currently different versions in use and confusion about how to analyze them and present results. To support future research we summarize the history of the questionnaire with its different versions and point to unfortunate ambiguities in how data is currently reported.
+
+The currently used version(s) of the Altered States of Consciousness Rating Scale (ASC-R) (@Dittrich2006, @Dittrich2010) originated from two former versions and was originally developed in German.
+The ASC-R has become the most frequently used psychometric tools in the assessment of ASC phenomena.
+The development of the scale followed the assumption that ASCs have a common core that is independent of the particular induction method (ethiology-independent dimensions of altered states).
+Therefore, in contrast to other instruments, the ASC-R is supposed to investigate characteristics of ASCs that are invariant across various methods to induce ASCs, including both pharmacological (e.g., psilocybin, ketamine, DMT, MDMA) and non-pharmacological induction methods (e.g., sensory deprivation, hypnosis, autogenic training).
+However, it is noticeable in the item selection, that the original authors had a research focus on the effects of psychedelics.
+Over the course of more than 30 years, the questionnaire underwent several refinements.
+Due to a lack of systematic curation, there is currently different versions in use and confusion about how to analyze them and present results.
+To support future research we summarize the history of the questionnaire with its different versions and point to unfortunate ambiguities in how data is currently reported.
 
 ### APZ
-The name APZ is based on the original German name: Abnorme Psychische Zustände (abnormal mental states).  An initial item collection was based on several self-assessment questionnaires on ASCs, and psychiatric rating scales, which resulted in a 158-item questionnaire version. In a series of experiments, which included data from variable induction methods, as well as factor and cluster analyses, the item pool was reduced to 72. These items comprise three common dimensions of ASC experiences: Oceanic Boundlessness (OBN), which measuring positive symptoms of dissolution of boundaries between self and surroundings; Dread of Ego Dissolution (DED) measuring negative symptoms of dissolution of boundaries between self and surroundings, and Visionary Reconstruction (VRS) measuring perceptual changes and imagination (@Dittrich1985).
+
+The name APZ is based on the original German name: Abnorme Psychische Zustände (abnormal mental states).
+An initial item collection was based on several self-assessment questionnaires on ASCs, and psychiatric rating scales, which resulted in a 158-item questionnaire version.
+In a series of experiments, which included data from variable induction methods, as well as factor and cluster analyses, the item pool was reduced to 72.
+These items comprise three common dimensions of ASC experiences: Oceanic Boundlessness (OBN), which measuring positive symptoms of dissolution of boundaries between self and surroundings; Dread of Ego Dissolution (DED) measuring negative symptoms of dissolution of boundaries between self and surroundings, and Visionary Reconstruction (VRS) measuring perceptual changes and imagination (@Dittrich1985).
 
 ### OAV
-The name OAV uses the first letters of the German names of the three main dimensions of the APZ (Ozeanische Selbstentgrenzung (OSE = OBN); Angstvolle Ich-Auflösung (AIA = DED) und Visuelle Restrukturalisierung (VRS)). For the OAV version, the questionnaire was revised in terms of conceptualization, wording, and form in the scope of an unpublished master thesis (@bodmer1989). The most important modification was the replacement of the former dichotomous response format by visual analog scales to allow the assessment of the intensity of effects (@bodmer1994).
+
+The name OAV uses the first letters of the German names of the three main dimensions of the APZ (Ozeanische Selbstentgrenzung (OSE = OBN); Angstvolle Ich-Auflösung (AIA = DED) und Visuelle Restrukturalisierung (VRS)).
+For the OAV version, the questionnaire was revised in terms of conceptualization, wording, and form in the scope of an unpublished master thesis (@bodmer1989).
+The most important modification was the replacement of the former dichotomous response format by visual analog scales to allow the assessment of the intensity of effects (@bodmer1994).
 
 ### 5D-ASC (or OAVAV)
-The common core dimensions OBN, DED and VRS were complemented by two additional empirically derived scales: Auditory Alterations (AUA) and Vigilance Reduction (VIR). These scales assess changes in auditory perception such as hallucinations and drowsiness or clouding of consciousness, respectively. As opposed to the former three, these additional dimensions are considered rather specific to certain induction methods (@Dittrich2006, @Dittrich2010), and their validation is not as good as the one of the main three dimensions (See below). The 5D-ASC version with 96-items that comprise 5 dimensions has become a standard tool for the assessment of effects of psychedelics (including clinical studies), and also a Handbook for the analysis is available (in German). 
-For the analysis Mean scores of the items that belong to the corresponding dimension are calculated and expressed as percentage of maximum score (for convenience the original print version uses corresponding visual analog scales of 10cm length). 
-Note: In some older publications one can find a sum score, instead of a mean percentage score, which causes problems for comparability as the dimensions contain different amounts of items. In the Altered States Database, such data has been converted (typically after confirmation from the authors of the accurate number of items). It is advised to report data, as percentage of maximum score.
+
+The common core dimensions OBN, DED and VRS were complemented by two additional empirically derived scales: Auditory Alterations (AUA) and Vigilance Reduction (VIR).
+These scales assess changes in auditory perception such as hallucinations and drowsiness or clouding of consciousness, respectively.
+As opposed to the former three, these additional dimensions are considered rather specific to certain induction methods (@Dittrich2006, @Dittrich2010), and their validation is not as good as the one of the main three dimensions (See below).
+The 5D-ASC version with 94-items that comprise 5 dimensions has become a standard tool for the assessment of effects of psychedelics (including clinical studies), and also a Handbook for the analysis is available (in German).
+For the analysis Mean scores of the items that belong to the corresponding dimension are calculated and expressed as percentage of maximum score (for convenience the original print version uses corresponding visual analog scales of 10cm length).
+Note: In some older publications one can find a sum score, instead of a mean percentage score, which causes problems for comparability as the dimensions contain different amounts of items.
+In the Altered States Database, such data has been converted (typically after confirmation from the authors of the accurate number of items).
+It is advised to report data, as percentage of maximum score.
 
 ### 11-ASC
-Several methodological shortcomings of the 5D-ASC construction motivated a reanalysis which revealed a new analysis scheme for a subset of 42 items of the ASC-R (@Studerus2010). This analysis was based on only the 66 items belonging to the three main dimensions of the 5D-ASC (the original OAV dimensions). Re-examination of the factorial structure was based on psilocybin and ketamine data and revealed that an 11-factorial model is suitable to fit the data and increases scale homogeneity (Studerus et al., 2010). Corresponding scales were named as: (1) Experience of Unity, (2) Spiritual Experience, (3) Blissful State, (4) Insightfulness, (5) Disembodiment, (6) Impaired Control and Cognition, (7) Anxiety, (8) Complex Imagery, (9) Elementary Imagery, (10) Audio-Visual Synesthesia, and (11) Changed Meaning of Percepts. These eleven factors can be regarded as basic/elementary subscales of the three original scales, which describe rather high-order concepts. 
+
+Several methodological shortcomings of the 5D-ASC construction motivated a reanalysis which revealed a new analysis scheme for a subset of 42 items of the ASC-R (@Studerus2010).
+This analysis was based on only the 66 items belonging to the three main dimensions of the 5D-ASC (the original OAV dimensions).
+Re-examination of the factorial structure was based on psilocybin and ketamine data and revealed that an 11-factorial model is suitable to fit the data and increases scale homogeneity (Studerus et al., 2010).
+Corresponding scales were named as: (1) Experience of Unity, (2) Spiritual Experience, (3) Blissful State, (4) Insightfulness, (5) Disembodiment, (6) Impaired Control and Cognition, (7) Anxiety, (8) Complex Imagery, (9) Elementary Imagery, (10) Audio-Visual Synesthesia, and (11) Changed Meaning of Percepts.
+These eleven factors can be regarded as basic/elementary subscales of the three original scales, which describe rather high-order concepts.
 
 ### Short Versions
-Three short versions are known to us:
-(1) Preller et al. (Psilocybin induced time-dependent chances in Globabl Funtional Connectivity, Biological Psychiatry), report that they used a short version with the fMRI. Here participants rated by button press on a 4-point scale from "1 (not at all)" to "4 (very much)", while th exact questions were not specified. Assumably they used the scale names "Complex Imagery", "Disembodiment", "Elementary Imagery" and "Experience of Unity", as ratings for those subscales (maybe here used as items), are reported in Figure 1F.
 
-(2) Within the [Altered Xperience Project](www.alteredXproject.com) Citizen Science project ([Schmidt et al. 2023](https://osf.io/preprints/psyarxiv/45z7w)) a 22-item version was applied. Items were selected based on the 'items validation' according to Studerus et al. This short version has not been validated, but the collected data is available on OSF and is open to be used for a validation (Go for it if you have time and let the authors know).
+Three short versions are known to us: (1) Preller et al. (Psilocybin induced time-dependent chances in Globabl Funtional Connectivity, Biological Psychiatry), report that they used a short version with the fMRI.
+Here participants rated by button press on a 4-point scale from "1 (not at all)" to "4 (very much)", while th exact questions were not specified.
+Assumably they used the scale names "Complex Imagery", "Disembodiment", "Elementary Imagery" and "Experience of Unity", as ratings for those subscales (maybe here used as items), are reported in Figure 1F.
+
+(2) Within the [Altered Xperience Project](www.alteredXproject.com) Citizen Science project ([Schmidt et al. 2023](https://osf.io/preprints/psyarxiv/45z7w)) a 22-item version was applied.
+    Items were selected based on the 'items validation' according to Studerus et al.
+    This short version has not been validated, but the collected data is available on OSF and is open to be used for a validation (Go for it if you have time and let the authors know).
 
 (3) To the best of our knowledge a team in the Netherlands is currently working on the validation of a even shorter version.
 
-In addition to these short versions, one could think about the srategy taken for the MEQ-4 and CEQ-7, namely to simpy have participants rate on the name of the subscale. This would result in 11 items where one is rating on a VAS.
+In addition to these short versions, one could think about the srategy taken for the MEQ-4 and CEQ-7, namely to simpy have participants rate on the name of the subscale.
+This would result in 11 items where one is rating on a VAS.
 
 ### Important notes
-Note 1: Please note that the 11-factorial analysis scheme presented by @Studerus2010 revealed 11 factors (!) and not 11 dimensions. Unfortunately, the original publication of the analysis scheme did not contain a suggestion for a new name, and multiple authors (including ourselves) started to name it “11D-ASC”. However, this is appears not appropriate and instead we suggest now to speak about the ASC-R to refer to the full questionnaire with 96-items, which can be analyzed according to the 5D-ASC or the 11-ASC analysis scheme. 
-Note 2: Please note that the 11 factors of the 11-ASC can be assigned to the three main dimensions of the 5D-ASC. Unfortunately, some publications contain a wrong assignment of the 11 scales where the Disembodiment factor is assigned to DED (e.g. @Vollenweider2010). However, the items that comprise the Disembodiment factor are taken from OBN and should be assigned correspondingly (Compare how they are displayed e.g. in @Hirschfeld2021 or @Hirschfeld2023).
-Note 3:  It should be noted that the three main dimensions of the 5D-ASC are calculated from the original set of 66 items. If only a 42-item version was applied, it is not possible to calculate the scores for OBN, DED or VUS. It is neither valid to take the mean score of the scales (mean of means), nor is it valid to take the mean score of all items belonging to the corresponding dimensions.
-Note 4: It is not clear to us what the situation with regards to Copyrights of the 5D-ASC is. The original publication states that the copyrights are with “PSIN PLUS Publicationes, 2006”. However, it appears that the corresponding publisher is highly limited in the responsiveness with regards to placing orders or issuing bills for license fees. Potentially the publisher does not exist anymore (We cannot find any traces online - If somebody has more information on this – please let us know and we are happy to make this information available here).
+
+Note 1: Please note that the 11-factorial analysis scheme presented by @Studerus2010 revealed 11 factors (!) and not 11 dimensions.
+Unfortunately, the original publication of the analysis scheme did not contain a suggestion for a new name, and multiple authors (including ourselves) started to name it “11D-ASC”.
+However, this is appears not appropriate and instead we suggest now to speak about the ASC-R to refer to the full questionnaire with 96-items, which can be analyzed according to the 5D-ASC or the 11-ASC analysis scheme.
+Note 2: Please note that the 11 factors of the 11-ASC can be assigned to the three main dimensions of the 5D-ASC.
+Unfortunately, some publications contain a wrong assignment of the 11 scales where the Disembodiment factor is assigned to DED (e.g. @Vollenweider2010).
+However, the items that comprise the Disembodiment factor are taken from OBN and should be assigned correspondingly (Compare how they are displayed e.g. in @Hirschfeld2021 or @Hirschfeld2023).
+Note 3: It should be noted that the three main dimensions of the 5D-ASC are calculated from the original set of 66 items.
+If only a 42-item version was applied, it is not possible to calculate the scores for OBN, DED or VUS.
+It is neither valid to take the mean score of the scales (mean of means), nor is it valid to take the mean score of all items belonging to the corresponding dimensions.
+Note 4: It is not clear to us what the situation with regards to Copyrights of the 5D-ASC is.
+The original publication states that the copyrights are with “PSIN PLUS Publicationes, 2006”.
+However, it appears that the corresponding publisher is highly limited in the responsiveness with regards to placing orders or issuing bills for license fees.
+Potentially the publisher does not exist anymore (We cannot find any traces online - If somebody has more information on this – please let us know and we are happy to make this information available here).
 
 ### Validation, Translations, Adaptations and Future Developments
-In terms of quality criteria, the German 5D-ASC and its former versions were repeatedly assessed as reliable and valid instruments. The validation of the APZ revealed good results regarding internal consistency, test-retest reliability as well as convergent and discriminant validity (Dittrich1985). Assessments of internal consistency estimated by Hoyt (0.89 to 0.95) and test-retest correlation (0.75<r<0.82) suggest the OAV’s reliability (@bodmer1989). Internal consistency (estimated by Hoyt) was also good for the 5D-ASC’s additional scales: 0.88 (AUA) and 0.88 (VIR) (@Dittrich2006 @Dittrich2010). The proposed 11-factorial structure was assessed in a pooled data analysis of several experimental studies, which were however limited to pharmacological induction methods of ASCs. This evaluation indicates high reliability for all scales with a mean Cronbach’s alpha of 0.83. Correlation with the EWL-60-S (short form of the Adjective Word List) and the STAI-S (state version of the State-Trait-Anxiety Inventory) suggest convergent and discriminant validity of this scale (@Studerus2010). Together with alternative reliability assessments, these results demonstrate its suitability as a reliable and valid psychometric tool for the assessment of subjective experiences occurring during ASCs.
-Originally developed in German, the Altered State of Consciousness Rating Scale was translated into English and several other languages (@Studerus2012b). Recent application in neuroimaging studies demonstrates its wide acceptance and significance for the scientific study of ASCs (e.g. @CarhartHarris2016a). However, this questionnaire is, except for its earlier version APZ, is to the best of our knowledge not validated in other languages than German. 
-A adaption for the assessment of effects of Floating-REST has been reported and termed Experienced Deviation from the Normal State questionnaire (EDN) (@Kjellgren2001). 
-A current trend in the field is to develop short and ultra-short version of questionnaires to take less time in the assessment. A 22-item version was used in the Altered eXperience Project (Schmidt et al. 2023), and we have heard about current attempts to validate a 11-item version (personal communication - We will post updates as soon as we have more information).
+
+In terms of quality criteria, the German 5D-ASC and its former versions were repeatedly assessed as reliable and valid instruments.
+The validation of the APZ revealed good results regarding internal consistency, test-retest reliability as well as convergent and discriminant validity (Dittrich1985).
+Assessments of internal consistency estimated by Hoyt (0.89 to 0.95) and test-retest correlation (0.75\<r\<0.82) suggest the OAV’s reliability (@bodmer1989).
+Internal consistency (estimated by Hoyt) was also good for the 5D-ASC’s additional scales: 0.88 (AUA) and 0.88 (VIR) (@Dittrich2006 @Dittrich2010).
+The proposed 11-factorial structure was assessed in a pooled data analysis of several experimental studies, which were however limited to pharmacological induction methods of ASCs.
+This evaluation indicates high reliability for all scales with a mean Cronbach’s alpha of 0.83.
+Correlation with the EWL-60-S (short form of the Adjective Word List) and the STAI-S (state version of the State-Trait-Anxiety Inventory) suggest convergent and discriminant validity of this scale (@Studerus2010).
+Together with alternative reliability assessments, these results demonstrate its suitability as a reliable and valid psychometric tool for the assessment of subjective experiences occurring during ASCs.
+Originally developed in German, the Altered State of Consciousness Rating Scale was translated into English and several other languages (@Studerus2012b).
+Recent application in neuroimaging studies demonstrates its wide acceptance and significance for the scientific study of ASCs (e.g. @CarhartHarris2016a).
+However, this questionnaire is, except for its earlier version APZ, is to the best of our knowledge not validated in other languages than German.
+A adaption for the assessment of effects of Floating-REST has been reported and termed Experienced Deviation from the Normal State questionnaire (EDN) (@Kjellgren2001).
+A current trend in the field is to develop short and ultra-short version of questionnaires to take less time in the assessment.
+A 22-item version was used in the Altered eXperience Project (Schmidt et al. 2023), and we have heard about current attempts to validate a 11-item version (personal communication - We will post updates as soon as we have more information).
 
 ## Ego-Dissolution Inventory (EDI)
+
 The EDI can be seen as an extension of the 11-ASC.
 
-The phenomenon of ‘ego-dissolution’ is a substantial aspect of ASCs induced by psychedelic substances (@Lebedev2015; @Tagliazucchi2016) and ‘mystical experiences’ following religious rites (@MacLean2012) or sensory deprivation in flotation tanks (@Kjellgren2009). ‘Ego-dissolution’ is defined as derealization and depersonalization, which can be experienced as positive and negative. As a removal of boundaries between self and surroundings and feeling of all-embracing unity, ‘ego-dissolution’ is discussed in the context of psychosis (@Scharfetter1981) as well as psychotherapy (@Majic2015). The Ego-Dissolution Inventory (EDI) was designed as unidimensional assessment of this phenomenon (@Nour2016). The questionnaire comprises eight items covering both ‘ego-dissolution’ which are rated on a VAS, corresponding to the response format of the 11-ASC (@Nour2016):
+The phenomenon of ‘ego-dissolution’ is a substantial aspect of ASCs induced by psychedelic substances (@Lebedev2015; @Tagliazucchi2016) and ‘mystical experiences’ following religious rites (@MacLean2012) or sensory deprivation in flotation tanks (@Kjellgren2009).
+‘Ego-dissolution’ is defined as derealization and depersonalization, which can be experienced as positive and negative.
+As a removal of boundaries between self and surroundings and feeling of all-embracing unity, ‘ego-dissolution’ is discussed in the context of psychosis (@Scharfetter1981) as well as psychotherapy (@Majic2015).
+The Ego-Dissolution Inventory (EDI) was designed as unidimensional assessment of this phenomenon (@Nour2016).
+The questionnaire comprises eight items covering both ‘ego-dissolution’ which are rated on a VAS, corresponding to the response format of the 11-ASC (@Nour2016):
 
-* I experienced a dissolution of my "self" or ego
-* I felt at one with the universe
-* I feld a sense of union with others
-* I experienced a decrease in my sense of self-importance
-* I experienced a disintegration of my "self" or ego
-* I felt far less absorbed by my own issues and concerns
-* I lost all sense of ego
-* All notion of self and identity dissolved away
+-   I experienced a dissolution of my "self" or ego
+-   I felt at one with the universe
+-   I feld a sense of union with others
+-   I experienced a decrease in my sense of self-importance
+-   I experienced a disintegration of my "self" or ego
+-   I felt far less absorbed by my own issues and concerns
+-   I lost all sense of ego
+-   All notion of self and identity dissolved away
 
 In the validation study additional eight items were included to assess the counterpart of ego-dissolution, namely ‘ego-inflation’, the experience of enhanced self-consciousness:
 
-* I felt especially assertive
-* I felt more important or special than others
-* My ego felt inflated
-* I felt especially sure-of-myself
-* I felt especially keen and competitive
-* I felt like my viewpoint was worth more than other peoples'
-* I felt especially self-confident
-* I felt especially self-assured
+-   I felt especially assertive
+-   I felt more important or special than others
+-   My ego felt inflated
+-   I felt especially sure-of-myself
+-   I felt especially keen and competitive
+-   I felt like my viewpoint was worth more than other peoples'
+-   I felt especially self-confident
+-   I felt especially self-assured
 
-
-Evaluation of its psychometric properties (@Nour2016) confirmed that the EDI differentiates between stimulus conditions (psychedelic substance vs. cocaine vs. alcohol), suggesting   discriminant validity. Moreover, the positive correlation (Spearman’s rho=0.735, p<0.001) with the Mystical scale of the MEQ30 supports its convergent validity. As a first estimate of reliability, the internal consistency was assessed by Cronbach’s alpha (0.93).
-The EDI appears to be a psychometrically sound instrument. However, it covers only one specific aspect of the ASC experience and is, therefore, not suitable for studies investigating the common core of ASCs. As ‘ego-dissolution’ seems to be a phenomenon central to ASCs induced by different induction methods, the EDI might well contribute to comparability between studies that focus on this specific aspect. The quantification of ‘ego-dissolution’ and identification of its neural substrates is an important endeavor, particularly with respect to its psychotherapeutic potential. Moreover, as the response formats correspond, the EDI can be applied as a supplement to the 5D-ASC. 
+Evaluation of its psychometric properties (@Nour2016) confirmed that the EDI differentiates between stimulus conditions (psychedelic substance vs. cocaine vs. alcohol), suggesting discriminant validity.
+Moreover, the positive correlation (Spearman’s rho=0.735, p\<0.001) with the Mystical scale of the MEQ30 supports its convergent validity.
+As a first estimate of reliability, the internal consistency was assessed by Cronbach’s alpha (0.93).
+The EDI appears to be a psychometrically sound instrument.
+However, it covers only one specific aspect of the ASC experience and is, therefore, not suitable for studies investigating the common core of ASCs.
+As ‘ego-dissolution’ seems to be a phenomenon central to ASCs induced by different induction methods, the EDI might well contribute to comparability between studies that focus on this specific aspect.
+The quantification of ‘ego-dissolution’ and identification of its neural substrates is an important endeavor, particularly with respect to its psychotherapeutic potential.
+Moreover, as the response formats correspond, the EDI can be applied as a supplement to the 5D-ASC.
 Recently a German translation and validation has been published REF
 
-NOTE: Unfortunately, the EDI uses different anchors on the VAS than the 11-ASC/5D-ASC. The authors of the EDI report that they used the anchot "Yes, entirely or completely" (instead of "Yes, much more than usual). We expect that this indeed makes a difference. We are worried that multiple studies consecutively confused the anchors and/or mixed them up. However, until today we did not manage to research this further.
-
+NOTE: Unfortunately, the EDI uses different anchors on the VAS than the 11-ASC/5D-ASC.
+The authors of the EDI report that they used the anchot "Yes, entirely or completely" (instead of "Yes, much more than usual).
+We expect that this indeed makes a difference.
+We are worried that multiple studies consecutively confused the anchors and/or mixed them up.
+However, until today we did not manage to research this further.
 
 ## Emotional Breakthrough Inventory (EBI)
+
 The EBI can be seen as an extension of the 11-ASC.
 
-In the context of psychedelic therapy predictors for positive treatment outcome are searched for. While much research was focused on the concept of mystical experiences as predictor of treatment outcome, @Roseman2019 proposed to assess "emotional breakthrough" as a factor. The items of the questionnaire were derived from interviews from a previous clinical trial and formualted by the expert committee: W Richards, R Watts, R Carhart-Harris, J Rucker and L Roseman
+In the context of psychedelic therapy predictors for positive treatment outcome are searched for.
+While much research was focused on the concept of mystical experiences as predictor of treatment outcome, @Roseman2019 proposed to assess "emotional breakthrough" as a factor.
+The items of the questionnaire were derived from interviews from a previous clinical trial and formualted by the expert committee: W Richards, R Watts, R Carhart-Harris, J Rucker and L Roseman
 
-A validation sample was collected within other studies (overall N=379 participants) for which factor analyses revealed six emotional breakthrough items with high internal consistency (Cronbach’s alpha=0.932). These are rated using a visual analogue scale (VAS) (0–100, with incremental units of one) with zero defined as ‘No, not more than usually’, and 100 defined as ‘Yes, entirely or completely’. NOTE: Unfortunately, this is not the identical anchors as used by the 11-ASC (See "Note" in the EDI section).
+A validation sample was collected within other studies (overall N=379 participants) for which factor analyses revealed six emotional breakthrough items with high internal consistency (Cronbach’s alpha=0.932).
+These are rated using a visual analogue scale (VAS) (0–100, with incremental units of one) with zero defined as ‘No, not more than usually’, and 100 defined as ‘Yes, entirely or completely’.
+NOTE: Unfortunately, this is not the identical anchors as used by the 11-ASC (See "Note" in the EDI section).
 
-The same VAS would make it very convenient to apply the EBI along with the 11-ASC - however, we are not sure what to advise with regards to the unfortunate confusion of anchors by @Roseman2019 and @Nour2016. 
-At the moment it might be best practice to apply the same instructions for the two questionnaires,  and simply switch the anchors of the VAS when applying the EDI or EBI items. However, the different anchors reduce the comparability of the data if participants do not process the anchors properly.
+The same VAS would make it very convenient to apply the EBI along with the 11-ASC - however, we are not sure what to advise with regards to the unfortunate confusion of anchors by @Roseman2019 and @Nour2016.
+At the moment it might be best practice to apply the same instructions for the two questionnaires, and simply switch the anchors of the VAS when applying the EDI or EBI items.
+However, the different anchors reduce the comparability of the data if participants do not process the anchors properly.
 
-* I faced emotionally difficult feelings that I usually push aside. 
-* I experienced a resolution of a personal conflict/trauma. 
-* I felt able to explore challenging emotions and memories.
-* I had an emotional breakthrough.
-* I was able to get a sense of closure on an emotional problem.
-* I achieved an emotional release followed by a sense of relief.
+-   I faced emotionally difficult feelings that I usually push aside.
+-   I experienced a resolution of a personal conflict/trauma.
+-   I felt able to explore challenging emotions and memories.
+-   I had an emotional breakthrough.
+-   I was able to get a sense of closure on an emotional problem.
+-   I achieved an emotional release followed by a sense of relief.
 
-The data of @Roseman2019 supports that emotional breakthrough can be seen as a distinct component of the psychedelic experience. 
+The data of @Roseman2019 supports that emotional breakthrough can be seen as a distinct component of the psychedelic experience.
 
-Taken together the six EBI items comprise a reasonably small set of items which can be applied along with the 11-ASC and EDI questionnaire. These might carry out to be helpful in clinical studies, where emotional breakthrough during an acute altered state experience might be a predictor for treatment outcome.
-
-
+Taken together the six EBI items comprise a reasonably small set of items which can be applied along with the 11-ASC and EDI questionnaire.
+These might carry out to be helpful in clinical studies, where emotional breakthrough during an acute altered state experience might be a predictor for treatment outcome.
 
 ## Phenomenology of Consciousness Inventory (PCI)
-The Phenomenology of Consciousness Inventory (PCI) (@Pekala1982, @Pekala1991) was developed in the context of an interdisciplinary approach that is described as empirical-phenomenological (@Pekala1991). Most notably influenced by C. T. Tart’s conception of ASCs (@Tart1972), it is hypothesized that different states are characterized by distinct structures and patterns of subjective experiences (@Pekala1991). The subjective experience of a certain state can be characterized based on phenomenologically well-defined dimensions which can be quantified in terms of their intensity. The resulting pattern is assumed to be typical of a specific induction method and can be observed consistently whenever this method is applied.
-The PCI is a self-report questionnaire that is completed in retrospect, after acute ASC effects have subsided. Originating from three previous versions, the Phenomenology of Consciousness Questionnaire (PCQ), the (Abbreviated) Dimensions of Consciousness Questionnaire ((A)DCQ), and the Pre-PCI, the most recent version of the PCI is available in two different versions. Form 1 and Form 2 contain the same number of items, which are, however, arranged in a different order. The items of the PCI are presented as two opposing statements located on the two poles of a 7-point Likert scale. The statements address 12 major dimensions, five being further subdivided into more specific sub-dimensions: (1) Altered State of Awareness, (2) Altered Experience (Altered Body Image, Altered Time Sense, Altered Perception, Altered Meaning), (3) Volitional Control, (4) Self-awareness, (5) Rationality, (6) Internal Dialogue, (7) Positive Affect (Joy, Sexual Excitement, Love), (8) Negative Affect (Anger, Sadness, Fear), (9) Imagery (Amount, Vividness), (10) Attention (Direction, Absorption), (11) Memory and (12) Arousal. Corresponding scales were constructed on the basis of several cluster and factor analyses. 
 
-Several studies were conducted in order to evaluate the PCI’s quality in terms of validity and reliability. Assessments of the English PCI under different stimulus conditions (@Pekala1991) demonstrate good overall internal consistency with an average Cronbach’s alpha ranging from of 0.75 to 0.83 for major  dimensions. Evidence for the PCI’s good validity is given by the comparison with the Dimensions of Attention Questionnaire (DAQ) (0.69< r <0.78) (@Pekala1991) and the prediction of hypnotic susceptibility as measured with the Harvard Group Scale of Hypnotic Susceptibility (HGSHS) on the basis of the PCI’s major dimensions; e.g. significant correlation (r=0.64, p<0.05) of predicted and actual HGSHS scores using the regression coefficients from a previous study (@Pekala1995). In the scope of a diploma thesis @Rux2002 evaluated the German version of the PCI. The reliability assessment yielded a medium internal consistency for all scales with alpha coefficients being lowest for Love (0.37) and highest for Altered State of Internal Dialogue (0.86) and an average alpha of 0.69. 
-The original version of the PCI was translated from English into German by Ott and subsequently authorized by Pekala (@Rux2002). An Excel sheet, available from the questionnaire’s author upon request, allows for an automatic computation of item and factor scores.
-In summary, this broad questionnaire allows for a quite fine-grained assessment due to its 12 major and 14 minor scales. However, it should be considered that the PCI was designed with a focus on hypnosis and has primarily been applied in studies investigating effects of hypnosis, meditation, and related induction methods like shamanic-journeying or stress management techniques. Its administration in pharmacological studies is rather rare.
+The Phenomenology of Consciousness Inventory (PCI) (@Pekala1982, @Pekala1991) was developed in the context of an interdisciplinary approach that is described as empirical-phenomenological (@Pekala1991).
+Most notably influenced by C.
+T. Tart’s conception of ASCs (@Tart1972), it is hypothesized that different states are characterized by distinct structures and patterns of subjective experiences (@Pekala1991).
+The subjective experience of a certain state can be characterized based on phenomenologically well-defined dimensions which can be quantified in terms of their intensity.
+The resulting pattern is assumed to be typical of a specific induction method and can be observed consistently whenever this method is applied.
+The PCI is a self-report questionnaire that is completed in retrospect, after acute ASC effects have subsided.
+Originating from three previous versions, the Phenomenology of Consciousness Questionnaire (PCQ), the (Abbreviated) Dimensions of Consciousness Questionnaire ((A)DCQ), and the Pre-PCI, the most recent version of the PCI is available in two different versions.
+Form 1 and Form 2 contain the same number of items, which are, however, arranged in a different order.
+The items of the PCI are presented as two opposing statements located on the two poles of a 7-point Likert scale.
+The statements address 12 major dimensions, five being further subdivided into more specific sub-dimensions: (1) Altered State of Awareness, (2) Altered Experience (Altered Body Image, Altered Time Sense, Altered Perception, Altered Meaning), (3) Volitional Control, (4) Self-awareness, (5) Rationality, (6) Internal Dialogue, (7) Positive Affect (Joy, Sexual Excitement, Love), (8) Negative Affect (Anger, Sadness, Fear), (9) Imagery (Amount, Vividness), (10) Attention (Direction, Absorption), (11) Memory and (12) Arousal.
+Corresponding scales were constructed on the basis of several cluster and factor analyses.
 
+Several studies were conducted in order to evaluate the PCI’s quality in terms of validity and reliability.
+Assessments of the English PCI under different stimulus conditions (@Pekala1991) demonstrate good overall internal consistency with an average Cronbach’s alpha ranging from of 0.75 to 0.83 for major dimensions.
+Evidence for the PCI’s good validity is given by the comparison with the Dimensions of Attention Questionnaire (DAQ) (0.69\< r \<0.78) (@Pekala1991) and the prediction of hypnotic susceptibility as measured with the Harvard Group Scale of Hypnotic Susceptibility (HGSHS) on the basis of the PCI’s major dimensions; e.g. significant correlation (r=0.64, p\<0.05) of predicted and actual HGSHS scores using the regression coefficients from a previous study (@Pekala1995).
+In the scope of a diploma thesis @Rux2002 evaluated the German version of the PCI.
+The reliability assessment yielded a medium internal consistency for all scales with alpha coefficients being lowest for Love (0.37) and highest for Altered State of Internal Dialogue (0.86) and an average alpha of 0.69.
+The original version of the PCI was translated from English into German by Ott and subsequently authorized by Pekala (@Rux2002).
+An Excel sheet, available from the questionnaire’s author upon request, allows for an automatic computation of item and factor scores.
+In summary, this broad questionnaire allows for a quite fine-grained assessment due to its 12 major and 14 minor scales.
+However, it should be considered that the PCI was designed with a focus on hypnosis and has primarily been applied in studies investigating effects of hypnosis, meditation, and related induction methods like shamanic-journeying or stress management techniques.
+Its administration in pharmacological studies is rather rare.
 
 ## Hallucinogen Rating Scale (HRS)
-Originally developed to quantify acute effects of synthetic dimethyltryptamine (DMT) (@Strassman1994), the HRS has become a frequently used instrument in the assessment of hallucinogen induced ASCs (DMT/ayahuasca: (@Riba2004); psilocybin: (@Griffiths2006); ketamine: (@Bowdle1998); salvinorin A: @MacLean2011). The initial construction of this questionnaire was based on systematic interviews with 19 experienced hallucinogen users, describing the effects of smoked DMT freebase. Effects specifically induced by DMT as well as characteristic effects of hallucinogenic substances in general were supposed to be covered by the resulting collection of items (@Strassman1994). The HRS measures six conceptually distinct dimensions of ASCs which were a priori defined and referred to as “clinical clusters”: (1) Somaesthesia: interoceptive, visceral, and cutaneous/tactile effects, (2) Affect: emotional/affective responses, (3) Perception: visual, auditory, gustatory, and olfactory experiences, (4) Cognition: alterations in thought processes or content, (5) Volition: a change in capacity to willfully interact with oneself, the environment, or certain aspects of the experience, and (6) Intensity: the overall strength and the course of the experience (@Strassman1994). Revision and refinement of early versions finally resulted in the HRS 3.06 as the most recent version (available from the questionnaire’s author upon request), containing 100 statements, most of which are rated on a 5-point scale.
 
-Application of a Spanish version of the HRS, assessing the effects of ayahuasca immediately after the ASC experiences, and its comparison with the ARCI short-form, confirmed the HRS’s sensitivity to prolonged alterations in consciousness caused by oral rather than intravenous DMT administration (@Riba2001). Further studies explored and demonstrated its suitability for quantifying the effects of other psychoactive substances like psilocybin (@GouzoulisMayfrank1999; @Griffiths2006), ketamine (@Bowdle1998), MDE and methamphetamine (@GouzoulisMayfrank1999), MDMA (@Tancer2007), and salvinorin A (@Johnson2011). Reliability assessments indicate a good internal consistency of the Affect, Somaesthesia, Cognition, and Perception scale and a comparison with the ARCI LSD scale revealed a moderate correlation with the Perception scale (r=0.28, p<0.05), and the Somaesthesia scale (r=0.33, p<0.05), respectively, suggesting acceptable convergent validity (@Riba2001). 
-The initial assignment of items to six “clinical clusters” has repeatedly been challenged. An initial principle component analysis (@Strassman1994) did not reflect the a priori assignment. @Riba2001 proposed a solution where 71 items are assigned to six factors and data by @bouso2016 suggests a substantially different distribution of 59 items in six factors.
-The HRS has been translated from English into Spanish, Portuguese, Italian, German, and Russian (@Strassman1994) thereby demonstrating its wide acceptance. Though not validated in all languages, the HRS appears to be a suitable psychometric tool that covers a wide range of cognitive, affective, and perceptual phenomena occurring with pharmacologically-induced ASCs and allows with its additional categorical items for a distinct mapping of the direction of phenomenological changes. While factorial analysis of its structure propose substantial modifications (@Riba2001; @bouso2016), it has to be emphasized that the huge variety of drugs’ effects assessed by the HRS is only comparable to the ARCI and the 5D-ASC. However, application with non-pharmacological induction methods has not been reported yet. Therefore, and due to its development in the context of effects typical of DMT, the HRS can currently be recommended only for supplementary use in studies investigating ASCs induced by hallucinogens and related substances. To date, it constitutes one of the best sources to compare the effects of psychoactive substances, however, does not contribute to comparisons to non-pharmacologically induced ASCs. Its suitability to map such states remains an open question for future studies.
+Originally developed to quantify acute effects of synthetic dimethyltryptamine (DMT) (@Strassman1994), the HRS has become a frequently used instrument in the assessment of hallucinogen induced ASCs (DMT/ayahuasca: (@Riba2004); psilocybin: (@Griffiths2006); ketamine: (@Bowdle1998); salvinorin A: @MacLean2011).
+The initial construction of this questionnaire was based on systematic interviews with 19 experienced hallucinogen users, describing the effects of smoked DMT freebase.
+Effects specifically induced by DMT as well as characteristic effects of hallucinogenic substances in general were supposed to be covered by the resulting collection of items (@Strassman1994).
+The HRS measures six conceptually distinct dimensions of ASCs which were a priori defined and referred to as “clinical clusters”: (1) Somaesthesia: interoceptive, visceral, and cutaneous/tactile effects, (2) Affect: emotional/affective responses, (3) Perception: visual, auditory, gustatory, and olfactory experiences, (4) Cognition: alterations in thought processes or content, (5) Volition: a change in capacity to willfully interact with oneself, the environment, or certain aspects of the experience, and (6) Intensity: the overall strength and the course of the experience (@Strassman1994).
+Revision and refinement of early versions finally resulted in the HRS 3.06 as the most recent version (available from the questionnaire’s author upon request), containing 100 statements, most of which are rated on a 5-point scale.
 
-
+Application of a Spanish version of the HRS, assessing the effects of ayahuasca immediately after the ASC experiences, and its comparison with the ARCI short-form, confirmed the HRS’s sensitivity to prolonged alterations in consciousness caused by oral rather than intravenous DMT administration (@Riba2001).
+Further studies explored and demonstrated its suitability for quantifying the effects of other psychoactive substances like psilocybin (@GouzoulisMayfrank1999; @Griffiths2006), ketamine (@Bowdle1998), MDE and methamphetamine (@GouzoulisMayfrank1999), MDMA (@Tancer2007), and salvinorin A (@Johnson2011).
+Reliability assessments indicate a good internal consistency of the Affect, Somaesthesia, Cognition, and Perception scale and a comparison with the ARCI LSD scale revealed a moderate correlation with the Perception scale (r=0.28, p\<0.05), and the Somaesthesia scale (r=0.33, p\<0.05), respectively, suggesting acceptable convergent validity (@Riba2001).
+The initial assignment of items to six “clinical clusters” has repeatedly been challenged.
+An initial principle component analysis (@Strassman1994) did not reflect the a priori assignment.
+@Riba2001 proposed a solution where 71 items are assigned to six factors and data by @bouso2016 suggests a substantially different distribution of 59 items in six factors.
+The HRS has been translated from English into Spanish, Portuguese, Italian, German, and Russian (@Strassman1994) thereby demonstrating its wide acceptance.
+Though not validated in all languages, the HRS appears to be a suitable psychometric tool that covers a wide range of cognitive, affective, and perceptual phenomena occurring with pharmacologically-induced ASCs and allows with its additional categorical items for a distinct mapping of the direction of phenomenological changes.
+While factorial analysis of its structure propose substantial modifications (@Riba2001; @bouso2016), it has to be emphasized that the huge variety of drugs’ effects assessed by the HRS is only comparable to the ARCI and the 5D-ASC.
+However, application with non-pharmacological induction methods has not been reported yet.
+Therefore, and due to its development in the context of effects typical of DMT, the HRS can currently be recommended only for supplementary use in studies investigating ASCs induced by hallucinogens and related substances.
+To date, it constitutes one of the best sources to compare the effects of psychoactive substances, however, does not contribute to comparisons to non-pharmacologically induced ASCs.
+Its suitability to map such states remains an open question for future studies.
 
 ## Mystical Experience Questionnaire (MEQ)
-Ethnographic studies suggest that hallucinogenic substances have been used in many cultures as part of religious rites in order to facilitate the experience of spiritual or mystical states. The Mystical Experience Questionnaire (MEQ) was first used in the famous ‘Good Friday Experiment’ (@Pahnke1963 @Pahnke1966), where it was intended to assess differences regarding aspects of mystical experience between a psilocybin and a control group. Since then, the MEQ has been frequently applied as an instrument for the quantitative assessment of pharmacologically induced mystical experience, in particular by psychedelics. 
-Items of the initial version were chosen based on literature about mysticism including first-person accounts as well as theoretical work, most notably by William James (@James1901) and W. T. Stace (1960). The first version of the questionnaire consists of two parts. The first part (post-drug questionnaire) comprises 130 items and is completed within one week after the mystical experience (@Pahnke1963 @Pahnke1966). Answers are given on a 5-point Likert scale. Items are assigned to eight scales describing the following dimensions of mystical experiences: (1) Internal and External Unity, (2) Transcendence of Time and Space, (3) Deeply Felt Positive Mood, (4) Sense of Sacredness, (5) Objectivity and Reality, (6) Paradoxicality, (7) Alleged Ineffability, and (8) Transciency. Pahnke (1969) defined experiencing a mystical episode as having a total score of more than 60% of the maximum on each scale. The second part (follow-up questionnaire) contains 100 items, including a condensed version of the first questionnaire as well as additional items measuring positive and negative long-term effects. It is filled out approximately six months after the mystical episode.
+
+Ethnographic studies suggest that hallucinogenic substances have been used in many cultures as part of religious rites in order to facilitate the experience of spiritual or mystical states.
+The Mystical Experience Questionnaire (MEQ) was first used in the famous ‘Good Friday Experiment’ (@Pahnke1963 @Pahnke1966), where it was intended to assess differences regarding aspects of mystical experience between a psilocybin and a control group.
+Since then, the MEQ has been frequently applied as an instrument for the quantitative assessment of pharmacologically induced mystical experience, in particular by psychedelics.
+Items of the initial version were chosen based on literature about mysticism including first-person accounts as well as theoretical work, most notably by William James (@James1901) and W.
+T. Stace (1960).
+The first version of the questionnaire consists of two parts.
+The first part (post-drug questionnaire) comprises 130 items and is completed within one week after the mystical experience (@Pahnke1963 @Pahnke1966).
+Answers are given on a 5-point Likert scale.
+Items are assigned to eight scales describing the following dimensions of mystical experiences: (1) Internal and External Unity, (2) Transcendence of Time and Space, (3) Deeply Felt Positive Mood, (4) Sense of Sacredness, (5) Objectivity and Reality, (6) Paradoxicality, (7) Alleged Ineffability, and (8) Transciency.
+Pahnke (1969) defined experiencing a mystical episode as having a total score of more than 60% of the maximum on each scale.
+The second part (follow-up questionnaire) contains 100 items, including a condensed version of the first questionnaire as well as additional items measuring positive and negative long-term effects.
+It is filled out approximately six months after the mystical episode.
 
 ### States of Consciousness Questionnaire (SOCQ)
-The initial questionnaire has been further developed by Pahnke (1969), Richards (1975), @Griffiths2006 @Griffiths2011, and @MacLean2012. Most prominent is the SOCQ. According to @Stocker2024 it contained 100 items, while only 43 of them were published and the resulting questionnaire was termed MEQ43 (@Griffiths2006). In an attempt to revive the questionnaire, @Stocker2024 suggest to call the 100 item version Psychedelic Experience Scale (PES) and suggest that it has potential for future research (See below).
+
+The initial questionnaire has been further developed by Pahnke (1969), Richards (1975), @Griffiths2006 @Griffiths2011, and @MacLean2012.
+Most prominent is the SOCQ.
+According to @Stocker2024 it contained 100 items, while only 43 of them were published and the resulting questionnaire was termed MEQ43 (@Griffiths2006).
+In an attempt to revive the questionnaire, @Stocker2024 suggest to call the 100 item version Psychedelic Experience Scale (PES) and suggest that it has potential for future research (See below).
 
 ### Psychedelic Experience Scale (PES)
-In its original version this questionnaire was called Pschedelic Experience Questionnaire and the abbreviation PEQ was used. Recently @Stocker2024 revived the questionnaire which has not been used in the literature for a long time. They suggest to rename it to Psychedelic Experience Scale and use the abbreviation PES to avoid confusion with the Persitent Effects Questionnaire (see above).
 
-@Stocker2024 argue: _Why revive a scale from the 1960s in the first place? With a literature-based theoretical examination of this questionnaire’s content that is coupled with modern factor analyses, we hope to show that the PES covers the psychedelic experience with a conceptual breadth and depth that remains unmatched to this day when it comes to capturing the psychedelic experience as comprehensively and concisely as possible within a single questionnaire._
-@Stocker2024 argue that the limited distribution of the PES is most likely due to the difficulty to access it, as it had only been made available in a dissertation (Richards, 1975, Appendix E, pp. 271–276). In its full length the questionnaire has 100 items. After a revision the questionnaire was renamed "SOCQ (States of Consciousness Questionnaire) 100" (see above), while the full list of items was never published. Instead, only 43 items which then comprised the MEQ43 became used. Therefore, the addiitonal 57 items, have only been used in a few studies at Johns Hopkins and in Basel. (Interestingly 7 items were included in the CEQ). For a full history of the questionnaire see @Stocker2024.
+In its original version this questionnaire was called Pschedelic Experience Questionnaire and the abbreviation PEQ was used.
+Recently @Stocker2024 revived the questionnaire which has not been used in the literature for a long time.
+They suggest to rename it to Psychedelic Experience Scale and use the abbreviation PES to avoid confusion with the Persitent Effects Questionnaire (see above).
 
-In sum, there were 100 items in the original questionnaire. 43 of them were used in the MEQ-43 and 30 of them were used for the MEQ30, while the other 70 items were sometimes referred to as "distractor items". However, @Stocker2024 used existing data from studies in Basel where the full 100 items were used to perform factor analyses on these 70 items (used in a German translation). 
+@Stocker2024 argue: *Why revive a scale from the 1960s in the first place? With a literature-based theoretical examination of this questionnaire’s content that is coupled with modern factor analyses, we hope to show that the PES covers the psychedelic experience with a conceptual breadth and depth that remains unmatched to this day when it comes to capturing the psychedelic experience as comprehensively and concisely as possible within a single questionnaire.* @Stocker2024 argue that the limited distribution of the PES is most likely due to the difficulty to access it, as it had only been made available in a dissertation (Richards, 1975, Appendix E, pp. 271–276).
+In its full length the questionnaire has 100 items.
+After a revision the questionnaire was renamed "SOCQ (States of Consciousness Questionnaire) 100" (see above), while the full list of items was never published.
+Instead, only 43 items which then comprised the MEQ43 became used.
+Therefore, the addiitonal 57 items, have only been used in a few studies at Johns Hopkins and in Basel.
+(Interestingly 7 items were included in the CEQ).
+For a full history of the questionnaire see @Stocker2024.
 
-@Stocker2024 summarize their results as follows: 
-_The theory-driven factor analysis undertaken in this paper leads to two new psychometric measurement possibilities for the PES: a validated six-subscale structure involving 40 items for extended mystical experience, the MEQ40 (MEQ30 + paradoxicality + connectedness) and a validated eight-subscale structure involving 48 items for psychedelic experience, the PES48 (MEQ40 + visual experience + distressing experience). The additional explorative data-driven cluster analysis gave further support for our hypotheses that paradoxicality and connectedness inherently belong to mystical experience, and that visual experience and distressing experience are best treated as separate from mystical experience._
+In sum, there were 100 items in the original questionnaire.
+43 of them were used in the MEQ-43 and 30 of them were used for the MEQ30, while the other 70 items were sometimes referred to as "distractor items".
+However, @Stocker2024 used existing data from studies in Basel where the full 100 items were used to perform factor analyses on these 70 items (used in a German translation).
+
+@Stocker2024 summarize their results as follows: *The theory-driven factor analysis undertaken in this paper leads to two new psychometric measurement possibilities for the PES: a validated six-subscale structure involving 40 items for extended mystical experience, the MEQ40 (MEQ30 + paradoxicality + connectedness) and a validated eight-subscale structure involving 48 items for psychedelic experience, the PES48 (MEQ40 + visual experience + distressing experience). The additional explorative data-driven cluster analysis gave further support for our hypotheses that paradoxicality and connectedness inherently belong to mystical experience, and that visual experience and distressing experience are best treated as separate from mystical experience.*
 
 In sum, they suggest a 48-item version and call it PES48, which contains theMEQ30 subscales (See next section), supplemented by the following four subscales and items:
 
 Paradoxicality:
 
-* Experience of a paradoxical awareness that two apparently opposite principles or situations are both true.
-* Loss of your usual identity.
-* Feeling that you were “outside of” history in a realm where time does not exist.
-* Loss of feelings of difference between yourself and objects or persons in your surroundings.
-* Sense that in order to describe parts of your experience you would have to use statements that appear to be illogical, involving contradictions and paradoxes.
+-   Experience of a paradoxical awareness that two apparently opposite principles or situations are both true.
+-   Loss of your usual identity.
+-   Feeling that you were “outside of” history in a realm where time does not exist.
+-   Loss of feelings of difference between yourself and objects or persons in your surroundings.
+-   Sense that in order to describe parts of your experience you would have to use statements that appear to be illogical, involving contradictions and paradoxes.
 
 Connectedness:
 
-* Increase in the beauty and significance of music.
-* Feelings of universal or infinite love.
-* Intuitive insight into the inner nature of objects and/or persons in your surroundings.
-* Experience of increased awareness of beauty.
-* Increased awareness of the importance of interpersonal relationships.
+-   Increase in the beauty and significance of music.
+-   Feelings of universal or infinite love.
+-   Intuitive insight into the inner nature of objects and/or persons in your surroundings.
+-   Experience of increased awareness of beauty.
+-   Increased awareness of the importance of interpersonal relationships.
 
 Visual experience:
 
-* Visions of abstract geometric patterns of colored lines.
-* Visions of art objects (e.g., mosaics, statues, jewelry, buildings) that reflect expert craftsmanship.
-* With open eyes, seeing objects around you turn into great works of art.
+-   Visions of abstract geometric patterns of colored lines.
+-   Visions of art objects (e.g., mosaics, statues, jewelry, buildings) that reflect expert craftsmanship.
+-   With open eyes, seeing objects around you turn into great works of art.
 
 Distressing experience:
 
-* Emotional and/or physical suffering.
-* Feelings of despair.
-* Sense of being trapped and helpless.
-* Experience of isolation and loneliness.
-* Experience of fear.
+-   Emotional and/or physical suffering.
+-   Feelings of despair.
+-   Sense of being trapped and helpless.
+-   Experience of isolation and loneliness.
+-   Experience of fear.
 
-@Stocker2024 argue that _Paradoxicality_ and _Connectedness_ are aspects of mystical experiences, while visual experiences and distressing experiences are different. (Note: _Distressing Experiences_ overlaps with the CEQ. The subscale _Connectedness_ overlaps with the Watts Connectedness Scale; See below; See also Stocker et al. 2023 for details on their relationship)
-
+@Stocker2024 argue that *Paradoxicality* and *Connectedness* are aspects of mystical experiences, while visual experiences and distressing experiences are different.
+(Note: *Distressing Experiences* overlaps with the CEQ. The subscale *Connectedness* overlaps with the Watts Connectedness Scale; See below; See also Stocker et al. 2023 for details on their relationship)
 
 ### MEQ30
-The most recent version is the MEQ30 (@MacLean2012), a condensed version of the MEQ with empirical scales. Using the SOCQ as a starting point, MacLean and colleagues conducted exploratory and confirmatory factor analyses on two large independent samples from online surveys. As a result, thirteen of the 43 items were excluded and an underlying factor structure was revealed with the following four dimensions: (1) Sacredness, (2) Positive Mood, (3) Transcendence of Time/Space, and (4) Ineffability. This factor structure was replicated analyzing pooled data from five experimental studies (Barrett et al., 2015), and is therefore recommended for future studies. An alternative two-factor structure (Mystical Ecstasy, Transdimensionality) was recently proposed but not further validated (@bouso2016).
+
+The most recent version is the MEQ30 (@MacLean2012), a condensed version of the MEQ with empirical scales.
+Using the SOCQ as a starting point, MacLean and colleagues conducted exploratory and confirmatory factor analyses on two large independent samples from online surveys.
+As a result, thirteen of the 43 items were excluded and an underlying factor structure was revealed with the following four dimensions: (1) Sacredness, (2) Positive Mood, (3) Transcendence of Time/Space, and (4) Ineffability.
+This factor structure was replicated analyzing pooled data from five experimental studies (Barrett et al., 2015), and is therefore recommended for future studies.
+An alternative two-factor structure (Mystical Ecstasy, Transdimensionality) was recently proposed but not further validated (@bouso2016).
 The items are rated on a 6-point scale: 0 = ‘‘none; not atall,’’ 1 = ‘‘so slight cannot decide,’’ 2 = ‘‘slight,’’3 = ‘‘moderate,’’ 4 = ‘‘strong,’’ and 5 = ‘‘extreme’’
 
 ### MEQ-4
-Recently, @Strickland2024 introduced a short version of the MEQ, which simply used the names of the  scales of the MEQ-30 as items, rated on a 6-point scale (same scale as for the shor version of the CEQ, called CEQ-7):
 
-* Sense of oneness, insights into ultimate reality, or sacredness
-* Positive mood
-* Transcendence of time and space
-* Ineffability (i.e. incapable of being expressed or described in words)
+Recently, @Strickland2024 introduced a short version of the MEQ, which simply used the names of the scales of the MEQ-30 as items, rated on a 6-point scale (same scale as for the shor version of the CEQ, called CEQ-7):
+
+-   Sense of oneness, insights into ultimate reality, or sacredness
+-   Positive mood
+-   Transcendence of time and space
+-   Ineffability (i.e. incapable of being expressed or described in words)
 
 ### Validation, Translations, Adaptations
-The original MEQ has been used for several decades but its psychometric properties have never been assessed systematically. More than twenty years after the ‘Good Friday Experiment’, the participants were asked to complete the follow-up questionnaire again (@Doblin1991). Results indicated that the average scores of the main dimensions had not changed drastically over time, thereby suggesting the MEQ’s reliability. Moreover, mean scores on all subscales were significantly higher in the experimental group compared to the control group, supporting the questionnaire's discriminant validity.
-The MEQ30 was assessed regarding reliability and validity by @MacLean2012 in a group of 1602 participants who had taken psilocybin at least once during their lifetime. Internal consistency estimated by Cronbach’s alpha was very good for the total questionnaire (0.96), as well as for the four subscales (0.80 to 0.95). Similar results were also obtained by Barrett et al. (2015). Convergent validity was assessed by correlating MEQ30 scores with the single-experience version of Hood’s Mysticism Scale. The total score of the MEQ30 correlated rather strongly with the overall score of the Mysticism Scale (r=0.81, p<0.001), whereas the subscales showed somewhat lower correlations (r=0.41 to 0.79, p<0.001) (@MacLean2012). To support construct validity, self-claimed mystical experience was shown to be associated with significantly higher questionnaire scores (@MacLean2012).
-Currently, the MEQ30 is the best established instruments to quantify mystical/spiritual/religious experiences. 
-In particular, clinical studies on the therapeutic potential of psychedelics use the MEQ30 (@Majic2015). 
 
+The original MEQ has been used for several decades but its psychometric properties have never been assessed systematically.
+More than twenty years after the ‘Good Friday Experiment’, the participants were asked to complete the follow-up questionnaire again (@Doblin1991).
+Results indicated that the average scores of the main dimensions had not changed drastically over time, thereby suggesting the MEQ’s reliability.
+Moreover, mean scores on all subscales were significantly higher in the experimental group compared to the control group, supporting the questionnaire's discriminant validity.
+The MEQ30 was assessed regarding reliability and validity by @MacLean2012 in a group of 1602 participants who had taken psilocybin at least once during their lifetime.
+Internal consistency estimated by Cronbach’s alpha was very good for the total questionnaire (0.96), as well as for the four subscales (0.80 to 0.95).
+Similar results were also obtained by Barrett et al. (2015).
+Convergent validity was assessed by correlating MEQ30 scores with the single-experience version of Hood’s Mysticism Scale.
+The total score of the MEQ30 correlated rather strongly with the overall score of the Mysticism Scale (r=0.81, p\<0.001), whereas the subscales showed somewhat lower correlations (r=0.41 to 0.79, p\<0.001) (@MacLean2012).
+To support construct validity, self-claimed mystical experience was shown to be associated with significantly higher questionnaire scores (@MacLean2012).
+Currently, the MEQ30 is the best established instruments to quantify mystical/spiritual/religious experiences.
+In particular, clinical studies on the therapeutic potential of psychedelics use the MEQ30 (@Majic2015).
 
 ## Challenging Experience Questionnaire (CEQ)
+
 The CEQ has common roots with the MEQ.
 
-Literature review of both experimental and clinical reports indicates that the phenomenology of ASCs induced by the administration of classic hallucinogens potentially involves unpleasant experiences which might occur even in carefully prepared and supportive environments (@barrett2015). Based on three of the most frequently applied questionnaires – the HRS, the 5D-ASC, and the SOCQ – the Challenging Experience Questionnaire (CEQ) was designed to provide a tool for the comprehensive assessment of acute negative effects that will benefit research into their predictors and consequences (Barrett et al., 2016). The conceptual scope of the 26-item CEQ is informed by literature on psychological and physical distress following hallucinogen intake and covers a variety of adverse cognitive, affective, and somatic reactions which are clustered into seven distinct dimensions of challenging experiences: (1) Grief, (2) Fear, (3) Death, (4) Insanity, (5) Isolation, (6) Physical Distress, and (7) Paranoia (Barrett et al. 2017). Analyzing data from an online survey on negative experiences with psilocybin, corresponding scales for the first six dimension were derived by exploratory factor analysis, complemented by the Paranoia scale, and subsequently validated through confirmatory factor analysis (@barrett2015). Items are rated on a 6-point scale adopted from the SOCQ.
+Literature review of both experimental and clinical reports indicates that the phenomenology of ASCs induced by the administration of classic hallucinogens potentially involves unpleasant experiences which might occur even in carefully prepared and supportive environments (@barrett2015).
+Based on three of the most frequently applied questionnaires – the HRS, the 5D-ASC, and the SOCQ – the Challenging Experience Questionnaire (CEQ) was designed to provide a tool for the comprehensive assessment of acute negative effects that will benefit research into their predictors and consequences (Barrett et al., 2016).
+The conceptual scope of the 26-item CEQ is informed by literature on psychological and physical distress following hallucinogen intake and covers a variety of adverse cognitive, affective, and somatic reactions which are clustered into seven distinct dimensions of challenging experiences: (1) Grief, (2) Fear, (3) Death, (4) Insanity, (5) Isolation, (6) Physical Distress, and (7) Paranoia (Barrett et al. 2017).
+Analyzing data from an online survey on negative experiences with psilocybin, corresponding scales for the first six dimension were derived by exploratory factor analysis, complemented by the Paranoia scale, and subsequently validated through confirmatory factor analysis (@barrett2015).
+Items are rated on a 6-point scale adopted from the SOCQ.
 
-Since the CEQ was only recently developed, a systematic evaluation of its psychometric properties has not been conducted yet. However, confirmatory analyses performed on two separate samples revealed an acceptable model fit, suggesting internal validity of the CEQ model (@barrett2015). Reliability was assessed by Cronbach’s alpha, yielding good internal consistency estimates in the range of 0.65 (Paranoia) to 0.89 (Fear).  
-Similar to the PSI, the CEQ was designed as a single questionnaire focusing on acute negative effects. In contrast to the PSI, however, it covers a wide spectrum of aversive reactions that is not limited to effects typical of psychosis-like states. Moreover, the CEQ enables the fine-grained assessment of distinct dimensions and their relative intensity, thereby allowing for the generation of a multi-dimensional pattern description. Considering that the control of acute negative effects is desirable and that the subsequent integration of the experience is fundamental to therapeutic outcomes (@Majic2015), the CEQ provides a valuable tool for further studies of adverse reactions to classic hallucinogens. To date, the CEQ was, however, only applied with psilocybin and not along with neuroimaging studies. Further research is, thus, required to demonstrate its sensitivity to other hallucinogens and suitability within neuroimaging studies. In advancing the vital understanding of underlying mechanisms that pinpoint stressful experiences, a translation of the CEQ, originally developed in English, into other languages will foster its application.
+Since the CEQ was only recently developed, a systematic evaluation of its psychometric properties has not been conducted yet.
+However, confirmatory analyses performed on two separate samples revealed an acceptable model fit, suggesting internal validity of the CEQ model (@barrett2015).
+Reliability was assessed by Cronbach’s alpha, yielding good internal consistency estimates in the range of 0.65 (Paranoia) to 0.89 (Fear).\
+Similar to the PSI, the CEQ was designed as a single questionnaire focusing on acute negative effects.
+In contrast to the PSI, however, it covers a wide spectrum of aversive reactions that is not limited to effects typical of psychosis-like states.
+Moreover, the CEQ enables the fine-grained assessment of distinct dimensions and their relative intensity, thereby allowing for the generation of a multi-dimensional pattern description.
+Considering that the control of acute negative effects is desirable and that the subsequent integration of the experience is fundamental to therapeutic outcomes (@Majic2015), the CEQ provides a valuable tool for further studies of adverse reactions to classic hallucinogens.
+To date, the CEQ was, however, only applied with psilocybin and not along with neuroimaging studies.
+Further research is, thus, required to demonstrate its sensitivity to other hallucinogens and suitability within neuroimaging studies.
+In advancing the vital understanding of underlying mechanisms that pinpoint stressful experiences, a translation of the CEQ, originally developed in English, into other languages will foster its application.
 
 ### CEQ-7
+
 Recently, @Strickland2024 introduced a short version of the CEQ, which simply used the names of the seven scales as items rated on a 6-point scale (same scale as for the MEQ):
 
-* Fear
-* Grief
-* Physical distress
-* Insanity
-* Isolation
-* Thoughts of feelings of death
-* Paranoia
-
+-   Fear
+-   Grief
+-   Physical distress
+-   Insanity
+-   Isolation
+-   Thoughts of feelings of death
+-   Paranoia
 
 ## Psychological Insight Questionnaire (PIQ)
+
 The PIQ can be seen as an extension of the MEQ and CEQ
 
 @Davis2021 introduced the construction of the PIQ and @Peill2022 present a validation.
-Within a sample who have consumed psilocybin or LSD, @Davis2021 validated the newly created Psychological Insight Questionnaire (PIQ) as an additional tool to quantify a specific feature of acute psychedelic experiences. Similar to other questionnaires the authors formulate that it has the purpose to test if psychological insighs can be a predictor for longterm effects, e.g. in psychedelic therapy contexts. The items of the PIQ are rated on a 6-point Likert scale: from 0 = No; not at all" to 5 = "Extremely (more than ever before in my life)". The PIQ consists of 23 items with two subscales:
+Within a sample who have consumed psilocybin or LSD, @Davis2021 validated the newly created Psychological Insight Questionnaire (PIQ) as an additional tool to quantify a specific feature of acute psychedelic experiences.
+Similar to other questionnaires the authors formulate that it has the purpose to test if psychological insighs can be a predictor for longterm effects, e.g. in psychedelic therapy contexts.
+The items of the PIQ are rated on a 6-point Likert scale: from 0 = No; not at all" to 5 = "Extremely (more than ever before in my life)". The PIQ consists of 23 items with two subscales:
 
 Avoidance and Maladaptive Pattern Insights:
 
-* Awareness of uncomfortable or painful feelings I previously avoided
-* Discovered I could explore uncomfortable of painful feelings I previously avoided
-* Awareness of dysfunctional patterns in my actions, thoughts, and/or feelings
-* Realized the nature and/or origins of my defenses or other coping strategies
-* Realized how current feelings or perceptions are related to events from my past
-* Discovered a clear pattern of avoidance in my life
-* Gained resolution or clarity about past traumas or hurtful events
-* Gained a deeper understanding of events/memories from my past
-* Realized I could experience memories previously too difficult to experience
-* Discovered how aspects of my life are affecting my well-being
-* Realized ways my beliefs may be dysfunctional
-* Discovered clear similarities between my past and present interpersonal relationships
-* Realized how critical or judgmental views I hold towards myself are dysfunctional
-* Realized the point of view or action of others that had been difficult to understand previously
+-   Awareness of uncomfortable or painful feelings I previously avoided
+-   Discovered I could explore uncomfortable of painful feelings I previously avoided
+-   Awareness of dysfunctional patterns in my actions, thoughts, and/or feelings
+-   Realized the nature and/or origins of my defenses or other coping strategies
+-   Realized how current feelings or perceptions are related to events from my past
+-   Discovered a clear pattern of avoidance in my life
+-   Gained resolution or clarity about past traumas or hurtful events
+-   Gained a deeper understanding of events/memories from my past
+-   Realized I could experience memories previously too difficult to experience
+-   Discovered how aspects of my life are affecting my well-being
+-   Realized ways my beliefs may be dysfunctional
+-   Discovered clear similarities between my past and present interpersonal relationships
+-   Realized how critical or judgmental views I hold towards myself are dysfunctional
+-   Realized the point of view or action of others that had been difficult to understand previously
 
 Goals and Adaptive Pattern insights:
 
-* Awareness of my life purpose, goals, and/or priorities
-* Awareness of beneficial patterns in my actions, thoughts, and/or feelings
-* Experienced validation of my life, character, values, or beliefs
-* Realized the importance of my life
-* Awareness of information that helped me understand my life
-* Discovered new actions that may help me achieve my goals
-* Discovered new insights about my work or career
-* Gained a deeper understanding of previously held beliefs and/or values
-* Discovered a vivid sense of the paradoxes in life
+-   Awareness of my life purpose, goals, and/or priorities
+-   Awareness of beneficial patterns in my actions, thoughts, and/or feelings
+-   Experienced validation of my life, character, values, or beliefs
+-   Realized the importance of my life
+-   Awareness of information that helped me understand my life
+-   Discovered new actions that may help me achieve my goals
+-   Discovered new insights about my work or career
+-   Gained a deeper understanding of previously held beliefs and/or values
+-   Discovered a vivid sense of the paradoxes in life
 
-In sum, the questionnaire can be easily applied along with the MEQ and CEQ as it uses the same response format, which is however different from the VAS used in the 11-ASC and related questionaires. It is a relatiely long tool and it would be beneficial to obtain a short version in the future, so that it can be applied in addition to the well established tools to quantify actue eperiences, without taking too much space/time in the assessment.
-
-
-
+In sum, the questionnaire can be easily applied along with the MEQ and CEQ as it uses the same response format, which is however different from the VAS used in the 11-ASC and related questionaires.
+It is a relatiely long tool and it would be beneficial to obtain a short version in the future, so that it can be applied in addition to the well established tools to quantify actue eperiences, without taking too much space/time in the assessment.
 
 ## Watts Connectedness Scale (WCS)
-While it has become less common in the last decades to name a questionnaire according to a specific author, here the authors chose to put the name of the first-author, Rosalyn Watts, into the name of the questionnaire (@Watts2022). As this is so uncommon, we expect that future article will choose to simply call it “Connectedness Scale” instead of WCS - but we will see and for now also use WCS Please note that the authors themselves suggest in the limitation section: _It would be possible
-to have diferent versions of this scale validated for different populations, perhaps with the ‘W’ removed and
-replaced with a more appropriate letter for that context._) 
 
-It is intended to measure post-psychedelic psychological changes. However, nothing speaks against use of the questionaire also after other experiences (e.g. after the application of other CMTs).
-Experience of connectedness has been reported as a post-acute effect of psychedelics and is speculated as relevant positive long term change in psychotherapy with psychedelics. The authors refer to multiple previously validated measures of connectedness and wellbeing, which might be interesting for comparison reasons (See @Watts2022). R Watts, L Roseman, M Kaelen, M Nour, and R Carhart-Harris formulated the items. 
+While it has become less common in the last decades to name a questionnaire according to a specific author, here the authors chose to put the name of the first-author, Rosalyn Watts, into the name of the questionnaire (@Watts2022).
+As this is so uncommon, we expect that future article will choose to simply call it “Connectedness Scale” instead of WCS - but we will see and for now also use WCS Please note that the authors themselves suggest in the limitation section: *It would be possible to have diferent versions of this scale validated for different populations, perhaps with the ‘W’ removed and replaced with a more appropriate letter for that context.*)
 
-For the validation data from three independent studies was used (total sample of N=1226). Factor analysis revealed three main factors, while these can also be grouped together to a single factor 'to measure a generalised type of connectedness'. While different types of connectedness were differentiated in the literature, the authros discuss that all of them are correlated wit hthe total score of the WCS and that this argues for a more general concept of connectedness.
+It is intended to measure post-psychedelic psychological changes.
+However, nothing speaks against use of the questionaire also after other experiences (e.g. after the application of other CMTs).
+Experience of connectedness has been reported as a post-acute effect of psychedelics and is speculated as relevant positive long term change in psychotherapy with psychedelics.
+The authors refer to multiple previously validated measures of connectedness and wellbeing, which might be interesting for comparison reasons (See @Watts2022).
+R Watts, L Roseman, M Kaelen, M Nour, and R Carhart-Harris formulated the items.
+
+For the validation data from three independent studies was used (total sample of N=1226).
+Factor analysis revealed three main factors, while these can also be grouped together to a single factor 'to measure a generalised type of connectedness'.
+While different types of connectedness were differentiated in the literature, the authros discuss that all of them are correlated wit hthe total score of the WCS and that this argues for a more general concept of connectedness.
 Items are rated on a 0–100 visual analogue scale (VAS), where 0 corresponded to ‘not at all’ and 100 to ‘entirely’ (Note: This scoring is similar but unfortunately not identical to the VAS of the 11-ASC, as the anchor for 100 in the 11-ASC is ‘Yes, entirely or completely’).
 
-In the validation study they reduced a original set of 23 items to a final selection of 19 items which fall into 3 factors (called dimensions or subscales by the authors), as follows: 
+In the validation study they reduced a original set of 23 items to a final selection of 19 items which fall into 3 factors (called dimensions or subscales by the authors), as follows:
 
 Connectedness to self (CTS):
 
-* My mind has felt connected to my heart/emotion.
-* I have felt connected to my senses (touch, taste, sight, smell, hearing).
-* I have felt connected to a range of emotions.
-* If I had chosen to, I could have 'sat with' painful memories.
-* I have felt connected to my body
-* I have been able to fully experience emotion, whether positive or negative
+-   My mind has felt connected to my heart/emotion.
+-   I have felt connected to my senses (touch, taste, sight, smell, hearing).
+-   I have felt connected to a range of emotions.
+-   If I had chosen to, I could have 'sat with' painful memories.
+-   I have felt connected to my body
+-   I have been able to fully experience emotion, whether positive or negative
 
 Connectedness to others (CTO):
 
-* I have felt trapped in my mind
-* I have felt alone.
-* I have felt connected to friends and/or family
-* I have felt connected to a community.
-* I have felt unwelcome to amongst others.
-* I have felt separate from the world around me.
+-   I have felt trapped in my mind
+-   I have felt alone.
+-   I have felt connected to friends and/or family
+-   I have felt connected to a community.
+-   I have felt unwelcome to amongst others.
+-   I have felt separate from the world around me.
 
 Connectedness to world (CTW):
 
-* I have felt connected to all humanity.
-* I have felt connected to a purpose in life.
-* I have felt connected to nature.
-* I have felt connected to a spiritual essence (in the secular or religious sense).
-* I have felt connected to a source of universal love.
-* I have seen things from a brad perspective, 'the bigger picture'.
-* I have felt that everything is interconnected.
+-   I have felt connected to all humanity.
+-   I have felt connected to a purpose in life.
+-   I have felt connected to nature.
+-   I have felt connected to a spiritual essence (in the secular or religious sense).
+-   I have felt connected to a source of universal love.
+-   I have seen things from a brad perspective, 'the bigger picture'.
+-   I have felt that everything is interconnected.
 
 The score for every factor is calculated as average of the items of each factor (also called subscale or dimension) and the total WCS is calculated as average of the three subscales.
-When inspecting the items and their loadings in Fig. 1 of @Watts2022, it is surprising that some items (termed "negatively worded items") have not been excluded from the questionnaire and their apparent difference to the other items are not discussed further; i.e. "I felt trapped in my mind.", "I have felt alone", "I felt unwelcome amongst others.", "I have felt separate from the world around me". 
+When inspecting the items and their loadings in Fig.
+1 of @Watts2022, it is surprising that some items (termed "negatively worded items") have not been excluded from the questionnaire and their apparent difference to the other items are not discussed further; i.e. "I felt trapped in my mind.", "I have felt alone", "I felt unwelcome amongst others.", "I have felt separate from the world around me".
 
-In sum, there is some aspects of this questionnaire which encourage a revision of the scale before broad scale usage. On the one hand the anchors of the VAS should be used with the identical formulation as for the 11-ASC, EDI, EBI, and AGI, namely ‘100: Yes, entirely or completely’. Secondly, the CTO subscale is questionnable due to low loadings of multiple items and their negative formualtion. As also the authors argue that there might be a more general concept of "connectedness" underlying the three subscales, it appears desirable to reduce the amount of items and collapse them into one single scale: "connectedness". Also considering multiple recent attempts to create short versions of questionnaires, to allow broader assessment of different aspects of ASC experiences, it would be helpful to have a short version. Following recent approaches to simply use the names of the factors as items, one could construct a Connectedness Scale 3-item (CS-3) version where scoring of the following three items are averaged into a "general connectedness" score:
+In sum, there is some aspects of this questionnaire which encourage a revision of the scale before broad scale usage.
+On the one hand the anchors of the VAS should be used with the identical formulation as for the 11-ASC, EDI, EBI, and AGI, namely ‘100: Yes, entirely or completely’.
+Secondly, the CTO subscale is questionnable due to low loadings of multiple items and their negative formualtion.
+As also the authors argue that there might be a more general concept of "connectedness" underlying the three subscales, it appears desirable to reduce the amount of items and collapse them into one single scale: "connectedness".
+Also considering multiple recent attempts to create short versions of questionnaires, to allow broader assessment of different aspects of ASC experiences, it would be helpful to have a short version.
+Following recent approaches to simply use the names of the factors as items, one could construct a Connectedness Scale 3-item (CS-3) version where scoring of the following three items are averaged into a "general connectedness" score:
 
-* I felt connected to my 'self' (including my body, emotions and senses)
-* I felt connected to others
-* I felt connected to the world 
+-   I felt connected to my 'self' (including my body, emotions and senses)
+-   I felt connected to others
+-   I felt connected to the world
 
-See also the above section on the PES, which also contains a subscale _Connectedness_ and commonalities between the PES subscale and the WCS. 
-
+See also the above section on the PES, which also contains a subscale *Connectedness* and commonalities between the PES subscale and the WCS.
 
 ## Psychotomimetic States Inventory (PSI)
+
 Originally developed to assess the acute so-called “psychotomimetic” effects of cannabis and ketamine administration in healthy volunteers (@Mason2008), the Psychotomimetic States Inventory (PSI) has also been applied to investigate the effects induced by short-term sensory deprivation among individuals prone to experience hallucinations and those without such a predisposition, as well as in experiments with hallucinogens (@Mason2009; @Daniel2014; @Daniel2015; @CarhartHarris2016b).
-The PSI comprises 48 items, drawn from an item pool that was derived from on a variety of psychometric instruments for the assessment of phenomena related to psychosis and hallucination-proneness. A first item selection was based on multiple pilot studies, surveying student volunteers as well as recreational drug users (@Mason2008). Subsequent factor analyses yielded the final set of items, addressing six empirically-derived dimensions of psychosis-like experiences as induced by diverse psychoactive substances and sensory deprivation: (1) Anhedonia, (2) Cognitive Disorganization, (3) Mania, (4) Delusional Thinking, (5) Perceptual Distortion, (6) Paranoia. 
+The PSI comprises 48 items, drawn from an item pool that was derived from on a variety of psychometric instruments for the assessment of phenomena related to psychosis and hallucination-proneness.
+A first item selection was based on multiple pilot studies, surveying student volunteers as well as recreational drug users (@Mason2008).
+Subsequent factor analyses yielded the final set of items, addressing six empirically-derived dimensions of psychosis-like experiences as induced by diverse psychoactive substances and sensory deprivation: (1) Anhedonia, (2) Cognitive Disorganization, (3) Mania, (4) Delusional Thinking, (5) Perceptual Distortion, (6) Paranoia.
 
-Full-scale test-retest reliability and Cronbach’s alpha coefficients for the PSI indicate good stability (0.84) and internal consistency (0.86 to 0.94 across conditions), respectively (@Mason2008). While test-retest correlations for the different subscales range between 0.60 (Anhedonia) and 0.83 (Delusory Thinking) indicating acceptable stability, alpha coefficients for Mania (0.05) and Cognitive Disorganization (0.89) display a wider range of internal consistency. However, most estimates for the remaining scales suggest good internal consistency. Though not formally evaluated in terms of validity, significant correlations (Kendall’s tau: 0.54< tau <0.70, p<0.001 across conditions) between the PSI and the state of the Appraisals of Anomalous Experience Interview (AANEX), both measuring psychotic-like experiences, support the assumption of adequate convergent validity (@Daniel2014). 
-Being applied both in natural and laboratory environments (@Mason2008) and assessing pharmacologically (@Mason2008; @Mason2009; @CarhartHarris2016b) as well as non-pharmacologically (@Mason2009;  @Daniel2014;  @Daniel2015) induced changes in perception, cognition and emotion, the PSI appears to be a useful psychometric tool to investigate psychosis-like characteristics of ASCs. 
-By focusing on rather aversive effects of the ASC experience, this questionnaire covers important aspects that are insufficiently addressed by other instruments. Insofar, the PSI points out conceptual shortcomings of previous tools and provides valuable suggestions for the assessment of ASCs. Its own limitation is, in turn, the omission of pleasant aspects. The subjective experience of ASCs – particularly, if induced by psychedelic substances – appears, however, to be characterized by either of these two opposite dimensions (@bodmer1994).
-
-
-
-
-
+Full-scale test-retest reliability and Cronbach’s alpha coefficients for the PSI indicate good stability (0.84) and internal consistency (0.86 to 0.94 across conditions), respectively (@Mason2008).
+While test-retest correlations for the different subscales range between 0.60 (Anhedonia) and 0.83 (Delusory Thinking) indicating acceptable stability, alpha coefficients for Mania (0.05) and Cognitive Disorganization (0.89) display a wider range of internal consistency.
+However, most estimates for the remaining scales suggest good internal consistency.
+Though not formally evaluated in terms of validity, significant correlations (Kendall’s tau: 0.54\< tau \<0.70, p\<0.001 across conditions) between the PSI and the state of the Appraisals of Anomalous Experience Interview (AANEX), both measuring psychotic-like experiences, support the assumption of adequate convergent validity (@Daniel2014).
+Being applied both in natural and laboratory environments (@Mason2008) and assessing pharmacologically (@Mason2008; @Mason2009; @CarhartHarris2016b) as well as non-pharmacologically (@Mason2009; @Daniel2014; @Daniel2015) induced changes in perception, cognition and emotion, the PSI appears to be a useful psychometric tool to investigate psychosis-like characteristics of ASCs.
+By focusing on rather aversive effects of the ASC experience, this questionnaire covers important aspects that are insufficiently addressed by other instruments.
+Insofar, the PSI points out conceptual shortcomings of previous tools and provides valuable suggestions for the assessment of ASCs.
+Its own limitation is, in turn, the omission of pleasant aspects.
+The subjective experience of ASCs – particularly, if induced by psychedelic substances – appears, however, to be characterized by either of these two opposite dimensions (@bodmer1994).
 
 ## Abramson Questionnaire (AQ)
-The Abramson Questionnaire (AQ) was constructed in order to quantify the effects of lysergic acid diethylamide (LSD; @Jarvik1955). It is mostly interesting for historical reasons, as it might not meet current psychometric standards and has not been used in recent years. The questionnaire is based on literature research into the effects typically reported after LSD intake. @abramson1955 used it in a series of experiments in the late 1950s, also measuring the effects of drugs other than LSD (@Jarvik1955).
-The questionnaire has a one-dimensional structure, measuring only the overall strength of the ASC experience. Its items are conceptually-defined and not confirmed through further data analysis. A later version excluded some items that did not distinguish between experimental and control subjects (@abramson1955). Items are rated on a 6-point Likert scale, with the options +1 to +5 for positive symptoms, as well as an option 'No' for lack of symptoms. However, ratings are only treated as dichotomous Yes- or No-answers in the data analysis. The total score is therefore obtained by adding all positive responses, with the highest possible score being 47. The items include questions such as: “Do you have difficulty focusing your vision?”, and “Do you feel as if in a dream?”
 
-The psychometric properties of the AQ have not been measured and evaluated in a systematic way. The validity of the questionnaire was somewhat confirmed through comparison between three groups (@abramson1955): one experimental group receiving a medium dose of LSD (25-75 µg), one experimental group receiving a high dose (100-225 µg), and a control group receiving a placebo. The correlation coefficient between the rank positions of answers in both experimental groups (r=0.83) was markedly higher than between either of them and the placebo group(r=0.36, r=0.46). Even though this may be seen as supporting the discriminant validity of the questionnaire, it is not according to prove by today’s standards. Further testing would be required to validate this instrument.
-Interestingly, some subjects also showed high scores after taking a placebo (@abramson1955). This might be due to suggestibility, especially, if considering that experimental and control subjects were jointly tested in a group setting. But it might also point to validity-related issues of the questionnaire itself. 
-Even though the questionnaire does not fulfill current standards concerning quality criteria, it should be regarded as an early attempt at measuring qualitative aspects of ASCs. As such, it has historical relevance and influenced the development of later questionnaires. Researchers specifically interested in the assessment of ASCs induced by LSD might even consider applying it in addition to other instruments, or using it as a basis of a new questionnaire. 
+The Abramson Questionnaire (AQ) was constructed in order to quantify the effects of lysergic acid diethylamide (LSD; @Jarvik1955).
+It is mostly interesting for historical reasons, as it might not meet current psychometric standards and has not been used in recent years.
+The questionnaire is based on literature research into the effects typically reported after LSD intake.
+@abramson1955 used it in a series of experiments in the late 1950s, also measuring the effects of drugs other than LSD (@Jarvik1955).
+The questionnaire has a one-dimensional structure, measuring only the overall strength of the ASC experience.
+Its items are conceptually-defined and not confirmed through further data analysis.
+A later version excluded some items that did not distinguish between experimental and control subjects (@abramson1955).
+Items are rated on a 6-point Likert scale, with the options +1 to +5 for positive symptoms, as well as an option 'No' for lack of symptoms.
+However, ratings are only treated as dichotomous Yes- or No-answers in the data analysis.
+The total score is therefore obtained by adding all positive responses, with the highest possible score being 47.
+The items include questions such as: “Do you have difficulty focusing your vision?”
+, and “Do you feel as if in a dream?”
+
+The psychometric properties of the AQ have not been measured and evaluated in a systematic way.
+The validity of the questionnaire was somewhat confirmed through comparison between three groups (@abramson1955): one experimental group receiving a medium dose of LSD (25-75 µg), one experimental group receiving a high dose (100-225 µg), and a control group receiving a placebo.
+The correlation coefficient between the rank positions of answers in both experimental groups (r=0.83) was markedly higher than between either of them and the placebo group(r=0.36, r=0.46).
+Even though this may be seen as supporting the discriminant validity of the questionnaire, it is not according to prove by today’s standards.
+Further testing would be required to validate this instrument.
+Interestingly, some subjects also showed high scores after taking a placebo (@abramson1955).
+This might be due to suggestibility, especially, if considering that experimental and control subjects were jointly tested in a group setting.
+But it might also point to validity-related issues of the questionnaire itself.
+Even though the questionnaire does not fulfill current standards concerning quality criteria, it should be regarded as an early attempt at measuring qualitative aspects of ASCs.
+As such, it has historical relevance and influenced the development of later questionnaires.
+Researchers specifically interested in the assessment of ASCs induced by LSD might even consider applying it in addition to other instruments, or using it as a basis of a new questionnaire.
 
 ## Linton & Langs Questionnaire (LLQ)
-The Linton & Langs Questionnaire (LLQ) (@Linton1962) fits into the trend of the late 1950s of clinical and observational studies investigating the broad range of subjective phenomena during LSD experience. The questionnaire is based on literature research into changes in subjective experience typically reported after LSD administration. The development as well as the evaluation of the results was embedded in the framework of ‘Psychoanalytic Theory’. Whereas previous research tools like the AQ (Abramson et al., 1955a) focused primarily on the subjective somatic and perceptual experience, the LLQ was designed in order to measure a variety of perceptual, cognitive, affective, and somatic effects of LSD. A first collection of items relevant to affect, cognitive functioning, self and body image was used in a pilot study among research colleagues and subsequently adjusted on the basis of their experiences (@Linton1962). 
-The questionnaire is comprised of 74 items and has a 17-dimensional structure including twelve major scales, four of which are further subdivided: (1) Difficulty in Thinking, (2) Disturbance of Time Sense, (3) Feeling Inhibited, Slowed Down, (4) Feeling of Loss of Control, (5) Ego-environment Relationship, (A) Closer to Environment, (B) Contact Loss, (C) Ego Change, Alienation, (6) Distortions of Visual Perception, (7) Feeling Less Inhibited, Opened Up, (8) Meaning Changes, (A) New Meaning Acquired, (B) Old Meaning Lost, (9) Feeling of Increased Functioning, (10) Suspiciousness, (11) Bodily Effects, (A) Body Image Change, (B) Somatic Symptoms, (12) Affect Changes, (A) Positive Affect,  (B) Negative Affect. The scales were defined a priori and the assignment of items was performed based on their estimated relevance to the scales’ functional definition. Responses are given on a 3-point scale, ‘0’ indicated a negative answer, ‘0.5’ a partially positive and ‘1’ a positive answer.
-In an initial placebo controlled study, LSD was administered to a group of male professional actors. The questionnaire was administered seven times to also monitor the temporal course of the various drug effects (@Linton1962, 1962b): (1) pre-test day, (2) half an hour after drug administration, (3) two hours after drug administration, (4) five hours after drug administration, (5) eight hours after drug administration, (6) post-test day, (7) retrospective. The total questionnaire score, as well as the score for each scale separately, is computed by simply summing all responses. The LSD effects revealed five different temporal patterns with somatic effects being the earliest and distortion of visual perception having the latest onset.
-Based on factor analysis, four empirical scales were derived (Linton and Langs, 1964). These scales are termed A, B, C, D and comprise a heterogeneous collection of items. While the scale A contains items addressing impaired control of attention, loss of inhibition, elation, and the subjective feeling of the capacity to perceive new meanings, B includes items referring to the loss of contact to the environment, impaired sense of identity, feelings of having lost control over several function, and paranoid ideation. Items of scale C describe alterations in the body image, somatic symptoms as well as inhibitory mental and physical effects. Finally, scale D covers the dimensions of anxiety, fear of losing self-control, and somatic effects (Linton and Langs, 1964).
+
+The Linton & Langs Questionnaire (LLQ) (@Linton1962) fits into the trend of the late 1950s of clinical and observational studies investigating the broad range of subjective phenomena during LSD experience.
+The questionnaire is based on literature research into changes in subjective experience typically reported after LSD administration.
+The development as well as the evaluation of the results was embedded in the framework of ‘Psychoanalytic Theory’.
+Whereas previous research tools like the AQ (Abramson et al., 1955a) focused primarily on the subjective somatic and perceptual experience, the LLQ was designed in order to measure a variety of perceptual, cognitive, affective, and somatic effects of LSD.
+A first collection of items relevant to affect, cognitive functioning, self and body image was used in a pilot study among research colleagues and subsequently adjusted on the basis of their experiences (@Linton1962).
+The questionnaire is comprised of 74 items and has a 17-dimensional structure including twelve major scales, four of which are further subdivided: (1) Difficulty in Thinking, (2) Disturbance of Time Sense, (3) Feeling Inhibited, Slowed Down, (4) Feeling of Loss of Control, (5) Ego-environment Relationship, (A) Closer to Environment, (B) Contact Loss, (C) Ego Change, Alienation, (6) Distortions of Visual Perception, (7) Feeling Less Inhibited, Opened Up, (8) Meaning Changes, (A) New Meaning Acquired, (B) Old Meaning Lost, (9) Feeling of Increased Functioning, (10) Suspiciousness, (11) Bodily Effects, (A) Body Image Change, (B) Somatic Symptoms, (12) Affect Changes, (A) Positive Affect, (B) Negative Affect.
+The scales were defined a priori and the assignment of items was performed based on their estimated relevance to the scales’ functional definition.
+Responses are given on a 3-point scale, ‘0’ indicated a negative answer, ‘0.5’ a partially positive and ‘1’ a positive answer.
+In an initial placebo controlled study, LSD was administered to a group of male professional actors.
+The questionnaire was administered seven times to also monitor the temporal course of the various drug effects (@Linton1962, 1962b): (1) pre-test day, (2) half an hour after drug administration, (3) two hours after drug administration, (4) five hours after drug administration, (5) eight hours after drug administration, (6) post-test day, (7) retrospective.
+The total questionnaire score, as well as the score for each scale separately, is computed by simply summing all responses.
+The LSD effects revealed five different temporal patterns with somatic effects being the earliest and distortion of visual perception having the latest onset.
+Based on factor analysis, four empirical scales were derived (Linton and Langs, 1964).
+These scales are termed A, B, C, D and comprise a heterogeneous collection of items.
+While the scale A contains items addressing impaired control of attention, loss of inhibition, elation, and the subjective feeling of the capacity to perceive new meanings, B includes items referring to the loss of contact to the environment, impaired sense of identity, feelings of having lost control over several function, and paranoid ideation.
+Items of scale C describe alterations in the body image, somatic symptoms as well as inhibitory mental and physical effects.
+Finally, scale D covers the dimensions of anxiety, fear of losing self-control, and somatic effects (Linton and Langs, 1964).
 
 For the LLQ no state-of-the-art reliability and validity measures are available and the questionnaire was not further developed.
-In addition to the assessment of LSD effects (@Linton1962; Johnson, 1969), the LLQ was also used to compare these effects with symptoms of schizophrenia (Langs and Barr, 1968) and to investigate the effects induced by other hallucinogenic substances like tryptamine derivatives (Faillace et al., 1967). However, its application in recent research is quite limited. Particularly the absence of psychometric evaluation discards the LLQ as an adequate tool for cross-study comparisons.
+In addition to the assessment of LSD effects (@Linton1962; Johnson, 1969), the LLQ was also used to compare these effects with symptoms of schizophrenia (Langs and Barr, 1968) and to investigate the effects induced by other hallucinogenic substances like tryptamine derivatives (Faillace et al., 1967).
+However, its application in recent research is quite limited.
+Particularly the absence of psychometric evaluation discards the LLQ as an adequate tool for cross-study comparisons.
 
 ## Near-Death Experience Scale (NDE scale)
-According to @Greyson1983 near-death-experiences (NDE) are a critical marvel to examine, however no acknowledged criterion was established to quantify this phenomenon. Many studies in the past tried to find standard criteria to measure NDE but failed to construct reliable and valid instruments (@Greyson1983). Greyson (1983) discusses an index known as the Weighted Core Experience Index (WCEI), which is based on 10 items to measure NDE, but does not conform to reliability or validity criteria. Moreover, the work of Noyes and colleagues is discussed (@Greyson1983) who developed three clinically relevant factors, obtained from a sample of accident victims and from psychiatric patients. These factors are known as (1) depersonalization, (2) mental clouding, and (3) manifestation of mystical consciousness. The limitation that Noyes’ work rather assesses subjective responses to life threatening danger instead of NDE motivated the development of a new questionnaire. @Greyson1983 developed the NDE scale to differentiate organic brain syndromes from out-of-body experiences and NDEs.
-An initial collection of 80 items was divided into different clusters for (1) Affective States, (2) Thought Content, (3) Thought Processes, (4) Perceptual Content, (5) Perceptual Processing, (6) Bodily Sensation and (7) Miscellaneous. A preliminary 33-item questionnaire was developed including items from the WCEI and Noyes’ three factors. Statistical analysis off the data obtained from subjects with prior NDE reduced the questionnaire to sixteen items, which were assigned to one of four clusters: (1) Cognitive Component, (2) Affective Component, (3) Paranormal Component, or (4) Transcendental Component (Greyson, 1983). Items are rated on a 3-point scale (present, ambiguous/atypical, absent) and cluster as well as total score are computed as the sum of the items scores (Greyson, 1983). 
 
-The NDE full scale Cronbach alpha reliability was reported to be 0.88, while the split-half reliability was 0.92. In addition, test-retest reliability was approximated as 0.92 for the entire NDE scale, thus supporting internal consistency and stability, respectively. Greyson’s final 16-item questionnaire shows high correlations (r = 0.90) with Ring’s WCEI (@Greyson1983).
+According to @Greyson1983 near-death-experiences (NDE) are a critical marvel to examine, however no acknowledged criterion was established to quantify this phenomenon.
+Many studies in the past tried to find standard criteria to measure NDE but failed to construct reliable and valid instruments (@Greyson1983).
+Greyson (1983) discusses an index known as the Weighted Core Experience Index (WCEI), which is based on 10 items to measure NDE, but does not conform to reliability or validity criteria.
+Moreover, the work of Noyes and colleagues is discussed (@Greyson1983) who developed three clinically relevant factors, obtained from a sample of accident victims and from psychiatric patients.
+These factors are known as (1) depersonalization, (2) mental clouding, and (3) manifestation of mystical consciousness.
+The limitation that Noyes’ work rather assesses subjective responses to life threatening danger instead of NDE motivated the development of a new questionnaire.
+@Greyson1983 developed the NDE scale to differentiate organic brain syndromes from out-of-body experiences and NDEs.
+An initial collection of 80 items was divided into different clusters for (1) Affective States, (2) Thought Content, (3) Thought Processes, (4) Perceptual Content, (5) Perceptual Processing, (6) Bodily Sensation and (7) Miscellaneous.
+A preliminary 33-item questionnaire was developed including items from the WCEI and Noyes’ three factors.
+Statistical analysis off the data obtained from subjects with prior NDE reduced the questionnaire to sixteen items, which were assigned to one of four clusters: (1) Cognitive Component, (2) Affective Component, (3) Paranormal Component, or (4) Transcendental Component (Greyson, 1983).
+Items are rated on a 3-point scale (present, ambiguous/atypical, absent) and cluster as well as total score are computed as the sum of the items scores (Greyson, 1983).
+
+The NDE full scale Cronbach alpha reliability was reported to be 0.88, while the split-half reliability was 0.92.
+In addition, test-retest reliability was approximated as 0.92 for the entire NDE scale, thus supporting internal consistency and stability, respectively.
+Greyson’s final 16-item questionnaire shows high correlations (r = 0.90) with Ring’s WCEI (@Greyson1983).
 
 ## The Mysticism Scale (M-Scale)
-The work of @Hood1975 can be seen as the starting point for the modern empirical study of mysticism based on the theoretical framework of W. T. Stace. Stace’s (1960) discussed characteristics for introvertive and extrovertive mysticism and describes characteristics of mystical experiences (Stace, 1960). While Stance had primarily focused on religious mystics, his analyses of mystical experiences have also been extended and applied in the context of states induced by pharmacological induction methods that were said to elicit mystical-type experiences.
-The Mysticism Scale (M-scale) was initially designed to measure lifetime occurrence of mystical experiences and not to quantify features of single mystical experiences. In a slightly revised version it has, however, also been applied for the assessment of single mystical experiences comparable to the Mystical Experiences Questionnaire (MEQ) (See @MacLean2012).
-From an initial pool of 108 items, which were explicitly derived from Stace’s characteristics of mysticism, 32 items were selected. Items are rated on a 5-point scale (@Hood1975).  Always four items – two affirmative, two negating statements – are assigned to each of eight dimensions of mystical experiences: (1) Timelessness, (2) Ego-Loss, (3) Ineffability, (4) Inner subjectivity, (5) Unity – the experience of the world as a unified one, (6) Positive affect, (7) Sacredness, and (8) Noetic quality (@Hood2001). Through factor analyses, three main empirical factors were identified that Hood relates to Stace’s common core thesis, formulated as “extrovertive and introvertive factors emerges separately” (Caird, 1988; Hood et al., 1993). The three factors, (1) Extrovertive Mysticism (2) Introvertive Mysticism, and (3) Religious Interpretation, were also confirmed in different cultural settings, and their relation to the original 8 scales is presented in @Hood2001. According to this structure, scores on the M-Scale are computed for each of the three empirical factors as well as for the full scale and as a sum of item scores. As items in this version are rated on a 9-point scale, the score ranges from 32 to 288 (@Hood2001).
 
-Hood also presented a modified version of the M-Scale (Hood, 1977) to assess a particular mystical experience (Further referred to as ‘single-experience M-Scale’). In this version, the verb tense is changed, e.g. ‘I have had an experience which I knew to be sacred’ to ‘I had an experience which I knew to be sacred’ (@MacLean2012) 
-When applied as single-experience M-Scale, Cronbach’s alpha reliability of the full scale (0.93) and individual factors (Extrovertive Mysticism = 0.88, Introvertive Mysticism = 0.84, and  Interpretation = 0.86) were reported (@MacLean2012). 
+The work of @Hood1975 can be seen as the starting point for the modern empirical study of mysticism based on the theoretical framework of W.
+T. Stace.
+Stace’s (1960) discussed characteristics for introvertive and extrovertive mysticism and describes characteristics of mystical experiences (Stace, 1960).
+While Stance had primarily focused on religious mystics, his analyses of mystical experiences have also been extended and applied in the context of states induced by pharmacological induction methods that were said to elicit mystical-type experiences.
+The Mysticism Scale (M-scale) was initially designed to measure lifetime occurrence of mystical experiences and not to quantify features of single mystical experiences.
+In a slightly revised version it has, however, also been applied for the assessment of single mystical experiences comparable to the Mystical Experiences Questionnaire (MEQ) (See @MacLean2012).
+From an initial pool of 108 items, which were explicitly derived from Stace’s characteristics of mysticism, 32 items were selected.
+Items are rated on a 5-point scale (@Hood1975).
+Always four items – two affirmative, two negating statements – are assigned to each of eight dimensions of mystical experiences: (1) Timelessness, (2) Ego-Loss, (3) Ineffability, (4) Inner subjectivity, (5) Unity – the experience of the world as a unified one, (6) Positive affect, (7) Sacredness, and (8) Noetic quality (@Hood2001).
+Through factor analyses, three main empirical factors were identified that Hood relates to Stace’s common core thesis, formulated as “extrovertive and introvertive factors emerges separately” (Caird, 1988; Hood et al., 1993).
+The three factors, (1) Extrovertive Mysticism (2) Introvertive Mysticism, and (3) Religious Interpretation, were also confirmed in different cultural settings, and their relation to the original 8 scales is presented in @Hood2001.
+According to this structure, scores on the M-Scale are computed for each of the three empirical factors as well as for the full scale and as a sum of item scores.
+As items in this version are rated on a 9-point scale, the score ranges from 32 to 288 (@Hood2001).
 
-As the M-scale in its original form aims to quantify the occurrence of mystical experiences across a lifetime, it is not an instrument to assess acute states. Accordingly, it was mostly used in group studies to quantify the amount of such experiences, also in cross-cultural settings (@Hood2001). 
-The single-experience M-Scale could by contrast also be applied in work on the experimental induction of ASCs, however, data is rare (Griffiths et al., 2006; @MacLean2012). In the empirical study of ASCs, the MEQ has found a broader application and the M-scale does not contribute much to comparability between studies.
+Hood also presented a modified version of the M-Scale (Hood, 1977) to assess a particular mystical experience (Further referred to as ‘single-experience M-Scale’).
+In this version, the verb tense is changed, e.g. ‘I have had an experience which I knew to be sacred’ to ‘I had an experience which I knew to be sacred’ (@MacLean2012) When applied as single-experience M-Scale, Cronbach’s alpha reliability of the full scale (0.93) and individual factors (Extrovertive Mysticism = 0.88, Introvertive Mysticism = 0.84, and Interpretation = 0.86) were reported (@MacLean2012).
+
+As the M-scale in its original form aims to quantify the occurrence of mystical experiences across a lifetime, it is not an instrument to assess acute states.
+Accordingly, it was mostly used in group studies to quantify the amount of such experiences, also in cross-cultural settings (@Hood2001).
+The single-experience M-Scale could by contrast also be applied in work on the experimental induction of ASCs, however, data is rare (Griffiths et al., 2006; @MacLean2012).
+In the empirical study of ASCs, the MEQ has found a broader application and the M-scale does not contribute much to comparability between studies.
 
 ## Personal Experiences Questionnaire (PEQ)
-The Personal Experience Questionnaire (PEQ) was designed by Ronald Shor to investigate the frequency and the intensity of ‘hypnotic-like’ experiences occurring in the ‘normal course of life’ (@Shor1960). An initial long form of the PEQ consisted of 149 items (Shor et al., 1962) that was, however, reduced to 44 items for its latest version, also referred to as short form. The items address the appearance of particular experiences such as ‘thinking of nothing’ or, ‘staring into space’, to test for ASC phenomena such as absorption and dissociation. Besides the mere quantification of such events over a lifetime, it was also supposed to predict hypnotizability (Shor et al., 1962).
-The PEQ consists of 44 items describing ‘hypnotic-like’ experiences in everyday life. In a yes/no-response format, subjects are asked to report if they have ever had the requested experience. Only if the subject feels that a yes/no-response is inappropriate, additional information is supposed to be given in an open response format. Thereby, the questionnaire allows different ways to evaluate the data, e.g. @Shor1960 presented the frequency of natural occurrence.
 
-Response consistency and internal consistency of the PEQ are reported to be high (0.90 to 0.96, p< 0.01, (Shor et al., 1966)). Based on data from London and colleagues (London et al., 1962), test-retest reliability was assessed over a 3-week interval resulting in a reliability coefficient of  0.94, p<0.01  (Shor et al., 1966).
-The PEQ did not find a major dissemination in the literature. It could however form a reference for the development of future studies aiming to establish the relationship between particular trait-personality scores (e.g. frequency of naturally occurring ASC phenomena) and the prediction of a response to a particular induction method for ASCs (e.g. hallucinogens or meditation).
+The Personal Experience Questionnaire (PEQ) was designed by Ronald Shor to investigate the frequency and the intensity of ‘hypnotic-like’ experiences occurring in the ‘normal course of life’ (@Shor1960).
+An initial long form of the PEQ consisted of 149 items (Shor et al., 1962) that was, however, reduced to 44 items for its latest version, also referred to as short form.
+The items address the appearance of particular experiences such as ‘thinking of nothing’ or, ‘staring into space’, to test for ASC phenomena such as absorption and dissociation.
+Besides the mere quantification of such events over a lifetime, it was also supposed to predict hypnotizability (Shor et al., 1962).
+The PEQ consists of 44 items describing ‘hypnotic-like’ experiences in everyday life.
+In a yes/no-response format, subjects are asked to report if they have ever had the requested experience.
+Only if the subject feels that a yes/no-response is inappropriate, additional information is supposed to be given in an open response format.
+Thereby, the questionnaire allows different ways to evaluate the data, e.g. @Shor1960 presented the frequency of natural occurrence.
 
+Response consistency and internal consistency of the PEQ are reported to be high (0.90 to 0.96, p\< 0.01, (Shor et al., 1966)).
+Based on data from London and colleagues (London et al., 1962), test-retest reliability was assessed over a 3-week interval resulting in a reliability coefficient of 0.94, p\<0.01 (Shor et al., 1966).
+The PEQ did not find a major dissemination in the literature.
+It could however form a reference for the development of future studies aiming to establish the relationship between particular trait-personality scores (e.g. frequency of naturally occurring ASC phenomena) and the prediction of a response to a particular induction method for ASCs (e.g. hallucinogens or meditation).
 
+## Assessment Schedule of Altered States for Consciousness (ASACS)
 
-## Assessment Schedule of Altered States for Consciousness (ASACS) 
-The Assessment Schedule of Altered States of Consciousness (ASASC; original German: Erfassungssystem veränderter Bewusstseinszustände (EVB)) was developed in the context of a research project investigating the aftereffects of NDEs (@vanQuekelberghe1991; @Yeginer2000). Whereas ASCs are sometimes described in relation to psychiatric disorders (See Epg Psychopahtology Inventory), van Quekelberghe and colleagues regard these phenomena as common everyday life experiences. As opposed to C. T. Tart’s definition of ASCs as “radically different” state (Tart, 1975), Ludwig’s broad definition as any “sufficient deviation in subjective experience” (Ludwig, 1966) was seen as accounting for this view and constitutes the theoretical basis of this questionnaire (@vanQuekelberghe1991).
-By providing a research tool that assesses recalled rather than currently experienced ASCs independent of stimulus and situation, it was intended to survey a wide range of different kinds of ASCs and related phenomena. Moreover, it was explicitly avoided to evaluate these experiences as pathological (@vanQuekelberghe1991). In contrast to questionnaires that assess the acute effects of a single experimentally induced ASC, the ASASC addresses frequency and intensity of induced and spontaneously occurring alterations of consciousness across a lifetime (@vanQuekelberghe1991). Although including a substantial amount of state-specific items, the ASASC primarily focuses on general dispositions, e.g. to imagination, absorption as well as the experience of parapsychological phenomena.
-Based on Ludwig’s theoretical framework, 14 a priori scales were defined: Personal data (F1) Demographic Data, (A2) Extraordinary Mental Processes, (P3) Parapsychology Experiences, (P4) Parapsychology Attitude, (E5) Esoterics, (M6) Positive Mystic Experiences, (M7) Negative Mystic Experiences, (I8) Imagination, (T9) Dreams, (D10) Dissociation, (H11) Hallucinations, (H12) Hypersensitiveness, (Z13) Changed Feeling of Time and Space, and (C14) Change. Factor analysis and subsequent adjustments finally led to a satisfactory grouping of items resulting in the 325-item ASASC (@VanQuekelberghe1992). A 128-item short form of the EVB is available (@VanQuekelberghe1992; @Yeginer2000). An additional short form was developed by extension of the D10 and Z13 scale to provide a flexible, easily adaptable instrument (@VanQuekelberghe1991, @VanQuekelberghe1992). Both the English version ASASC-D10 ERW and the German version EVB-D10 ERW include 60 items, which, however, are arranged in different order. The items are clustered in five a priori scales: (1) Suggestibility, (2) Trance, (3) Absorption, (4) Flow, (5) Dissociation (internal, external, body, person). 
+The Assessment Schedule of Altered States of Consciousness (ASASC; original German: Erfassungssystem veränderter Bewusstseinszustände (EVB)) was developed in the context of a research project investigating the aftereffects of NDEs (@vanQuekelberghe1991; @Yeginer2000).
+Whereas ASCs are sometimes described in relation to psychiatric disorders (See Epg Psychopahtology Inventory), van Quekelberghe and colleagues regard these phenomena as common everyday life experiences.
+As opposed to C.
+T. Tart’s definition of ASCs as “radically different” state (Tart, 1975), Ludwig’s broad definition as any “sufficient deviation in subjective experience” (Ludwig, 1966) was seen as accounting for this view and constitutes the theoretical basis of this questionnaire (@vanQuekelberghe1991).
+By providing a research tool that assesses recalled rather than currently experienced ASCs independent of stimulus and situation, it was intended to survey a wide range of different kinds of ASCs and related phenomena.
+Moreover, it was explicitly avoided to evaluate these experiences as pathological (@vanQuekelberghe1991).
+In contrast to questionnaires that assess the acute effects of a single experimentally induced ASC, the ASASC addresses frequency and intensity of induced and spontaneously occurring alterations of consciousness across a lifetime (@vanQuekelberghe1991).
+Although including a substantial amount of state-specific items, the ASASC primarily focuses on general dispositions, e.g. to imagination, absorption as well as the experience of parapsychological phenomena.
+Based on Ludwig’s theoretical framework, 14 a priori scales were defined: Personal data (F1) Demographic Data, (A2) Extraordinary Mental Processes, (P3) Parapsychology Experiences, (P4) Parapsychology Attitude, (E5) Esoterics, (M6) Positive Mystic Experiences, (M7) Negative Mystic Experiences, (I8) Imagination, (T9) Dreams, (D10) Dissociation, (H11) Hallucinations, (H12) Hypersensitiveness, (Z13) Changed Feeling of Time and Space, and (C14) Change.
+Factor analysis and subsequent adjustments finally led to a satisfactory grouping of items resulting in the 325-item ASASC (@VanQuekelberghe1992).
+A 128-item short form of the EVB is available (@VanQuekelberghe1992; @Yeginer2000).
+An additional short form was developed by extension of the D10 and Z13 scale to provide a flexible, easily adaptable instrument (@vanQuekelberghe1991, @VanQuekelberghe1992).
+Both the English version ASASC-D10 ERW and the German version EVB-D10 ERW include 60 items, which, however, are arranged in different order.
+The items are clustered in five a priori scales: (1) Suggestibility, (2) Trance, (3) Absorption, (4) Flow, (5) Dissociation (internal, external, body, person).
 
-Initial evaluation of its psychometric features revealed good reliability with Cronbach’s alpha coefficients between 0.80 (E5) and 0.98 (M6). Guttman split-half coefficients ranged between 0.81 (E5, C14) and 0.96 (M6) (@VanQuekelberghe1991). 
-The ASASC rather maps stable tendencies of imagination, absorption, and cognitive alterations and is, hence, suitable to assess the natural variability in the normal waking consciousness. However, its use for the assessment of experimentally induced ASCs is limited. Moreover, the reduced number of items in the 128-item short form, e.g. I8 comprises only 5 items, affects its reliability and thus the comparability to the 325-item version. Consequently, this questionnaire does not meet the requirements for a meta-analytical approach.
-
-
-
+Initial evaluation of its psychometric features revealed good reliability with Cronbach’s alpha coefficients between 0.80 (E5) and 0.98 (M6).
+Guttman split-half coefficients ranged between 0.81 (E5, C14) and 0.96 (M6) (@vanQuekelberghe1991).
+The ASASC rather maps stable tendencies of imagination, absorption, and cognitive alterations and is, hence, suitable to assess the natural variability in the normal waking consciousness.
+However, its use for the assessment of experimentally induced ASCs is limited.
+Moreover, the reduced number of items in the 128-item short form, e.g.
+I8 comprises only 5 items, affects its reliability and thus the comparability to the 325-item version.
+Consequently, this questionnaire does not meet the requirements for a meta-analytical approach.
 
 ## Addiction Research Center Inventory (ARCI)
-The ARCI has been developed by @Haertzen1963 in the attempt to measure a broad range of physical, emotive, and cognitive effects of different drugs and subjective experiences related to personality and psychiatric disorders (@Haertzen1963; @Haertzen1987). Items were derived from responses of opiate addicts made in a sentence completion task during baseline, and various drug states and supplemented with items from personality inventories (@Haertzen1963; @Haertzen1974). A pool of 3300 statements was reduced to a set of 550 true-false items (ARCI long-form) and assigned to five categories: (1) general information, (2) interest and drives, (3) sensation and perception, (4) bodily symptoms and processes, and (5) feelings and attitudes (Haertzen, 1974). Items are mainly phrased in present tense in order to refer to an acute state (@Haertzen1963). Thirty additional items, repeating prior statements in the same or logically opposite form, were included to test for cooperation or carelessness (@Haertzen1987).
-To diagnostically differentiate between states, Haertzen and colleagues developed multiple scales to dissociate specific drug intoxications as well as psychiatric conditions (@Hill1963a, @Hill1963b; @Haertzen1974). A final 38-scales scoring system for the 550-item long form of the ARCI was established (@Haertzen1974). Amon those various empirical scales were derived with a focus on state-specific effects (@Haertzen1974).
-As the ARCI was not necessarily intended to be applied in its entirety, many studies used only some scales relevant to their specific hypotheses (e.g. @Jasinski1971). The most established short form developed by @Martin1971 consists of 49 items that are clustered into five group variability scales: the Benzedrine scale (BG), the Lysergic Acid Diethylamide scale (LSD), the Morphine-Benzedrine and (MBG), and the Pentobarbital-Chlorpromazine-Alcohol scale (PCAG) of the ARCI long form supplemented with the empirically derived 11-item Amphetamine scale (A). Among the plurality of short forms is this the most commonly used questionnaire in current studies (e.g. @Griffiths2006; @Schmid2015).
 
-Reliability assessments in five sample populations (criminals, addicts, alcoholics, mentally ill patients, normal population) yielded Kuder-Richardson KR-20 scores for each of the 38 scales (Haertzen, 1970). As the internal consistency demonstrated a large range from 0.06 (Marijuana scale in normal population) to 0.97 (Reactivity in alcoholic sample), the utility of some scales appears rather questionable. In addition, test-retest reliability was assessed (Haertzen, 1970). Several further studies evaluated the psychometric properties of the short form in different languages (@Lamas1994; @arasteh1999; @Riba2001). Acceptable reliability coefficients are particularly obtained for the Spanish version.
-Both long and short form have been translated and validated from English into multiple languages: long form: German, French, Spanish, Swedish (@Haertzen1974); short form: Spanish (@Lamas1994; @arasteh1999), French (@Warot1997). Through its availability in different languages, the ARCI was a common instrument to measure drug effects both in clinical settings and experimental research, e.g. including studies on ayahuasca (@Riba2001). As the long form is very time-demanding, the short form (@Martin1971) is more feasible. In particular, its Spanish translation (@Lamas1994) found wide-spread application and has been assessed in terms of psychometric features. However, a recent exploratory factor analysis performed on data from 158 ayahuasca practitioners suggests a three-factor (Euphoria, Activation, Sedation) structure comprising only 18 of the 49 items (@bouso2016). Another limitation is the application of a dichotomous response format. The use of categorical responses instead of individual intensity ratings precludes any correlational analysis, which is, however, often required in experimental research to establish direct relations between the subjective experience and physiologic measures. 
+The ARCI has been developed by @Haertzen1963 in the attempt to measure a broad range of physical, emotive, and cognitive effects of different drugs and subjective experiences related to personality and psychiatric disorders (@Haertzen1963; @Haertzen1987).
+Items were derived from responses of opiate addicts made in a sentence completion task during baseline, and various drug states and supplemented with items from personality inventories (@Haertzen1963; @Haertzen1974).
+A pool of 3300 statements was reduced to a set of 550 true-false items (ARCI long-form) and assigned to five categories: (1) general information, (2) interest and drives, (3) sensation and perception, (4) bodily symptoms and processes, and (5) feelings and attitudes (Haertzen, 1974).
+Items are mainly phrased in present tense in order to refer to an acute state (@Haertzen1963).
+Thirty additional items, repeating prior statements in the same or logically opposite form, were included to test for cooperation or carelessness (@Haertzen1987).
+To diagnostically differentiate between states, Haertzen and colleagues developed multiple scales to dissociate specific drug intoxications as well as psychiatric conditions (@Hill1963a, @Hill1963b; @Haertzen1974).
+A final 38-scales scoring system for the 550-item long form of the ARCI was established (@Haertzen1974).
+Amon those various empirical scales were derived with a focus on state-specific effects (@Haertzen1974).
+As the ARCI was not necessarily intended to be applied in its entirety, many studies used only some scales relevant to their specific hypotheses (e.g. @Jasinski1971).
+The most established short form developed by @Martin1971 consists of 49 items that are clustered into five group variability scales: the Benzedrine scale (BG), the Lysergic Acid Diethylamide scale (LSD), the Morphine-Benzedrine and (MBG), and the Pentobarbital-Chlorpromazine-Alcohol scale (PCAG) of the ARCI long form supplemented with the empirically derived 11-item Amphetamine scale (A).
+Among the plurality of short forms is this the most commonly used questionnaire in current studies (e.g. @Griffiths2006; @Schmid2015).
+
+Reliability assessments in five sample populations (criminals, addicts, alcoholics, mentally ill patients, normal population) yielded Kuder-Richardson KR-20 scores for each of the 38 scales (Haertzen, 1970).
+As the internal consistency demonstrated a large range from 0.06 (Marijuana scale in normal population) to 0.97 (Reactivity in alcoholic sample), the utility of some scales appears rather questionable.
+In addition, test-retest reliability was assessed (Haertzen, 1970).
+Several further studies evaluated the psychometric properties of the short form in different languages (@Lamas1994; @arasteh1999; @Riba2001).
+Acceptable reliability coefficients are particularly obtained for the Spanish version.
+Both long and short form have been translated and validated from English into multiple languages: long form: German, French, Spanish, Swedish (@Haertzen1974); short form: Spanish (@Lamas1994; @arasteh1999), French (@Warot1997).
+Through its availability in different languages, the ARCI was a common instrument to measure drug effects both in clinical settings and experimental research, e.g. including studies on ayahuasca (@Riba2001).
+As the long form is very time-demanding, the short form (@Martin1971) is more feasible.
+In particular, its Spanish translation (@Lamas1994) found wide-spread application and has been assessed in terms of psychometric features.
+However, a recent exploratory factor analysis performed on data from 158 ayahuasca practitioners suggests a three-factor (Euphoria, Activation, Sedation) structure comprising only 18 of the 49 items (@bouso2016).
+Another limitation is the application of a dichotomous response format.
+The use of categorical responses instead of individual intensity ratings precludes any correlational analysis, which is, however, often required in experimental research to establish direct relations between the subjective experience and physiologic measures.
