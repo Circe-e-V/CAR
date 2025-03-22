@@ -11,6 +11,7 @@ site: bookdown::bookdown_site
 # Preface {-}
 
 Welcome to this project of CIRCE e.V. - Collaboration for Research on Conscious Experiences.
+
 We are a collective of researchers who aim to promote research on Altered States of Consciousness (ASC). In this open book project, we gather information on questionnaire tools to assess subjective experiences during ASCs. This collection is set up as a bookdwon (gitbook) project and will undergo continous updates. Note: This book is work in progress - we are keeping a ToDo-List at the end of this book in which we list further improvements. In example we plan to supplement original questionnaires and analysis tools. This might include printable PDFs as well as implementations in different programming languages.
 
 If you are interested in contributing to this collection, you can get in touch with the CIRCE team (contact Dr. Timo T. Schmidt who is currently the main responsible person for this collection).
